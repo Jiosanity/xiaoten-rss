@@ -1,2 +1,109 @@
-# xiaoten-rss
-小十友圈RSS聚合工具
+# 友链RSS聚合系统
+
+一个自动从友链页面和手动配置的链接中获取RSS源，进行聚合并生成`data.json`的系统。
+# 友链RSS聚合系统
+
+这是一个轻量的 RSS 聚合工具，它会从「友链页面」与配置的手动友链中发现 RSS/Atom 源，抓取并聚合文章，最终输出一个可供前端或静态站点使用的 `data.json`。
+
+核心功能（最新）
+- 从友链页面按 CSS 规则自动提取站点链接
+- 支持手动添加友链并可配置自定义 feed 后缀（如 `rss`、`rss.xml` 等）
+- 自动发现并验证常见 Feed 后缀
+- 黑名单 / 白名单站点过滤
+- 支持不限制过期文章（`OUTDATE_CLEAN: 0` 表示不过滤）
+- 为每篇文章提供发布时间 `pub_date` 与更新时间 `updated_at`
+- 在最终输出中包含抓取失败的站点列表 `failed_sites`（含失败原因）
+- 支持 GitHub Actions 定时运行（例如每 6 小时）
+
+最小文件清单（保留）
+- `main.py` — 主程序
+- `setting.yaml` — 配置
+- `requirements.txt` — 依赖
+- `README.md` — 本说明（你现在正在查看）
+- `data.json` — 输出（程序运行后生成/更新）
+
+快速使用
+1. 克隆并进入仓库
+
+```powershell
+git clone <your-repo-url>
+cd friend-rss
+```
+
+2. 安装依赖
+
+```powershell
+pip install -r requirements.txt
+```
+
+3. 运行聚合
+
+```powershell
+python main.py
+```
+
+程序运行结束后会在仓库根目录写入或更新 `data.json`。
+
+配置要点（`setting.yaml`）
+- `LINK`：存放要爬取友链页面的 URL 列表
+- `link_page_rules`：CSS 选择器规则，用于提取友链页面中的姓名/链接/头像
+- `SETTINGS_FRIENDS_LINKS`：手动友链列表，格式为 `[name, url, avatar, optional_feed_suffix]`；若填写了 `feed_suffix`，程序会直接用拼接后的 URL 去尝试抓取（可绕过自动发现逻辑）
+- `BLOCK_SITE` / `BLOCK_SITE_REVERSE`：黑/白名单规则（支持正则）
+- `feed_suffix`：默认尝试的一组常见后缀
+- `MAX_POSTS_NUM`：每站点最多保留的帖子数（0 表示不限制）
+- `OUTDATE_CLEAN`：过期清理天数，设为 `0` 表示不限制（保留所有历史文章）
+
+输出格式（`data.json`）— 重要字段说明
+
+主要结构：
+
+```json
+{
+  "updated_at": "2025-11-14T22:08:12.876043",
+  "total_sites": 22,
+  "total_posts": 199,
+  "sites": [
+    {
+      "name": "站点名称",
+      "url": "https://example.com/",
+      "avatar": "https://example.com/avatar.png",
+      "feed_url": "https://example.com/feed",
+      "posts": [
+        {
+          "title": "文章标题",
+          "link": "https://example.com/article",
+          "description": "文章摘要",
+          "pub_date": "2025-11-14T10:00:00",
+          "updated_at": "2025-11-14T10:00:00",
+          "author": "作者",
+          "site_name": "站点名称",
+          "site_url": "https://example.com/",
+          "avatar": "https://example.com/avatar.png"
+        }
+      ]
+    }
+  ],
+  "all_posts": [ /* 按时间倒序的所有文章 */ ],
+  "failed_sites": [
+    { "name": "灰常记忆", "url": "https://bestcherish.com/", "feed_url": "https://bestcherish.com/feed", "reason": "HTTP 520" }
+  ]
+}
+```
+
+关于 `failed_sites`
+- 程序会把“未找到 feed”或“尝试抓取 feed 失败（如 HTTP 错误、超时、解析异常）”的站点记录到 `failed_sites`，包含 `reason` 字段，便于后续排查或人工干预（例如把真实 feed 写入配置）。
+
+在 GitHub 上自动化运行
+- 项目包含一个 Actions workflow（`.github/workflows/aggregate-rss.yml`），示例设为每 6 小时运行一次。工作流会拉取仓库、安装依赖、运行脚本并提交 `data.json` 的变化。
+
+后续计划与建议
+- 若某些站点在自动运行环境返回错误（例如 HTTP 520），可以：
+  - 在 `SETTINGS_FRIENDS_LINKS` 里把 `feed_url` 或 `feed_suffix` 配置为完整可用的地址；
+  - 在运行环境使用不同网络（本地或 GitHub Actions runner）或代理；
+  - 为特定站点增加备用请求头或重试策略（我可以帮你加入）。
+
+许可协议
+- MIT
+
+欢迎你把本仓库开源到 GitHub，我可以接着帮你：更新 README、添加 Action 工作流说明、并草拟一篇用于技术博客的文章草稿，包含实现要点与架构说明。
+## 数据格式
