@@ -1,7 +1,4 @@
-# 友链RSS聚合系统
-
-一个自动从友链页面和手动配置的链接中获取RSS源，进行聚合并生成`data.json`的系统。
-# 友链RSS聚合系统
+# 小十友圈RSS聚合工具
 
 这是一个轻量的 RSS 聚合工具，它会从「友链页面」与配置的手动友链中发现 RSS/Atom 源，抓取并聚合文章，最终输出一个可供前端或静态站点使用的 `data.json`。
 
@@ -84,8 +81,8 @@ python main.py
     }
   ],
   "all_posts": [ /* 按时间倒序的所有文章 */ ],
-  "failed_sites": [
-    { "name": "灰常记忆", "url": "https://bestcherish.com/", "feed_url": "https://bestcherish.com/feed", "reason": "HTTP 520" }
+  "failed_sites": [ /* 获取失败的站点清单 */
+    { "name": "站点名称", "url": "https://example.com/", "feed_url": "https://example.com/feed", "reason": "HTTP 520" }
   ]
 }
 ```
@@ -96,14 +93,4 @@ python main.py
 在 GitHub 上自动化运行
 - 项目包含一个 Actions workflow（`.github/workflows/aggregate-rss.yml`），示例设为每 6 小时运行一次。工作流会拉取仓库、安装依赖、运行脚本并提交 `data.json` 的变化。
 
-后续计划与建议
-- 若某些站点在自动运行环境返回错误（例如 HTTP 520），可以：
-  - 在 `SETTINGS_FRIENDS_LINKS` 里把 `feed_url` 或 `feed_suffix` 配置为完整可用的地址；
-  - 在运行环境使用不同网络（本地或 GitHub Actions runner）或代理；
-  - 为特定站点增加备用请求头或重试策略（我可以帮你加入）。
 
-许可协议
-- MIT
-
-欢迎你把本仓库开源到 GitHub，我可以接着帮你：更新 README、添加 Action 工作流说明、并草拟一篇用于技术博客的文章草稿，包含实现要点与架构说明。
-## 数据格式
