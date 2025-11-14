@@ -493,12 +493,20 @@ class DataAggregator:
                 if self.cutoff_time is not None and pub_time < self.cutoff_time:
                     continue
                 
-                # 获取更新时间（优先使用updated_parsed，否则使用pub_time）
-                update_time = None
-                if hasattr(entry, 'updated_parsed') and entry.updated_parsed:
-                    update_time = datetime(*entry.updated_parsed[:6])
-                else:
-                    update_time = pub_time
+                # 获取更新时间
+                def get_entry_time(entry, field_priority):
+                    """从entry对象中按优先级获取时间"""
+                    for field in field_priority:
+                        if hasattr(entry, field) and getattr(entry, field):
+                            try:
+                                return datetime(*getattr(entry, field)[:6])
+                            except Exception:
+                                continue
+                    return datetime.now()
+                
+                # 在aggregate_feed方法中：
+                pub_time = get_entry_time(entry, ['published_parsed', 'updated_parsed', 'created_parsed'])
+                update_time = get_entry_time(entry, ['updated_parsed', 'published_parsed', 'created_parsed'])
                 
                 post = {
                     'title': entry.get('title', '无标题'),
@@ -758,3 +766,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
