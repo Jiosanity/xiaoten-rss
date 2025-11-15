@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-15T02:26:41.489367+08:00",
+  "updated_at": "2025-11-15T09:21:06.418359+08:00",
   "total_sites": 21,
-  "total_posts": 199,
+  "total_posts": 200,
   "sites": [
     {
       "name": "Wandai Blog",
@@ -1793,6 +1793,17 @@
       "feed_url": "https://veryjack.com/feed",
       "posts": [
         {
+          "title": "一元 kimi 加上 Claude Code，真香",
+          "link": "https://veryjack.com/technique/kimi_plus_claudecode/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6553 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/11/cover_kimi_plus_claudecode-1024x576.webp\" width=\"1024\" /><p>近日发布的 kimi-k2-thinking 开源模型，在能力上又实现了一次不小的提升。恰逢 Kimi 推出了一个砍价活动，原价 49 元/月的套餐，最低能以 1 元的价格开通首月体验。1 元的 Kimi，再配上 Claude Code，就能组合出一套颇具性价比的平价方案。这篇文章分享一下我是如何快速砍价，以及如何配置 Claude Code 以调用 Kimi 最新模型的。</p>\n<p><a href=\"https://veryjack.com/technique/kimi_plus_claudecode/\">一元 kimi 加上 Claude Code，真香</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-11-15T09:00:00+08:00",
+          "updated_at": "2025-11-15T09:00:00+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://veryjack.com/wp-content/uploads/2025/05/avatar_transparant-150x150.webp"
+        },
+        {
           "title": "那些年，我看过的电影",
           "link": "https://veryjack.com/life/movies_i_watched/",
           "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6508 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/11/movies_i_watched_cover-1024x576.webp\" width=\"1024\" /><p>以前我也十分热爱看电影。大学时的周末，我会独自坐上一个多小时的地铁，只为去最近的影院看一场影片。然而这几年，不知是生活压力大了，还是好片子确实越来越少，我很少再踏入电影院。前几天在 V2EX 上刷到一篇帖子，大家在分享各自喜爱的电影，一下子勾起了我过去观影的回忆，也让我情不自禁地在记忆中搜寻起那些曾令我难忘的作品。</p>\n<p><a href=\"https://veryjack.com/life/movies_i_watched/\">那些年，我看过的电影</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
@@ -2359,6 +2370,17 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "一元 kimi 加上 Claude Code，真香",
+      "link": "https://veryjack.com/technique/kimi_plus_claudecode/",
+      "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6553 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/11/cover_kimi_plus_claudecode-1024x576.webp\" width=\"1024\" /><p>近日发布的 kimi-k2-thinking 开源模型，在能力上又实现了一次不小的提升。恰逢 Kimi 推出了一个砍价活动，原价 49 元/月的套餐，最低能以 1 元的价格开通首月体验。1 元的 Kimi，再配上 Claude Code，就能组合出一套颇具性价比的平价方案。这篇文章分享一下我是如何快速砍价，以及如何配置 Claude Code 以调用 Kimi 最新模型的。</p>\n<p><a href=\"https://veryjack.com/technique/kimi_plus_claudecode/\">一元 kimi 加上 Claude Code，真香</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+      "pub_date": "2025-11-15T09:00:00+08:00",
+      "updated_at": "2025-11-15T09:00:00+08:00",
+      "author": "阿杰 Jack",
+      "site_name": "Jack's Space",
+      "site_url": "https://veryjack.com/",
+      "avatar": "https://veryjack.com/wp-content/uploads/2025/05/avatar_transparant-150x150.webp"
+    },
     {
       "title": "借助Github Action实现友圈动态自动获取——小十友圈RSS聚合工具",
       "link": "https://www.xiaoten.com/posts/2025/11/automating-friend-circle-updates-with-git-hub-actions-the-xiaoten-rss-aggregator/",
