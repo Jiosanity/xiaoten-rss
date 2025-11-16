@@ -44,6 +44,7 @@ SETTINGS_FRIENDS_LINKS:
     - ["故事的程序猿", "https://blog.lichenghao.cn/", "https://blog.lichenghao.cn/avatar.svg", "article/rss.xml"]
     - ["小白大学渣", "https://www.baihub.cn/", "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"]
     - ["旺东自留地", "https://wang618.cn/", "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp", "rss.php"]
+    - ["雅余", "https://yayu.net/", "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png", "feed"]
 
 
 
@@ -97,3 +98,4 @@ REQUEST_RETRIES: 1
 ## 重试退避系数（秒）
 
 RETRY_BACKOFF: 0.3
+
