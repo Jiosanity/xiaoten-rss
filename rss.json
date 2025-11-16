@@ -1,27 +1,8 @@
 {
-  "updated_at": "2025-11-16T23:00:37.127661+08:00",
+  "updated_at": "2025-11-16T23:23:11.573385+08:00",
   "total_sites": 21,
   "total_posts": 203,
   "sites": [
-    {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://gravatar.memobbs.app/avatar/ba83fa02fc4b2ba621514941307e21be?s=80",
-      "feed_url": "https://immmmm.com/feed",
-      "posts": [
-        {
-          "title": "Lucky-canvas 抽奖插件折腾记",
-          "link": "https://immmmm.com/lucky-everday/",
-          "description": "<p>基于 <a href=\"https://github.com/buuing/lucky-canvas\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">「Lucky-canvas」</a> 抽奖插件，借助 <a href=\"https://www.trae.ai/\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">字节跳动 trae</a> 做了个大转盘，全屏显示、替换背景、概率设置、一键导入、边框修改等能想到的和需要的功能都已实现，效果远超预期。</p>\n<p>体验地址：<a href=\"https://immmmm.com/dzp/\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">https://immmmm.com/dzp/</a></p>\n<h3 id=\"使用手册-\">使用手册 📚</h3>\n<p>1.打开网址， 右下角“全屏按钮”，右上角是“设置入口”。点击中间开始转动，结束时会弹出中奖内容，并伴有撒花。</p>\n<p>2.右上角点击进入“设置”。首次打开，点击安装字体“Aa 年度最可爱”。</p>\n<p>3.设置分层两列，左侧显示的奖项名称、中奖概率，可以直接修改或删除。说明：某一奖项的数值是这一项中奖率的“分子”，所有数值总和是“分母”。如“棒棒糖”的中奖率设置的 15，则中奖率是</p>\n<p><code>15/（10+10+……+15+10+10+5）</code></p>\n<p>4.左侧奖项列表下方是 4 个按钮。顾名思义，第 1、2、4 项试试就知。说明一下第 3 项“上传配置”，采用了“上传 txt 文件，一行一条内容”的形式，一键导入。如：本地新建了以下内容「姓氏+空格+中奖数值」</p>\n<div class=\"highlight\"><pre tabindex=\"0\"><code class=\"language-js\"><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">张</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">王</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">李</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">田</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">柳</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">石</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span></code></pre></div><p>点击“上传配置”，选择 txt 文件，导入即可。所以，如果要换电脑快速导入，只要编辑保存好自己的“奖项.txt”到别的电脑，导入即可。</p>\n<p>5.配置右侧，点击可更改转盘配色、指针、内外层转盘背景。</p>\n<p><em>随心搭配，换着玩儿～</em></p>\n<h3 id=\"致谢\">致谢</h3>\n<p><a href=\"https://taoshu.in/web/lucky-canvas.html#%E8%80%81%E8%99%8E%E6%9C%BA\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">抽奖组件 lucky-canvas 素材大全</a></p>\n<p>🎉</p>",
-          "pub_date": "2025-05-31T12:02:58+08:00",
-          "updated_at": "2025-05-31T12:02:58+08:00",
-          "author": "林木木",
-          "site_name": "木木木木木",
-          "site_url": "https://immmmm.com/",
-          "avatar": "https://gravatar.memobbs.app/avatar/ba83fa02fc4b2ba621514941307e21be?s=80"
-        }
-      ]
-    },
     {
       "name": "Wandai Blog",
       "url": "https://twd2.me/",
@@ -141,6 +122,32 @@
       ]
     },
     {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://gravatar.memobbs.app/avatar/ba83fa02fc4b2ba621514941307e21be?s=80",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": [
+        {
+          "title": "Lucky-canvas 抽奖插件折腾记",
+          "link": "https://immmmm.com/lucky-everday/",
+          "description": "<p>基于 <a href=\"https://github.com/buuing/lucky-canvas\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">「Lucky-canvas」</a> 抽奖插件，借助 <a href=\"https://www.trae.ai/\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">字节跳动 trae</a> 做了个大转盘，全屏显示、替换背景、概率设置、一键导入、边框修改等能想到的和需要的功能都已实现，效果远超预期。</p>\n<p>体验地址：<a href=\"https://immmmm.com/dzp/\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">https://immmmm.com/dzp/</a></p>\n<h3 id=\"使用手册-\">使用手册 📚</h3>\n<p>1.打开网址， 右下角“全屏按钮”，右上角是“设置入口”。点击中间开始转动，结束时会弹出中奖内容，并伴有撒花。</p>\n<p>2.右上角点击进入“设置”。首次打开，点击安装字体“Aa 年度最可爱”。</p>\n<p>3.设置分层两列，左侧显示的奖项名称、中奖概率，可以直接修改或删除。说明：某一奖项的数值是这一项中奖率的“分子”，所有数值总和是“分母”。如“棒棒糖”的中奖率设置的 15，则中奖率是</p>\n<p><code>15/（10+10+……+15+10+10+5）</code></p>\n<p>4.左侧奖项列表下方是 4 个按钮。顾名思义，第 1、2、4 项试试就知。说明一下第 3 项“上传配置”，采用了“上传 txt 文件，一行一条内容”的形式，一键导入。如：本地新建了以下内容「姓氏+空格+中奖数值」</p>\n<div class=\"highlight\"><pre tabindex=\"0\"><code class=\"language-js\"><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">张</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">王</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">李</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">田</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">柳</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">石</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span></code></pre></div><p>点击“上传配置”，选择 txt 文件，导入即可。所以，如果要换电脑快速导入，只要编辑保存好自己的“奖项.txt”到别的电脑，导入即可。</p>\n<p>5.配置右侧，点击可更改转盘配色、指针、内外层转盘背景。</p>\n<p><em>随心搭配，换着玩儿～</em></p>\n<h3 id=\"致谢\">致谢</h3>\n<p><a href=\"https://taoshu.in/web/lucky-canvas.html#%E8%80%81%E8%99%8E%E6%9C%BA\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">抽奖组件 lucky-canvas 素材大全</a></p>\n<p>🎉</p>",
+          "pub_date": "2025-05-31T12:02:58+08:00",
+          "updated_at": "2025-05-31T12:02:58+08:00",
+          "author": "林木木",
+          "site_name": "木木木木木",
+          "site_url": "https://immmmm.com/",
+          "avatar": "https://gravatar.memobbs.app/avatar/ba83fa02fc4b2ba621514941307e21be?s=80"
+        }
+      ]
+    },
+    {
+      "name": "Hello Alili",
+      "url": "https://alili.tech/",
+      "avatar": "https://cdn.xiaoten.com/friends/alili.png",
+      "feed_url": "https://alili.tech/index.xml",
+      "posts": []
+    },
+    {
       "name": "王叨叨",
       "url": "https://wangdaodao.com/",
       "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png",
@@ -257,13 +264,6 @@
           "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
         }
       ]
-    },
-    {
-      "name": "Hello Alili",
-      "url": "https://alili.tech/",
-      "avatar": "https://cdn.xiaoten.com/friends/alili.png",
-      "feed_url": "https://alili.tech/index.xml",
-      "posts": []
     },
     {
       "name": "Jame",
@@ -579,113 +579,6 @@
       ]
     },
     {
-      "name": "从良未遂",
-      "url": "https://www.jeffer.xyz/",
-      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg",
-      "feed_url": "https://www.jeffer.xyz/feed",
-      "posts": [
-        {
-          "title": "爸爸厨房：简单版糖炒栗子",
-          "link": "https://www.jeffer.xyz/cid/3207.html",
-          "description": "看到夕格的这篇文章《爸爸的厨房06：红糖馒头》。把手机里的照片也掏出来看看，正好更新一篇厨房文章。之前在博客写 [&#8230;]",
-          "pub_date": "2025-11-06T04:31:33+08:00",
-          "updated_at": "2025-11-06T04:31:33+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "使用工具为博客做一个体检 看看可以得几分？",
-          "link": "https://www.jeffer.xyz/cid/3188.html",
-          "description": "做了一个博客体检的小工具，大家都来试一试，看看你的博客可以得几分呢？我得了86分，检查到了一个得分最惨的博友是43分，也不冤枉，因为网站访问慢，favicon图标有问题，页面tdk有问题，好家伙各种基础问题，不过都不影响博客使用这些都是一些基础的问题。",
-          "pub_date": "2025-10-22T08:21:03+08:00",
-          "updated_at": "2025-10-22T08:21:03+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "喜提浓密黑发 萎靡不振恢复好多",
-          "link": "https://www.jeffer.xyz/cid/3172.html",
-          "description": "之前带闺女熬夜比较多，头发里面都是白头发，我本来没有注意，还和理发师得瑟，你看我白头发就几根，一直熬夜都没事， [&#8230;]",
-          "pub_date": "2025-10-17T10:06:45+08:00",
-          "updated_at": "2025-10-17T10:06:45+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "零后端搭建”博友圈”：用 FindBLOG.Net 的 rss.json 直接渲染友链时间线",
-          "link": "https://www.jeffer.xyz/cid/3169.html",
-          "description": "今年写了不少 WordPress 小工具，结果下载量最高的还是 RSS 相关的那几款。问了一圈，发现很多博主并 [&#8230;]",
-          "pub_date": "2025-10-17T09:08:12+08:00",
-          "updated_at": "2025-10-17T09:08:12+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "艰难前进的痛苦",
-          "link": "https://www.jeffer.xyz/cid/3087.html",
-          "description": "想要做的事情很多，但是实际做出来事情很少。在做一件事情之前，我想会需要花费一周时间，结果是两周时间，我想这个数 [&#8230;]",
-          "pub_date": "2025-08-10T16:55:57+08:00",
-          "updated_at": "2025-08-10T16:55:57+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "记录一次产品8n国际化的翻车事件",
-          "link": "https://www.jeffer.xyz/cid/3081.html",
-          "description": "最近开发一款新产品，遇到了一个棘手的问题——语言国际化。 产品有100多个单品，需要支持七八种语言，每种语言的 [&#8230;]",
-          "pub_date": "2025-08-06T14:48:39+08:00",
-          "updated_at": "2025-08-06T14:48:39+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "恶臭红尘，不能自已",
-          "link": "https://www.jeffer.xyz/cid/3068.html",
-          "description": "今天读蒙需的《“灵性”与“童蒙”》，其中讲到很多经历，感觉不谋而合，或者是很多人的人生经历大同小异。灵性这个词 [&#8230;]",
-          "pub_date": "2025-08-04T06:37:49+08:00",
-          "updated_at": "2025-08-04T06:37:49+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "秦皇岛“渔岛”行  管理域名服务器",
-          "link": "https://www.jeffer.xyz/cid/3025.html",
-          "description": "秦皇岛渔岛行 周末出行带孩子去秦皇岛溜溜，这次是小区的一个专门搞旅游的邻居组织，坐大巴到秦皇岛两天，提供交通和 [&#8230;]",
-          "pub_date": "2025-07-24T06:13:51+08:00",
-          "updated_at": "2025-07-24T06:13:51+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "烟丢骂人 看大腿提神",
-          "link": "https://www.jeffer.xyz/cid/2991.html",
-          "description": "这些天热的要死，某日蹲在地铁口乘荫，一掏兜一盒细南京丢了，平时我都不抽烟，最近事情多，不抽烟没法平复自己的情绪 [&#8230;]",
-          "pub_date": "2025-07-09T04:33:39+08:00",
-          "updated_at": "2025-07-09T04:33:39+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        }
-      ]
-    },
-    {
       "name": "黑石博客",
       "url": "https://heson.me/",
       "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca",
@@ -889,74 +782,118 @@
       ]
     },
     {
+      "name": "从良未遂",
+      "url": "https://www.jeffer.xyz/",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg",
+      "feed_url": "https://www.jeffer.xyz/feed",
+      "posts": [
+        {
+          "title": "爸爸厨房：简单版糖炒栗子",
+          "link": "https://www.jeffer.xyz/cid/3207.html",
+          "description": "看到夕格的这篇文章《爸爸的厨房06：红糖馒头》。把手机里的照片也掏出来看看，正好更新一篇厨房文章。之前在博客写 [&#8230;]",
+          "pub_date": "2025-11-06T04:31:33+08:00",
+          "updated_at": "2025-11-06T04:31:33+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "使用工具为博客做一个体检 看看可以得几分？",
+          "link": "https://www.jeffer.xyz/cid/3188.html",
+          "description": "做了一个博客体检的小工具，大家都来试一试，看看你的博客可以得几分呢？我得了86分，检查到了一个得分最惨的博友是43分，也不冤枉，因为网站访问慢，favicon图标有问题，页面tdk有问题，好家伙各种基础问题，不过都不影响博客使用这些都是一些基础的问题。",
+          "pub_date": "2025-10-22T08:21:03+08:00",
+          "updated_at": "2025-10-22T08:21:03+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "喜提浓密黑发 萎靡不振恢复好多",
+          "link": "https://www.jeffer.xyz/cid/3172.html",
+          "description": "之前带闺女熬夜比较多，头发里面都是白头发，我本来没有注意，还和理发师得瑟，你看我白头发就几根，一直熬夜都没事， [&#8230;]",
+          "pub_date": "2025-10-17T10:06:45+08:00",
+          "updated_at": "2025-10-17T10:06:45+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "零后端搭建”博友圈”：用 FindBLOG.Net 的 rss.json 直接渲染友链时间线",
+          "link": "https://www.jeffer.xyz/cid/3169.html",
+          "description": "今年写了不少 WordPress 小工具，结果下载量最高的还是 RSS 相关的那几款。问了一圈，发现很多博主并 [&#8230;]",
+          "pub_date": "2025-10-17T09:08:12+08:00",
+          "updated_at": "2025-10-17T09:08:12+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "艰难前进的痛苦",
+          "link": "https://www.jeffer.xyz/cid/3087.html",
+          "description": "想要做的事情很多，但是实际做出来事情很少。在做一件事情之前，我想会需要花费一周时间，结果是两周时间，我想这个数 [&#8230;]",
+          "pub_date": "2025-08-10T16:55:57+08:00",
+          "updated_at": "2025-08-10T16:55:57+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "记录一次产品8n国际化的翻车事件",
+          "link": "https://www.jeffer.xyz/cid/3081.html",
+          "description": "最近开发一款新产品，遇到了一个棘手的问题——语言国际化。 产品有100多个单品，需要支持七八种语言，每种语言的 [&#8230;]",
+          "pub_date": "2025-08-06T14:48:39+08:00",
+          "updated_at": "2025-08-06T14:48:39+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "恶臭红尘，不能自已",
+          "link": "https://www.jeffer.xyz/cid/3068.html",
+          "description": "今天读蒙需的《“灵性”与“童蒙”》，其中讲到很多经历，感觉不谋而合，或者是很多人的人生经历大同小异。灵性这个词 [&#8230;]",
+          "pub_date": "2025-08-04T06:37:49+08:00",
+          "updated_at": "2025-08-04T06:37:49+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "秦皇岛“渔岛”行  管理域名服务器",
+          "link": "https://www.jeffer.xyz/cid/3025.html",
+          "description": "秦皇岛渔岛行 周末出行带孩子去秦皇岛溜溜，这次是小区的一个专门搞旅游的邻居组织，坐大巴到秦皇岛两天，提供交通和 [&#8230;]",
+          "pub_date": "2025-07-24T06:13:51+08:00",
+          "updated_at": "2025-07-24T06:13:51+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "烟丢骂人 看大腿提神",
+          "link": "https://www.jeffer.xyz/cid/2991.html",
+          "description": "这些天热的要死，某日蹲在地铁口乘荫，一掏兜一盒细南京丢了，平时我都不抽烟，最近事情多，不抽烟没法平复自己的情绪 [&#8230;]",
+          "pub_date": "2025-07-09T04:33:39+08:00",
+          "updated_at": "2025-07-09T04:33:39+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        }
+      ]
+    },
+    {
       "name": "MouT.me",
       "url": "https://ghost.mout.me/",
       "avatar": "https://ghost.mout.me/favicon.ico",
       "feed_url": "https://ghost.mout.me/rss",
       "posts": []
-    },
-    {
-      "name": "友人C",
-      "url": "https://www.ihewro.com",
-      "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg",
-      "feed_url": "https://www.ihewro.com/feed",
-      "posts": [
-        {
-          "title": "成为 Chromium Committer 我的个人经历",
-          "link": "https://www.ihewro.com/archives/1377/",
-          "description": "国庆后10月9号，非常开心收到了 Chromium Committer 提名成功的邮件，申请到 Chromium.org 后缀的邮箱。可能有不少人不了解 Chromium Committer是什...",
-          "pub_date": "2025-11-09T00:31:00+08:00",
-          "updated_at": "2025-11-09T00:31:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
-        },
-        {
-          "title": "何以为我 - Being Leads Doing.",
-          "link": "https://www.ihewro.com/archives/1376/",
-          "description": "已经好久没有在博客上分享最新的动态，最近几个月似乎有些迷失在焦虑和痛苦里。以至于每年生日之后会写一篇的总结的文章也没有写，本文权当作为生日后的总结吧。[scode type=\"share\" si...",
-          "pub_date": "2025-10-21T00:36:00+08:00",
-          "updated_at": "2025-10-21T00:36:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
-        },
-        {
-          "title": "LifeTimer - 记录生活、学习、工作",
-          "link": "https://www.ihewro.com/archives/1372/",
-          "description": "特色所有数据存储在你自己的服务器之上，非常适合有服务器的人macOS原生开发，体积小，性能好完美适配博客，支持在博客上显示小组件日/周/月视图轻松查阅自己的时间分配开源，随时可以自己继续开发隐藏...",
-          "pub_date": "2025-07-21T00:15:00+08:00",
-          "updated_at": "2025-07-21T00:15:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
-        },
-        {
-          "title": "为什么软件在 macOS 上启动很慢？",
-          "link": "https://www.ihewro.com/archives/1355/",
-          "description": "前言有没有发现很多软件在 macOS 上启动很慢，比如 edge/ 微信 /chrome/ 会议软件等等。加载一个动态库时间甚至长达 10～20 秒，让人匪夷所思。你可能认为只有在 intel ...",
-          "pub_date": "2025-05-31T23:23:00+08:00",
-          "updated_at": "2025-05-31T23:23:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
-        },
-        {
-          "title": "支持 Markdown 行级别评论 ｜ 聊聊 AI 如何高效代码开发",
-          "link": "https://www.ihewro.com/archives/1351/",
-          "description": "现在很多实时协作的文档都支持“划线评论”，是我日常工作中非常高频的一个功能。而当我阅读其他人博客的时候，很少会去评论，有一个原因就是文章太长的时候，没有耐心看完，看完之后也不知道评论什么了。我自...",
-          "pub_date": "2025-05-27T00:09:00+08:00",
-          "updated_at": "2025-05-27T00:09:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
-        }
-      ]
     },
     {
       "name": "Evan",
@@ -1165,11 +1102,67 @@
       ]
     },
     {
-      "name": "空白Koobai",
-      "url": "https://koobai.com/",
-      "avatar": "https://img.koobai.com/koobai.webp",
-      "feed_url": "https://koobai.com/index.xml",
-      "posts": []
+      "name": "友人C",
+      "url": "https://www.ihewro.com",
+      "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg",
+      "feed_url": "https://www.ihewro.com/feed",
+      "posts": [
+        {
+          "title": "成为 Chromium Committer 我的个人经历",
+          "link": "https://www.ihewro.com/archives/1377/",
+          "description": "国庆后10月9号，非常开心收到了 Chromium Committer 提名成功的邮件，申请到 Chromium.org 后缀的邮箱。可能有不少人不了解 Chromium Committer是什...",
+          "pub_date": "2025-11-09T00:31:00+08:00",
+          "updated_at": "2025-11-09T00:31:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+        },
+        {
+          "title": "何以为我 - Being Leads Doing.",
+          "link": "https://www.ihewro.com/archives/1376/",
+          "description": "已经好久没有在博客上分享最新的动态，最近几个月似乎有些迷失在焦虑和痛苦里。以至于每年生日之后会写一篇的总结的文章也没有写，本文权当作为生日后的总结吧。[scode type=\"share\" si...",
+          "pub_date": "2025-10-21T00:36:00+08:00",
+          "updated_at": "2025-10-21T00:36:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+        },
+        {
+          "title": "LifeTimer - 记录生活、学习、工作",
+          "link": "https://www.ihewro.com/archives/1372/",
+          "description": "特色所有数据存储在你自己的服务器之上，非常适合有服务器的人macOS原生开发，体积小，性能好完美适配博客，支持在博客上显示小组件日/周/月视图轻松查阅自己的时间分配开源，随时可以自己继续开发隐藏...",
+          "pub_date": "2025-07-21T00:15:00+08:00",
+          "updated_at": "2025-07-21T00:15:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+        },
+        {
+          "title": "为什么软件在 macOS 上启动很慢？",
+          "link": "https://www.ihewro.com/archives/1355/",
+          "description": "前言有没有发现很多软件在 macOS 上启动很慢，比如 edge/ 微信 /chrome/ 会议软件等等。加载一个动态库时间甚至长达 10～20 秒，让人匪夷所思。你可能认为只有在 intel ...",
+          "pub_date": "2025-05-31T23:23:00+08:00",
+          "updated_at": "2025-05-31T23:23:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+        },
+        {
+          "title": "支持 Markdown 行级别评论 ｜ 聊聊 AI 如何高效代码开发",
+          "link": "https://www.ihewro.com/archives/1351/",
+          "description": "现在很多实时协作的文档都支持“划线评论”，是我日常工作中非常高频的一个功能。而当我阅读其他人博客的时候，很少会去评论，有一个原因就是文章太长的时候，没有耐心看完，看完之后也不知道评论什么了。我自...",
+          "pub_date": "2025-05-27T00:09:00+08:00",
+          "updated_at": "2025-05-27T00:09:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+        }
+      ]
     },
     {
       "name": "游钓四方",
@@ -1475,6 +1468,13 @@
           "avatar": "https://blog.lhasa.icu/favicon.svg"
         }
       ]
+    },
+    {
+      "name": "空白Koobai",
+      "url": "https://koobai.com/",
+      "avatar": "https://img.koobai.com/koobai.webp",
+      "feed_url": "https://koobai.com/index.xml",
+      "posts": []
     },
     {
       "name": "Jack's Space",
