@@ -223,6 +223,19 @@ class ConfigParser:
         """
         return self.config.get('TIMEZONE_CORRECTION', True)
 
+    def get_sort_by(self) -> str:
+        """获取文章排序方式
+        
+        Returns:
+            str: 'pub_date' - 按发布时间排序（默认）
+                 'updated_at' - 按更新时间排序
+        """
+        sort_by = self.config.get('SORT_BY', 'pub_date')
+        if sort_by not in ['pub_date', 'updated_at']:
+            logger.warning(f"无效的排序方式: {sort_by}，使用默认值 pub_date")
+            return 'pub_date'
+        return sort_by
+
     def get_output_filename(self) -> str:
         """获取输出JSON文件名
         
@@ -541,10 +554,11 @@ class RSSFetcher:
 class DataAggregator:
     """数据聚合器"""
     
-    def __init__(self, max_posts: int, outdate_days: int, timezone_correction: bool = True):
+    def __init__(self, max_posts: int, outdate_days: int, timezone_correction: bool = True, sort_by: str = 'pub_date'):
         self.max_posts = max_posts
         self.outdate_days = outdate_days
         self.timezone_correction = timezone_correction
+        self.sort_by = sort_by  # 'pub_date' 或 'updated_at'
         # 如果 outdate_days <= 0 则表示不限制过期，cutoff_time 设为 None
         if outdate_days and outdate_days > 0:
             self.cutoff_time = get_beijing_time() - timedelta(days=outdate_days)
@@ -603,8 +617,8 @@ class DataAggregator:
                 logger.debug(f"处理Feed条目失败: {e}")
                 continue
         
-        # 按发布时间排序并限制数量
-        posts.sort(key=lambda x: x['pub_date'], reverse=True)
+        # 按配置的方式排序并限制数量
+        posts.sort(key=lambda x: x[self.sort_by], reverse=True)
         site_data['posts'] = posts[:self.max_posts] if self.max_posts > 0 else posts
         
         return site_data
@@ -621,8 +635,8 @@ class DataAggregator:
                 post['avatar'] = site['avatar']
                 all_posts.append(post)
         
-        # 按时间排序
-        all_posts.sort(key=lambda x: x['pub_date'], reverse=True)
+        # 按配置的方式排序
+        all_posts.sort(key=lambda x: x[self.sort_by], reverse=True)
         
         return {
             'updated_at': get_beijing_time().isoformat(),
@@ -661,7 +675,8 @@ class FriendRSSAggregator:
         self.aggregator = DataAggregator(
             self.config.get_max_posts(),
             self.config.get_outdate_days(),
-            self.config.get_timezone_correction()
+            self.config.get_timezone_correction(),
+            self.config.get_sort_by()
         )
         # 用于记录获取 RSS 失败的站点列表
         self.failed_sites: List[Dict[str, Any]] = []

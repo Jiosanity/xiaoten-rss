@@ -7,9 +7,9 @@
     "https://heson.me": "https://heson.me/feed",
     "https://wangdaodao.com": "https://wangdaodao.com/feed",
     "https://jame.work": "https://jame.work/feed",
-    "https://suus.me": "https://suus.me/atom.xml",
+    "https://suus.me": "https://suus.me/rss.xml",
     "https://www.xiaoten.com": "https://www.xiaoten.com/index.xml",
-    "https://www.jeffer.xyz": "https://www.jeffer.xyz/feed",
+    "https://www.jeffer.xyz": "https://www.jeffer.xyz/rss",
     "https://www.evan.xin": "https://www.evan.xin/feed",
     "https://www.ihewro.com": "https://www.ihewro.com/feed",
     "https://inkss.cn": "https://inkss.cn/feed",
@@ -18,7 +18,7 @@
     "https://yufan.me": "https://yufan.me/feed",
     "https://xyzbz.cn": "https://xyzbz.cn/feed",
     "https://wuziya.com": "https://wuziya.com/feed",
-    "https://www.baihub.cn": "https://www.baihub.cn/feed"
+    "https://www.baihub.cn": "https://www.baihub.cn/rss"
   },
   "last_update": null
 }

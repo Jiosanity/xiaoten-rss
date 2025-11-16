@@ -60,6 +60,9 @@ python main.py
       - `false`: `2025-11-15T14:41:01+08:00`
     - `<pubDate>Fri, 14 Nov 2025 23:23:25 +0800</pubDate>` →
       - `true/false` 均为 `2025-11-14T23:23:25+08:00`
+- `SORT_BY`：文章排序方式（默认 `pub_date`）
+  - `pub_date`：按发布时间排序
+  - `updated_at`：按更新时间排序
 - `OUTPUT_JSON_FILENAME`：输出文件名，例：`rss.json`（默认 `data.json`）
 
 ## 高级配置（性能优化）
