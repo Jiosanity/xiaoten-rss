@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-19T08:23:07.563473+08:00",
+  "updated_at": "2025-11-19T09:22:38.208659+08:00",
   "total_sites": 23,
   "total_posts": 235,
   "sites": [
@@ -118,6 +118,124 @@
           "site_name": "Wandai Blog",
           "site_url": "https://twd2.me/",
           "avatar": "https://twd2.me/smile_photo.jpg"
+        }
+      ]
+    },
+    {
+      "name": "王叨叨",
+      "url": "https://wangdaodao.com/",
+      "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png",
+      "feed_url": "https://wangdaodao.com/feed",
+      "posts": [
+        {
+          "title": "基于高德地图做足迹管理插件",
+          "link": "https://wangdaodao.com/20251117/amap-track.html",
+          "description": "距离上次折腾高德地图有一段时间了，最近看到有人在博客上面增加了足迹，我这心里也痒痒了，咱也做一个足迹管理的插件吧！支持配置高德地图的API密钥；能够设置默认的缩放级别；能够设置默认视图模式；能够...",
+          "pub_date": "2025-11-17T21:18:00+08:00",
+          "updated_at": "2025-11-17T21:18:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "开源两个后台美化插件",
+          "link": "https://wangdaodao.com/20251113/typecho-admin-plugins.html",
+          "description": "上篇文章介绍了 Typecho 的简洁哲学，里面有一条是：需求的有限满足。实际上很多易用性问题，我们都寄希望于第三方开发来完善，这也是官方文档建设再次被提上日程并承诺重视的原因，开放会带来期待中...",
+          "pub_date": "2025-11-13T22:07:00+08:00",
+          "updated_at": "2025-11-13T22:07:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "Typecho的简洁哲学",
+          "link": "https://wangdaodao.com/20251111/the-simplicity-philosophy-of-typecho.html",
+          "description": "最近在看 typecho 的官方博客，从2008年一直到2023年，跨越了15年，从一开始的奔放到现在的内敛，从一开始新鲜的枝丫，到现在粗壮的大树。从他的logo的演变，也能看出来他慢慢的内敛。...",
+          "pub_date": "2025-11-11T12:57:00+08:00",
+          "updated_at": "2025-11-11T12:57:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "Typecho如何实现评论无限嵌套",
+          "link": "https://wangdaodao.com/20251108/typecho-comments-max-levels.html",
+          "description": "今天有朋友在我的博客上留言，询问有关插件的一些问题。起初我正常回复，但回复到第五层时发现已无法继续，于是便进入后台打算进行设置。哎，我觉得设置9层，基本上应该可以了吧，结果保存了一下，变成了7……",
+          "pub_date": "2025-11-08T22:39:00+08:00",
+          "updated_at": "2025-11-08T22:39:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "开源Panorama全景图插件",
+          "link": "https://wangdaodao.com/20251106/typecho-panorama-plugin.html",
+          "description": "经过了周末的调整，现在插件终于可以和大家见面了。Panorama 插件为 Typecho 博客系统添加全景图展示功能，支持将多张图片转换为可交互的全景图。",
+          "pub_date": "2025-11-06T19:03:00+08:00",
+          "updated_at": "2025-11-06T19:03:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "服务器续费了",
+          "link": "https://wangdaodao.com/20251104/racknerd-renew.html",
+          "description": "自从搬瓦工那台机器到期不再续费，目前手里就只有一台VPS了，这个当时是去年黑五搞活动买的，可以看我之前《又入手了一台VPS》。目前感觉性能完全够用，就放一个Typecho的博客绰绰有余。",
+          "pub_date": "2025-11-04T09:13:00+08:00",
+          "updated_at": "2025-11-04T09:13:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "开源Bilibili播放器插件",
+          "link": "https://wangdaodao.com/20251101/typecho-bilibili-player.html",
+          "description": "小试牛刀，开源Bilibili播放器插件，后面还有几个插件正在调整，分别是：Panorama：在文章中嵌入全景图AMapPlugin：高德地图插件AMapRoutePlugin：高德地图路径规划...",
+          "pub_date": "2025-11-01T14:43:00+08:00",
+          "updated_at": "2025-11-01T14:43:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "折腾一个Typecho 360全景插件",
+          "link": "https://wangdaodao.com/20251030/typecho-pannellum.html",
+          "description": "前几天逛博客，发现夜枫的博客还支持全景图了，于是看了看源码，发现是用Pannellum这个插件实现的，研究了下代码，发现实现起来很简单于是动手写了一个全景图插件。",
+          "pub_date": "2025-10-30T08:46:00+08:00",
+          "updated_at": "2025-10-30T08:46:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "3I/ATLAS到底是什么",
+          "link": "https://wangdaodao.com/20251029/3I-ATLAS.html",
+          "description": "2025年，我们的太阳系迎来了一位极其罕见的访客——星际彗星3I/ATLAS。这是人类迄今为止发现的第三个确认的星际天体，一个来自其他恒星系统的“旅行者”。它的到来不仅为天文学家提供了研究系外物...",
+          "pub_date": "2025-10-29T17:32:00+08:00",
+          "updated_at": "2025-10-29T17:32:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "周末随笔",
+          "link": "https://wangdaodao.com/20251027/weekend-musings.html",
+          "description": "这个周末没有加班，正好家里的小程序员要参加比赛，于是今天上午的身份就是司机。清晨六点半，我整理好装备准备前往比赛地点，途中便向儿子询问了关于其日常代码编写习惯的问题，包括调试方法、日志打印的实践...",
+          "pub_date": "2025-10-27T12:43:00+08:00",
+          "updated_at": "2025-10-27T12:43:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
         }
       ]
     },
@@ -328,242 +446,6 @@
       ]
     },
     {
-      "name": "王叨叨",
-      "url": "https://wangdaodao.com/",
-      "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png",
-      "feed_url": "https://wangdaodao.com/feed",
-      "posts": [
-        {
-          "title": "基于高德地图做足迹管理插件",
-          "link": "https://wangdaodao.com/20251117/amap-track.html",
-          "description": "距离上次折腾高德地图有一段时间了，最近看到有人在博客上面增加了足迹，我这心里也痒痒了，咱也做一个足迹管理的插件吧！支持配置高德地图的API密钥；能够设置默认的缩放级别；能够设置默认视图模式；能够...",
-          "pub_date": "2025-11-17T21:18:00+08:00",
-          "updated_at": "2025-11-17T21:18:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "开源两个后台美化插件",
-          "link": "https://wangdaodao.com/20251113/typecho-admin-plugins.html",
-          "description": "上篇文章介绍了 Typecho 的简洁哲学，里面有一条是：需求的有限满足。实际上很多易用性问题，我们都寄希望于第三方开发来完善，这也是官方文档建设再次被提上日程并承诺重视的原因，开放会带来期待中...",
-          "pub_date": "2025-11-13T22:07:00+08:00",
-          "updated_at": "2025-11-13T22:07:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "Typecho的简洁哲学",
-          "link": "https://wangdaodao.com/20251111/the-simplicity-philosophy-of-typecho.html",
-          "description": "最近在看 typecho 的官方博客，从2008年一直到2023年，跨越了15年，从一开始的奔放到现在的内敛，从一开始新鲜的枝丫，到现在粗壮的大树。从他的logo的演变，也能看出来他慢慢的内敛。...",
-          "pub_date": "2025-11-11T12:57:00+08:00",
-          "updated_at": "2025-11-11T12:57:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "Typecho如何实现评论无限嵌套",
-          "link": "https://wangdaodao.com/20251108/typecho-comments-max-levels.html",
-          "description": "今天有朋友在我的博客上留言，询问有关插件的一些问题。起初我正常回复，但回复到第五层时发现已无法继续，于是便进入后台打算进行设置。哎，我觉得设置9层，基本上应该可以了吧，结果保存了一下，变成了7……",
-          "pub_date": "2025-11-08T22:39:00+08:00",
-          "updated_at": "2025-11-08T22:39:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "开源Panorama全景图插件",
-          "link": "https://wangdaodao.com/20251106/typecho-panorama-plugin.html",
-          "description": "经过了周末的调整，现在插件终于可以和大家见面了。Panorama 插件为 Typecho 博客系统添加全景图展示功能，支持将多张图片转换为可交互的全景图。",
-          "pub_date": "2025-11-06T19:03:00+08:00",
-          "updated_at": "2025-11-06T19:03:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "服务器续费了",
-          "link": "https://wangdaodao.com/20251104/racknerd-renew.html",
-          "description": "自从搬瓦工那台机器到期不再续费，目前手里就只有一台VPS了，这个当时是去年黑五搞活动买的，可以看我之前《又入手了一台VPS》。目前感觉性能完全够用，就放一个Typecho的博客绰绰有余。",
-          "pub_date": "2025-11-04T09:13:00+08:00",
-          "updated_at": "2025-11-04T09:13:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "开源Bilibili播放器插件",
-          "link": "https://wangdaodao.com/20251101/typecho-bilibili-player.html",
-          "description": "小试牛刀，开源Bilibili播放器插件，后面还有几个插件正在调整，分别是：Panorama：在文章中嵌入全景图AMapPlugin：高德地图插件AMapRoutePlugin：高德地图路径规划...",
-          "pub_date": "2025-11-01T14:43:00+08:00",
-          "updated_at": "2025-11-01T14:43:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "折腾一个Typecho 360全景插件",
-          "link": "https://wangdaodao.com/20251030/typecho-pannellum.html",
-          "description": "前几天逛博客，发现夜枫的博客还支持全景图了，于是看了看源码，发现是用Pannellum这个插件实现的，研究了下代码，发现实现起来很简单于是动手写了一个全景图插件。",
-          "pub_date": "2025-10-30T08:46:00+08:00",
-          "updated_at": "2025-10-30T08:46:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "3I/ATLAS到底是什么",
-          "link": "https://wangdaodao.com/20251029/3I-ATLAS.html",
-          "description": "2025年，我们的太阳系迎来了一位极其罕见的访客——星际彗星3I/ATLAS。这是人类迄今为止发现的第三个确认的星际天体，一个来自其他恒星系统的“旅行者”。它的到来不仅为天文学家提供了研究系外物...",
-          "pub_date": "2025-10-29T17:32:00+08:00",
-          "updated_at": "2025-10-29T17:32:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "周末随笔",
-          "link": "https://wangdaodao.com/20251027/weekend-musings.html",
-          "description": "这个周末没有加班，正好家里的小程序员要参加比赛，于是今天上午的身份就是司机。清晨六点半，我整理好装备准备前往比赛地点，途中便向儿子询问了关于其日常代码编写习惯的问题，包括调试方法、日志打印的实践...",
-          "pub_date": "2025-10-27T12:43:00+08:00",
-          "updated_at": "2025-10-27T12:43:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        }
-      ]
-    },
-    {
-      "name": "黑石博客",
-      "url": "https://heson.me/",
-      "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca",
-      "feed_url": "https://heson.me/feed",
-      "posts": [
-        {
-          "title": "关于Windows11激活",
-          "link": "https://heson.me/dowhat/49.html",
-          "description": "蹲了2个月的电脑配件好价，这次双十一终于全部攒齐了，具体配置及价格详见➡️ 《我的电脑配置及外设【完结】》 在Windows官网上下了个多版本的Windows11，之前都喜欢安装专业版，但这次给...",
-          "pub_date": "2025-10-27T11:39:00+08:00",
-          "updated_at": "2025-10-27T11:39:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "记录一次memo的调用",
-          "link": "https://heson.me/dowhat/47.html",
-          "description": "基本不怎么在微信发朋友圈的我，但最喜欢在博客发动态。所以哔哔、闪念、说说、胶囊诸如此类的，是我博客必备的功能。奈何cuteen原生的闪念功能虽然简单，但就是太简单了，不能发图片。所以我决定把me...",
-          "pub_date": "2025-10-10T08:54:00+08:00",
-          "updated_at": "2025-10-10T08:54:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "在NAS上搭建私有云音乐",
-          "link": "https://heson.me/dowhat/35.html",
-          "description": "QQ音乐会员 我看谁还充，反正我是不充了。来看看下面这个方案：[card title=\"免费私有云音乐方案\" color=\"success\"]🎵下载：LX Music(洛雪音乐)：一款免费开源的...",
-          "pub_date": "2025-09-26T11:34:00+08:00",
-          "updated_at": "2025-09-26T11:34:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "天钡wtr pro 5825u上手体验",
-          "link": "https://heson.me/dowhat/33.html",
-          "description": "天钡wtr pro 5825u（物理机飞牛os）是我现在正在用的nas服务器。这个博客就搭在它上面。由来之前一直关注n150的nas消息，偶然一天问nas群友n150推荐机型：看了一下外观和配置...",
-          "pub_date": "2025-09-23T10:44:00+08:00",
-          "updated_at": "2025-09-23T10:44:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "深度思考：决定你命运的核心能力",
-          "link": "https://heson.me/life/25.html",
-          "description": "[card title=\"推荐理由\" color=\"info\"]真正改变命运的是独立、深刻地思考问题的能力。[/card]深度思考：决定你命运的核心能力看透本质与看不清本质的人，注定拥有不同的命...",
-          "pub_date": "2025-09-22T08:42:00+08:00",
-          "updated_at": "2025-09-22T08:42:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "装修记——自装的150天",
-          "link": "https://heson.me/life/15.html",
-          "description": "第一次装修时，我把全部事情都交给了装修公司。每平米998元，总共花了二十多万，当时还以为占了便宜。刚装完的时候看着还行，颜色和材料都是自己选的。但现在回想起来，他们用的都是商家特供的渠道货，样式...",
-          "pub_date": "2025-09-11T09:14:00+08:00",
-          "updated_at": "2025-09-11T09:14:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "那些年的友情链接，还在闪闪发光",
-          "link": "https://heson.me/life/10.html",
-          "description": "[audio src=\"https://heson.me/music/%E6%9E%97%E5%BF%97%E7%82%AB-%E5%87%A4%E5%87%B0%E8%8A%B1%E5%BC%...",
-          "pub_date": "2025-09-06T10:20:00+08:00",
-          "updated_at": "2025-09-06T10:20:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "童年第一台急先锋电脑到如今NAS服务器的搭建",
-          "link": "https://heson.me/life/6.html",
-          "description": "童年的“折腾基因”启蒙第一台电脑的“开箱记忆”2001 年的夏天，拨号上网的“滴滴嘟嘟”声还在楼道里此起彼伏，Windows 98 的蓝天白云桌面是大多数家庭电脑的标配。五年级的我放学回家，看见...",
-          "pub_date": "2025-09-04T16:10:00+08:00",
-          "updated_at": "2025-09-04T16:10:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "战地风云 6 预购记：一场关于热爱与时光的独白​",
-          "link": "https://heson.me/life/4.html",
-          "description": "鼠标最终还是点下了 “[RainBowText]确认预购[/RainBowText]” 的按钮，屏幕上跳出《战地风云 6》魅影版的订单页面时，我竟莫名愣了几秒。指尖还残留着鼠标按键的微弱触感，心...",
-          "pub_date": "2025-09-02T11:16:00+08:00",
-          "updated_at": "2025-09-02T11:16:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "我的电脑配置及外设【完结】",
-          "link": "https://heson.me/dowhat/3.html",
-          "description": "需求首先确定显示器，红米g pro27u，一款4k160和1k300的双模显示器，带电视和小爱同学。因为我这台电脑是放在客厅岛台上的，所以电视功能可拓展客厅功能，同时全屋小米智能，非常有必要在电...",
-          "pub_date": "2025-09-02T07:15:00+08:00",
-          "updated_at": "2025-09-02T07:15:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        }
-      ]
-    },
-    {
       "name": "MouT.me",
       "url": "https://ghost.mout.me/",
       "avatar": "https://cravatar.cn/avatar/678bf8cb50938b0e3a252e0509455d10",
@@ -689,6 +571,124 @@
       ]
     },
     {
+      "name": "黑石博客",
+      "url": "https://heson.me/",
+      "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca",
+      "feed_url": "https://heson.me/feed",
+      "posts": [
+        {
+          "title": "关于Windows11激活",
+          "link": "https://heson.me/dowhat/49.html",
+          "description": "蹲了2个月的电脑配件好价，这次双十一终于全部攒齐了，具体配置及价格详见➡️ 《我的电脑配置及外设【完结】》 在Windows官网上下了个多版本的Windows11，之前都喜欢安装专业版，但这次给...",
+          "pub_date": "2025-10-27T11:39:00+08:00",
+          "updated_at": "2025-10-27T11:39:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "记录一次memo的调用",
+          "link": "https://heson.me/dowhat/47.html",
+          "description": "基本不怎么在微信发朋友圈的我，但最喜欢在博客发动态。所以哔哔、闪念、说说、胶囊诸如此类的，是我博客必备的功能。奈何cuteen原生的闪念功能虽然简单，但就是太简单了，不能发图片。所以我决定把me...",
+          "pub_date": "2025-10-10T08:54:00+08:00",
+          "updated_at": "2025-10-10T08:54:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "在NAS上搭建私有云音乐",
+          "link": "https://heson.me/dowhat/35.html",
+          "description": "QQ音乐会员 我看谁还充，反正我是不充了。来看看下面这个方案：[card title=\"免费私有云音乐方案\" color=\"success\"]🎵下载：LX Music(洛雪音乐)：一款免费开源的...",
+          "pub_date": "2025-09-26T11:34:00+08:00",
+          "updated_at": "2025-09-26T11:34:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "天钡wtr pro 5825u上手体验",
+          "link": "https://heson.me/dowhat/33.html",
+          "description": "天钡wtr pro 5825u（物理机飞牛os）是我现在正在用的nas服务器。这个博客就搭在它上面。由来之前一直关注n150的nas消息，偶然一天问nas群友n150推荐机型：看了一下外观和配置...",
+          "pub_date": "2025-09-23T10:44:00+08:00",
+          "updated_at": "2025-09-23T10:44:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "深度思考：决定你命运的核心能力",
+          "link": "https://heson.me/life/25.html",
+          "description": "[card title=\"推荐理由\" color=\"info\"]真正改变命运的是独立、深刻地思考问题的能力。[/card]深度思考：决定你命运的核心能力看透本质与看不清本质的人，注定拥有不同的命...",
+          "pub_date": "2025-09-22T08:42:00+08:00",
+          "updated_at": "2025-09-22T08:42:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "装修记——自装的150天",
+          "link": "https://heson.me/life/15.html",
+          "description": "第一次装修时，我把全部事情都交给了装修公司。每平米998元，总共花了二十多万，当时还以为占了便宜。刚装完的时候看着还行，颜色和材料都是自己选的。但现在回想起来，他们用的都是商家特供的渠道货，样式...",
+          "pub_date": "2025-09-11T09:14:00+08:00",
+          "updated_at": "2025-09-11T09:14:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "那些年的友情链接，还在闪闪发光",
+          "link": "https://heson.me/life/10.html",
+          "description": "[audio src=\"https://heson.me/music/%E6%9E%97%E5%BF%97%E7%82%AB-%E5%87%A4%E5%87%B0%E8%8A%B1%E5%BC%...",
+          "pub_date": "2025-09-06T10:20:00+08:00",
+          "updated_at": "2025-09-06T10:20:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "童年第一台急先锋电脑到如今NAS服务器的搭建",
+          "link": "https://heson.me/life/6.html",
+          "description": "童年的“折腾基因”启蒙第一台电脑的“开箱记忆”2001 年的夏天，拨号上网的“滴滴嘟嘟”声还在楼道里此起彼伏，Windows 98 的蓝天白云桌面是大多数家庭电脑的标配。五年级的我放学回家，看见...",
+          "pub_date": "2025-09-04T16:10:00+08:00",
+          "updated_at": "2025-09-04T16:10:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "战地风云 6 预购记：一场关于热爱与时光的独白​",
+          "link": "https://heson.me/life/4.html",
+          "description": "鼠标最终还是点下了 “[RainBowText]确认预购[/RainBowText]” 的按钮，屏幕上跳出《战地风云 6》魅影版的订单页面时，我竟莫名愣了几秒。指尖还残留着鼠标按键的微弱触感，心...",
+          "pub_date": "2025-09-02T11:16:00+08:00",
+          "updated_at": "2025-09-02T11:16:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "我的电脑配置及外设【完结】",
+          "link": "https://heson.me/dowhat/3.html",
+          "description": "需求首先确定显示器，红米g pro27u，一款4k160和1k300的双模显示器，带电视和小爱同学。因为我这台电脑是放在客厅岛台上的，所以电视功能可拓展客厅功能，同时全屋小米智能，非常有必要在电...",
+          "pub_date": "2025-09-02T07:15:00+08:00",
+          "updated_at": "2025-09-02T07:15:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        }
+      ]
+    },
+    {
       "name": "小白大学渣",
       "url": "https://www.baihub.cn/",
       "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg",
@@ -748,234 +748,6 @@
           "site_name": "小白大学渣",
           "site_url": "https://www.baihub.cn/",
           "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
-        }
-      ]
-    },
-    {
-      "name": "雅余",
-      "url": "https://yayu.net/",
-      "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png",
-      "feed_url": "https://yayu.net/feed",
-      "posts": [
-        {
-          "title": "日常漫步 Vol.18 之每周一山",
-          "link": "https://yayu.net/5973.html",
-          "description": "每周一山，本周爬山是登凤凰山的凤凰顶，下山走新路线。登顶时9点半左右，有隐约的丁达尔效应，看到早晨的阳光散落在 [&#8230;]",
-          "pub_date": "2025-11-15T14:00:14+08:00",
-          "updated_at": "2025-11-15T14:00:14+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "山西河北历史文化之旅｜河北博物院",
-          "link": "https://yayu.net/5915.html",
-          "description": "「山西河北9天历史文化之旅」第十二篇 —— 河北博物院 河北博物院前身为河北省博物馆，河北省唯一的省级综合性博 [&#8230;]",
-          "pub_date": "2025-11-11T14:14:33+08:00",
-          "updated_at": "2025-11-11T14:14:33+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "《园冶》：世界最早的造园学名著",
-          "link": "https://yayu.net/5909.html",
-          "description": "最近反复读的一本书，忍不住还是介绍一下。书中内容一是我喜欢的园林，二是书中很多极简、尊重自然的理念是我所爱。  [&#8230;]",
-          "pub_date": "2025-10-27T14:51:25+08:00",
-          "updated_at": "2025-10-27T14:51:25+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "日常漫步 Vol.17 之板樟山小环线",
-          "link": "https://yayu.net/5883.html",
-          "description": "又是一个完美的周末，一周两山。继周六上午到凤凰山巡山之后，感觉没过瘾，周日下午4点又到板樟山走了个小环线，一直 [&#8230;]",
-          "pub_date": "2025-10-21T12:40:49+08:00",
-          "updated_at": "2025-10-21T12:40:49+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "日常漫步 Vol.16 之每周一山",
-          "link": "https://yayu.net/5872.html",
-          "description": "每周一山，不为壮阔风光，只寻一刻宁静。",
-          "pub_date": "2025-10-18T08:29:48+08:00",
-          "updated_at": "2025-10-18T08:29:48+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "山西河北历史文化之旅｜正定博物馆",
-          "link": "https://yayu.net/5836.html",
-          "description": "「山西河北9天历史文化之旅」第十一篇 —— 正定博物馆 在河北正定县藏着一个宝藏博物馆——正定博物馆，属国家二 [&#8230;]",
-          "pub_date": "2025-10-14T10:30:18+08:00",
-          "updated_at": "2025-10-14T10:30:18+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "八月十六的圆日",
-          "link": "https://yayu.net/5831.html",
-          "description": "记八月十六的圆日",
-          "pub_date": "2025-10-08T01:59:32+08:00",
-          "updated_at": "2025-10-08T01:59:32+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "游深圳云海公园",
-          "link": "https://yayu.net/5818.html",
-          "description": "深圳云海公园位于深圳盐田区的半山公园带核心区，背靠梅沙尖和三洲塘水库，在海拔380米的半山平台，拥有360度一 [&#8230;]",
-          "pub_date": "2025-10-01T03:45:10+08:00",
-          "updated_at": "2025-10-01T03:45:10+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "桦加沙过后的凤凰山",
-          "link": "https://yayu.net/5796.html",
-          "description": "两周没去爬山，心里一直想着要去看看台风桦加沙过的凤凰山，看看我熟悉的山野和树木是否无恙。雨后的泥路比较湿滑，也 [&#8230;]",
-          "pub_date": "2025-09-28T11:50:26+08:00",
-          "updated_at": "2025-09-28T11:50:26+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "山西河北历史文化之旅｜河北正定古城和正定四塔",
-          "link": "https://yayu.net/5724.html",
-          "description": "「山西河北9天历史文化之旅」第十篇 —— 正定古城和正定四塔 行程的第8天，计划一整天就在石家庄的正定古城内晃 [&#8230;]",
-          "pub_date": "2025-09-26T11:55:44+08:00",
-          "updated_at": "2025-09-26T11:55:44+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "山西河北历史文化之旅｜赵州桥",
-          "link": "https://yayu.net/5696.html",
-          "description": "「山西河北9天历史文化之旅」第九篇 —— 赵州桥 终于看到小学语文课本中的赵州桥。赵州桥原名安济桥，因为赵县古 [&#8230;]",
-          "pub_date": "2025-09-23T11:15:25+08:00",
-          "updated_at": "2025-09-23T11:15:25+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "山西河北历史文化之旅｜广灵甸顶山空中草原",
-          "link": "https://yayu.net/5653.html",
-          "description": "「山西河北9天历史文化之旅」第八篇 —— 长城一号旅游公路 至 广灵甸顶山空中草原 离开大同火山群，我驱车直奔 [&#8230;]",
-          "pub_date": "2025-09-19T11:55:16+08:00",
-          "updated_at": "2025-09-19T11:55:16+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "macOS Tahoe 26 丑哭了",
-          "link": "https://yayu.net/5692.html",
-          "description": "苹果推出了“液态玻璃” 升级视觉，号称 “惊艳新设计”。今晚看到 MacBook 的更新提醒，我没想太多就点了 [&#8230;]",
-          "pub_date": "2025-09-18T14:34:16+08:00",
-          "updated_at": "2025-09-18T14:34:16+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "山西河北历史文化之旅｜大同火山群",
-          "link": "https://yayu.net/5632.html",
-          "description": "「山西河北9天历史文化之旅」第七篇 —— 大同火山群国家级地质公园 大同火山群是大同火山断陷盆地第四纪(距今8 [&#8230;]",
-          "pub_date": "2025-09-16T11:55:11+08:00",
-          "updated_at": "2025-09-16T11:55:11+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "山西河北历史文化之旅｜云冈石窟",
-          "link": "https://yayu.net/5593.html",
-          "description": "「山西河北9天历史文化之旅」第六篇 —— 大同云冈石窟 云冈石窟(Yungang Grottoes)，原名灵岩 [&#8230;]",
-          "pub_date": "2025-09-11T03:55:57+08:00",
-          "updated_at": "2025-09-11T03:55:57+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "以阅读体验为核心的网页宽度设计策略",
-          "link": "https://yayu.net/5589.html",
-          "description": "近期接到几位老铁的吐槽，建议加宽网页的主内容宽度和图片尺寸。及时反思和保持进取，当晚我就翻看了更新日志，发现当 [&#8230;]",
-          "pub_date": "2025-09-06T08:01:18+08:00",
-          "updated_at": "2025-09-06T08:01:18+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "山西河北历史文化之旅｜大同土林",
-          "link": "https://yayu.net/5567.html",
-          "description": "「山西河北9天历史文化之旅」第五篇 —— 大同土林 大同土林（大同土林地质公园）是我此次旅行较喜欢，也驻足较久 [&#8230;]",
-          "pub_date": "2025-09-05T04:00:54+08:00",
-          "updated_at": "2025-09-05T04:00:54+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "山西河北历史文化之旅｜应县木塔",
-          "link": "https://yayu.net/5554.html",
-          "description": "「山西河北9天历史文化之旅」第四篇——应县木塔 佛宫寺释迦塔（Pagoda of Fogong Temple） [&#8230;]",
-          "pub_date": "2025-09-01T13:17:51+08:00",
-          "updated_at": "2025-09-01T13:17:51+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "山西河北历史文化之旅｜山西古城合集",
-          "link": "https://yayu.net/5455.html",
-          "description": "「山西河北9天历史文化之旅」第三篇——游山西忻州古城、代县古城、大同古城的古寺古迹。 感谢老铁们看上一篇博文后 [&#8230;]",
-          "pub_date": "2025-08-28T11:50:40+08:00",
-          "updated_at": "2025-08-28T11:50:40+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        },
-        {
-          "title": "雅余也有公众号了",
-          "link": "https://yayu.net/5454.html",
-          "description": "两个月前，我开始启用注册了4年的公众号，作为一种尝试。经过一段时间对公众号的熟悉，终于敢在博客中提及了。 公众 [&#8230;]",
-          "pub_date": "2025-08-24T14:22:36+08:00",
-          "updated_at": "2025-08-24T14:22:36+08:00",
-          "author": "雅余",
-          "site_name": "雅余",
-          "site_url": "https://yayu.net/",
-          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
         }
       ]
     },
@@ -1296,120 +1068,230 @@
       ]
     },
     {
-      "name": "故事的程序猿",
-      "url": "https://blog.lichenghao.cn",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg",
-      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
+      "name": "雅余",
+      "url": "https://yayu.net/",
+      "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png",
+      "feed_url": "https://yayu.net/feed",
       "posts": [
         {
-          "title": "我为开心消消乐怒冲一块钱！",
-          "link": "https://blog.lichenghao.cn/article/loqvgppo5q9y",
-          "description": "我玩开心消消乐有七八年了，这几天的 11159 关也太难了吧！！！",
-          "pub_date": "2025-11-15T14:41:01+08:00",
-          "updated_at": "2025-11-15T14:41:01+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+          "title": "日常漫步 Vol.18 之每周一山",
+          "link": "https://yayu.net/5973.html",
+          "description": "每周一山，本周爬山是登凤凰山的凤凰顶，下山走新路线。登顶时9点半左右，有隐约的丁达尔效应，看到早晨的阳光散落在 [&#8230;]",
+          "pub_date": "2025-11-15T14:00:14+08:00",
+          "updated_at": "2025-11-15T14:00:14+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
         },
         {
-          "title": "一个悠闲的周六",
-          "link": "https://blog.lichenghao.cn/article/pull9dpvsxtf",
-          "description": "对我来说，悠闲双休的周末“可不多了”。李老师这个月底就要生了，顺利的话我们还能再有两个二人世界的周末。",
-          "pub_date": "2025-11-08T21:22:20+08:00",
-          "updated_at": "2025-11-08T21:22:20+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+          "title": "山西河北历史文化之旅｜河北博物院",
+          "link": "https://yayu.net/5915.html",
+          "description": "「山西河北9天历史文化之旅」第十二篇 —— 河北博物院 河北博物院前身为河北省博物馆，河北省唯一的省级综合性博 [&#8230;]",
+          "pub_date": "2025-11-11T14:14:33+08:00",
+          "updated_at": "2025-11-11T14:14:33+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
         },
         {
-          "title": "十月-忙碌、期望、激动\\(≧▽≦)/",
-          "link": "https://blog.lichenghao.cn/article/uowqqituzesr",
-          "description": "忙忙碌碌的，到了今天才有时间总结下十月发生的点点滴滴~",
-          "pub_date": "2025-11-07T20:59:02+08:00",
-          "updated_at": "2025-11-07T20:59:02+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+          "title": "《园冶》：世界最早的造园学名著",
+          "link": "https://yayu.net/5909.html",
+          "description": "最近反复读的一本书，忍不住还是介绍一下。书中内容一是我喜欢的园林，二是书中很多极简、尊重自然的理念是我所爱。  [&#8230;]",
+          "pub_date": "2025-10-27T14:51:25+08:00",
+          "updated_at": "2025-10-27T14:51:25+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
         },
         {
-          "title": "Islands 主题：JetBrains IDE 迎来全新外观",
-          "link": "https://blog.lichenghao.cn/article/g8ja27idsfz9",
-          "description": "Islands 主题：JetBrains IDE 迎来全新外观",
-          "pub_date": "2025-11-04T14:21:57+08:00",
-          "updated_at": "2025-11-04T14:21:57+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+          "title": "日常漫步 Vol.17 之板樟山小环线",
+          "link": "https://yayu.net/5883.html",
+          "description": "又是一个完美的周末，一周两山。继周六上午到凤凰山巡山之后，感觉没过瘾，周日下午4点又到板樟山走了个小环线，一直 [&#8230;]",
+          "pub_date": "2025-10-21T12:40:49+08:00",
+          "updated_at": "2025-10-21T12:40:49+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
         },
         {
-          "title": "腾讯云EdgeOne取消免费套餐中的源站防护功能",
-          "link": "https://blog.lichenghao.cn/article/vgwpskyaixpb",
-          "description": "不久前也被免费套餐吸引，最近提示取消了免费套餐中的源站防护功能。",
-          "pub_date": "2025-10-22T13:48:08+08:00",
-          "updated_at": "2025-10-22T13:48:08+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+          "title": "日常漫步 Vol.16 之每周一山",
+          "link": "https://yayu.net/5872.html",
+          "description": "每周一山，不为壮阔风光，只寻一刻宁静。",
+          "pub_date": "2025-10-18T08:29:48+08:00",
+          "updated_at": "2025-10-18T08:29:48+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
         },
         {
-          "title": "我的小橘猫三岁了哦~",
-          "link": "https://blog.lichenghao.cn/article/6safj6n0uz03",
-          "description": "我的小橘猫三岁多了，比姐姐大一岁，即将跟我们一起迎接弟弟的到来。",
-          "pub_date": "2025-10-20T20:12:22+08:00",
-          "updated_at": "2025-10-20T20:12:22+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+          "title": "山西河北历史文化之旅｜正定博物馆",
+          "link": "https://yayu.net/5836.html",
+          "description": "「山西河北9天历史文化之旅」第十一篇 —— 正定博物馆 在河北正定县藏着一个宝藏博物馆——正定博物馆，属国家二 [&#8230;]",
+          "pub_date": "2025-10-14T10:30:18+08:00",
+          "updated_at": "2025-10-14T10:30:18+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
         },
         {
-          "title": "八九月小结【二五年】",
-          "link": "https://blog.lichenghao.cn/article/8lk32ehxa41f",
-          "description": "这两个月实在是太忙了，除了要上班以外，家里的房子装修的设计相关的东西，照顾怀孕的媳妇儿，去沈阳办理过户...",
-          "pub_date": "2025-10-09T15:07:02+08:00",
-          "updated_at": "2025-10-09T15:07:02+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+          "title": "八月十六的圆日",
+          "link": "https://yayu.net/5831.html",
+          "description": "记八月十六的圆日",
+          "pub_date": "2025-10-08T01:59:32+08:00",
+          "updated_at": "2025-10-08T01:59:32+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
         },
         {
-          "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵式",
-          "link": "https://blog.lichenghao.cn/article/0omloraxbim9",
-          "description": "今天的中国 🇨🇳，江山壮丽、人民豪迈，更无惧任何风浪！让我们一起铭记历史，从伟大胜利走向伟大复兴！",
-          "pub_date": "2025-09-03T15:34:53+08:00",
-          "updated_at": "2025-09-03T15:34:53+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+          "title": "游深圳云海公园",
+          "link": "https://yayu.net/5818.html",
+          "description": "深圳云海公园位于深圳盐田区的半山公园带核心区，背靠梅沙尖和三洲塘水库，在海拔380米的半山平台，拥有360度一 [&#8230;]",
+          "pub_date": "2025-10-01T03:45:10+08:00",
+          "updated_at": "2025-10-01T03:45:10+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
         },
         {
-          "title": "买房五年卖掉后，怒亏四十万！含泪总结！",
-          "link": "https://blog.lichenghao.cn/article/omvn6uy69a3l",
-          "description": "新婚买房",
-          "pub_date": "2025-09-02T15:28:33+08:00",
-          "updated_at": "2025-09-02T15:28:33+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+          "title": "桦加沙过后的凤凰山",
+          "link": "https://yayu.net/5796.html",
+          "description": "两周没去爬山，心里一直想着要去看看台风桦加沙过的凤凰山，看看我熟悉的山野和树木是否无恙。雨后的泥路比较湿滑，也 [&#8230;]",
+          "pub_date": "2025-09-28T11:50:26+08:00",
+          "updated_at": "2025-09-28T11:50:26+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
         },
         {
-          "title": "Android 和 ios 利用企业微信实现手机验证码共享🎉",
-          "link": "https://blog.lichenghao.cn/article/od5noe30udw6",
-          "description": "之前分享过，利用 Bark 来实现 使用 Bark 和小伙伴共享验证码！ | 故事的程序猿 ，但是最近李老师换 Android 手机了，那么 Bark 只能用在 IOS 客户端上。所以就有了这次分享。",
-          "pub_date": "2025-08-22T22:00:08+08:00",
-          "updated_at": "2025-08-22T22:00:08+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+          "title": "山西河北历史文化之旅｜河北正定古城和正定四塔",
+          "link": "https://yayu.net/5724.html",
+          "description": "「山西河北9天历史文化之旅」第十篇 —— 正定古城和正定四塔 行程的第8天，计划一整天就在石家庄的正定古城内晃 [&#8230;]",
+          "pub_date": "2025-09-26T11:55:44+08:00",
+          "updated_at": "2025-09-26T11:55:44+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
+        },
+        {
+          "title": "山西河北历史文化之旅｜赵州桥",
+          "link": "https://yayu.net/5696.html",
+          "description": "「山西河北9天历史文化之旅」第九篇 —— 赵州桥 终于看到小学语文课本中的赵州桥。赵州桥原名安济桥，因为赵县古 [&#8230;]",
+          "pub_date": "2025-09-23T11:15:25+08:00",
+          "updated_at": "2025-09-23T11:15:25+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
+        },
+        {
+          "title": "山西河北历史文化之旅｜广灵甸顶山空中草原",
+          "link": "https://yayu.net/5653.html",
+          "description": "「山西河北9天历史文化之旅」第八篇 —— 长城一号旅游公路 至 广灵甸顶山空中草原 离开大同火山群，我驱车直奔 [&#8230;]",
+          "pub_date": "2025-09-19T11:55:16+08:00",
+          "updated_at": "2025-09-19T11:55:16+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
+        },
+        {
+          "title": "macOS Tahoe 26 丑哭了",
+          "link": "https://yayu.net/5692.html",
+          "description": "苹果推出了“液态玻璃” 升级视觉，号称 “惊艳新设计”。今晚看到 MacBook 的更新提醒，我没想太多就点了 [&#8230;]",
+          "pub_date": "2025-09-18T14:34:16+08:00",
+          "updated_at": "2025-09-18T14:34:16+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
+        },
+        {
+          "title": "山西河北历史文化之旅｜大同火山群",
+          "link": "https://yayu.net/5632.html",
+          "description": "「山西河北9天历史文化之旅」第七篇 —— 大同火山群国家级地质公园 大同火山群是大同火山断陷盆地第四纪(距今8 [&#8230;]",
+          "pub_date": "2025-09-16T11:55:11+08:00",
+          "updated_at": "2025-09-16T11:55:11+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
+        },
+        {
+          "title": "山西河北历史文化之旅｜云冈石窟",
+          "link": "https://yayu.net/5593.html",
+          "description": "「山西河北9天历史文化之旅」第六篇 —— 大同云冈石窟 云冈石窟(Yungang Grottoes)，原名灵岩 [&#8230;]",
+          "pub_date": "2025-09-11T03:55:57+08:00",
+          "updated_at": "2025-09-11T03:55:57+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
+        },
+        {
+          "title": "以阅读体验为核心的网页宽度设计策略",
+          "link": "https://yayu.net/5589.html",
+          "description": "近期接到几位老铁的吐槽，建议加宽网页的主内容宽度和图片尺寸。及时反思和保持进取，当晚我就翻看了更新日志，发现当 [&#8230;]",
+          "pub_date": "2025-09-06T08:01:18+08:00",
+          "updated_at": "2025-09-06T08:01:18+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
+        },
+        {
+          "title": "山西河北历史文化之旅｜大同土林",
+          "link": "https://yayu.net/5567.html",
+          "description": "「山西河北9天历史文化之旅」第五篇 —— 大同土林 大同土林（大同土林地质公园）是我此次旅行较喜欢，也驻足较久 [&#8230;]",
+          "pub_date": "2025-09-05T04:00:54+08:00",
+          "updated_at": "2025-09-05T04:00:54+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
+        },
+        {
+          "title": "山西河北历史文化之旅｜应县木塔",
+          "link": "https://yayu.net/5554.html",
+          "description": "「山西河北9天历史文化之旅」第四篇——应县木塔 佛宫寺释迦塔（Pagoda of Fogong Temple） [&#8230;]",
+          "pub_date": "2025-09-01T13:17:51+08:00",
+          "updated_at": "2025-09-01T13:17:51+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
+        },
+        {
+          "title": "山西河北历史文化之旅｜山西古城合集",
+          "link": "https://yayu.net/5455.html",
+          "description": "「山西河北9天历史文化之旅」第三篇——游山西忻州古城、代县古城、大同古城的古寺古迹。 感谢老铁们看上一篇博文后 [&#8230;]",
+          "pub_date": "2025-08-28T11:50:40+08:00",
+          "updated_at": "2025-08-28T11:50:40+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
+        },
+        {
+          "title": "雅余也有公众号了",
+          "link": "https://yayu.net/5454.html",
+          "description": "两个月前，我开始启用注册了4年的公众号，作为一种尝试。经过一段时间对公众号的熟悉，终于敢在博客中提及了。 公众 [&#8230;]",
+          "pub_date": "2025-08-24T14:22:36+08:00",
+          "updated_at": "2025-08-24T14:22:36+08:00",
+          "author": "雅余",
+          "site_name": "雅余",
+          "site_url": "https://yayu.net/",
+          "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
         }
       ]
     },
@@ -1584,21 +1466,120 @@
       ]
     },
     {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://gravatar.memobbs.app/avatar/ba83fa02fc4b2ba621514941307e21be?s=80",
-      "feed_url": "https://immmmm.com/feed",
+      "name": "故事的程序猿",
+      "url": "https://blog.lichenghao.cn",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg",
+      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
       "posts": [
         {
-          "title": "Lucky-canvas 抽奖插件折腾记",
-          "link": "https://immmmm.com/lucky-everday/",
-          "description": "<p>基于 <a href=\"https://github.com/buuing/lucky-canvas\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">「Lucky-canvas」</a> 抽奖插件，借助 <a href=\"https://www.trae.ai/\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">字节跳动 trae</a> 做了个大转盘，全屏显示、替换背景、概率设置、一键导入、边框修改等能想到的和需要的功能都已实现，效果远超预期。</p>\n<p>体验地址：<a href=\"https://immmmm.com/dzp/\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">https://immmmm.com/dzp/</a></p>\n<h3 id=\"使用手册-\">使用手册 📚</h3>\n<p>1.打开网址， 右下角“全屏按钮”，右上角是“设置入口”。点击中间开始转动，结束时会弹出中奖内容，并伴有撒花。</p>\n<p>2.右上角点击进入“设置”。首次打开，点击安装字体“Aa 年度最可爱”。</p>\n<p>3.设置分层两列，左侧显示的奖项名称、中奖概率，可以直接修改或删除。说明：某一奖项的数值是这一项中奖率的“分子”，所有数值总和是“分母”。如“棒棒糖”的中奖率设置的 15，则中奖率是</p>\n<p><code>15/（10+10+……+15+10+10+5）</code></p>\n<p>4.左侧奖项列表下方是 4 个按钮。顾名思义，第 1、2、4 项试试就知。说明一下第 3 项“上传配置”，采用了“上传 txt 文件，一行一条内容”的形式，一键导入。如：本地新建了以下内容「姓氏+空格+中奖数值」</p>\n<div class=\"highlight\"><pre tabindex=\"0\"><code class=\"language-js\"><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">张</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">王</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">李</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">田</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">柳</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">石</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span></code></pre></div><p>点击“上传配置”，选择 txt 文件，导入即可。所以，如果要换电脑快速导入，只要编辑保存好自己的“奖项.txt”到别的电脑，导入即可。</p>\n<p>5.配置右侧，点击可更改转盘配色、指针、内外层转盘背景。</p>\n<p><em>随心搭配，换着玩儿～</em></p>\n<h3 id=\"致谢\">致谢</h3>\n<p><a href=\"https://taoshu.in/web/lucky-canvas.html#%E8%80%81%E8%99%8E%E6%9C%BA\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">抽奖组件 lucky-canvas 素材大全</a></p>\n<p>🎉</p>",
-          "pub_date": "2025-05-31T12:02:58+08:00",
-          "updated_at": "2025-05-31T12:02:58+08:00",
-          "author": "林木木",
-          "site_name": "木木木木木",
-          "site_url": "https://immmmm.com/",
-          "avatar": "https://gravatar.memobbs.app/avatar/ba83fa02fc4b2ba621514941307e21be?s=80"
+          "title": "我为开心消消乐怒冲一块钱！",
+          "link": "https://blog.lichenghao.cn/article/loqvgppo5q9y",
+          "description": "我玩开心消消乐有七八年了，这几天的 11159 关也太难了吧！！！",
+          "pub_date": "2025-11-15T14:41:01+08:00",
+          "updated_at": "2025-11-15T14:41:01+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "一个悠闲的周六",
+          "link": "https://blog.lichenghao.cn/article/pull9dpvsxtf",
+          "description": "对我来说，悠闲双休的周末“可不多了”。李老师这个月底就要生了，顺利的话我们还能再有两个二人世界的周末。",
+          "pub_date": "2025-11-08T21:22:20+08:00",
+          "updated_at": "2025-11-08T21:22:20+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "十月-忙碌、期望、激动\\(≧▽≦)/",
+          "link": "https://blog.lichenghao.cn/article/uowqqituzesr",
+          "description": "忙忙碌碌的，到了今天才有时间总结下十月发生的点点滴滴~",
+          "pub_date": "2025-11-07T20:59:02+08:00",
+          "updated_at": "2025-11-07T20:59:02+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "Islands 主题：JetBrains IDE 迎来全新外观",
+          "link": "https://blog.lichenghao.cn/article/g8ja27idsfz9",
+          "description": "Islands 主题：JetBrains IDE 迎来全新外观",
+          "pub_date": "2025-11-04T14:21:57+08:00",
+          "updated_at": "2025-11-04T14:21:57+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "腾讯云EdgeOne取消免费套餐中的源站防护功能",
+          "link": "https://blog.lichenghao.cn/article/vgwpskyaixpb",
+          "description": "不久前也被免费套餐吸引，最近提示取消了免费套餐中的源站防护功能。",
+          "pub_date": "2025-10-22T13:48:08+08:00",
+          "updated_at": "2025-10-22T13:48:08+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "我的小橘猫三岁了哦~",
+          "link": "https://blog.lichenghao.cn/article/6safj6n0uz03",
+          "description": "我的小橘猫三岁多了，比姐姐大一岁，即将跟我们一起迎接弟弟的到来。",
+          "pub_date": "2025-10-20T20:12:22+08:00",
+          "updated_at": "2025-10-20T20:12:22+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "八九月小结【二五年】",
+          "link": "https://blog.lichenghao.cn/article/8lk32ehxa41f",
+          "description": "这两个月实在是太忙了，除了要上班以外，家里的房子装修的设计相关的东西，照顾怀孕的媳妇儿，去沈阳办理过户...",
+          "pub_date": "2025-10-09T15:07:02+08:00",
+          "updated_at": "2025-10-09T15:07:02+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵式",
+          "link": "https://blog.lichenghao.cn/article/0omloraxbim9",
+          "description": "今天的中国 🇨🇳，江山壮丽、人民豪迈，更无惧任何风浪！让我们一起铭记历史，从伟大胜利走向伟大复兴！",
+          "pub_date": "2025-09-03T15:34:53+08:00",
+          "updated_at": "2025-09-03T15:34:53+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "买房五年卖掉后，怒亏四十万！含泪总结！",
+          "link": "https://blog.lichenghao.cn/article/omvn6uy69a3l",
+          "description": "新婚买房",
+          "pub_date": "2025-09-02T15:28:33+08:00",
+          "updated_at": "2025-09-02T15:28:33+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "Android 和 ios 利用企业微信实现手机验证码共享🎉",
+          "link": "https://blog.lichenghao.cn/article/od5noe30udw6",
+          "description": "之前分享过，利用 Bark 来实现 使用 Bark 和小伙伴共享验证码！ | 故事的程序猿 ，但是最近李老师换 Android 手机了，那么 Bark 只能用在 IOS 客户端上。所以就有了这次分享。",
+          "pub_date": "2025-08-22T22:00:08+08:00",
+          "updated_at": "2025-08-22T22:00:08+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
         }
       ]
     },
@@ -1831,6 +1812,25 @@
       ]
     },
     {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://gravatar.memobbs.app/avatar/ba83fa02fc4b2ba621514941307e21be?s=80",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": [
+        {
+          "title": "Lucky-canvas 抽奖插件折腾记",
+          "link": "https://immmmm.com/lucky-everday/",
+          "description": "<p>基于 <a href=\"https://github.com/buuing/lucky-canvas\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">「Lucky-canvas」</a> 抽奖插件，借助 <a href=\"https://www.trae.ai/\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">字节跳动 trae</a> 做了个大转盘，全屏显示、替换背景、概率设置、一键导入、边框修改等能想到的和需要的功能都已实现，效果远超预期。</p>\n<p>体验地址：<a href=\"https://immmmm.com/dzp/\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">https://immmmm.com/dzp/</a></p>\n<h3 id=\"使用手册-\">使用手册 📚</h3>\n<p>1.打开网址， 右下角“全屏按钮”，右上角是“设置入口”。点击中间开始转动，结束时会弹出中奖内容，并伴有撒花。</p>\n<p>2.右上角点击进入“设置”。首次打开，点击安装字体“Aa 年度最可爱”。</p>\n<p>3.设置分层两列，左侧显示的奖项名称、中奖概率，可以直接修改或删除。说明：某一奖项的数值是这一项中奖率的“分子”，所有数值总和是“分母”。如“棒棒糖”的中奖率设置的 15，则中奖率是</p>\n<p><code>15/（10+10+……+15+10+10+5）</code></p>\n<p>4.左侧奖项列表下方是 4 个按钮。顾名思义，第 1、2、4 项试试就知。说明一下第 3 项“上传配置”，采用了“上传 txt 文件，一行一条内容”的形式，一键导入。如：本地新建了以下内容「姓氏+空格+中奖数值」</p>\n<div class=\"highlight\"><pre tabindex=\"0\"><code class=\"language-js\"><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">张</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">王</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">李</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">田</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">柳</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">石</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span></code></pre></div><p>点击“上传配置”，选择 txt 文件，导入即可。所以，如果要换电脑快速导入，只要编辑保存好自己的“奖项.txt”到别的电脑，导入即可。</p>\n<p>5.配置右侧，点击可更改转盘配色、指针、内外层转盘背景。</p>\n<p><em>随心搭配，换着玩儿～</em></p>\n<h3 id=\"致谢\">致谢</h3>\n<p><a href=\"https://taoshu.in/web/lucky-canvas.html#%E8%80%81%E8%99%8E%E6%9C%BA\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">抽奖组件 lucky-canvas 素材大全</a></p>\n<p>🎉</p>",
+          "pub_date": "2025-05-31T12:02:58+08:00",
+          "updated_at": "2025-05-31T12:02:58+08:00",
+          "author": "林木木",
+          "site_name": "木木木木木",
+          "site_url": "https://immmmm.com/",
+          "avatar": "https://gravatar.memobbs.app/avatar/ba83fa02fc4b2ba621514941307e21be?s=80"
+        }
+      ]
+    },
+    {
       "name": "Hello Alili",
       "url": "https://alili.tech/",
       "avatar": "https://cdn.xiaoten.com/friends/alili.png",
@@ -2026,6 +2026,69 @@
           "site_name": "枋柚梓",
           "site_url": "https://inkss.cn/",
           "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
+        }
+      ]
+    },
+    {
+      "name": "友人C",
+      "url": "https://www.ihewro.com",
+      "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg",
+      "feed_url": "https://www.ihewro.com/feed",
+      "posts": [
+        {
+          "title": "成为 Chromium Committer 我的个人经历",
+          "link": "https://www.ihewro.com/archives/1377/",
+          "description": "国庆后10月9号，非常开心收到了 Chromium Committer 提名成功的邮件，申请到 Chromium.org 后缀的邮箱。可能有不少人不了解 Chromium Committer是什...",
+          "pub_date": "2025-11-09T00:31:00+08:00",
+          "updated_at": "2025-11-09T00:31:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+        },
+        {
+          "title": "何以为我 - Being Leads Doing.",
+          "link": "https://www.ihewro.com/archives/1376/",
+          "description": "已经好久没有在博客上分享最新的动态，最近几个月似乎有些迷失在焦虑和痛苦里。以至于每年生日之后会写一篇的总结的文章也没有写，本文权当作为生日后的总结吧。[scode type=\"share\" si...",
+          "pub_date": "2025-10-21T00:36:00+08:00",
+          "updated_at": "2025-10-21T00:36:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+        },
+        {
+          "title": "LifeTimer - 记录生活、学习、工作",
+          "link": "https://www.ihewro.com/archives/1372/",
+          "description": "特色所有数据存储在你自己的服务器之上，非常适合有服务器的人macOS原生开发，体积小，性能好完美适配博客，支持在博客上显示小组件日/周/月视图轻松查阅自己的时间分配开源，随时可以自己继续开发隐藏...",
+          "pub_date": "2025-07-21T00:15:00+08:00",
+          "updated_at": "2025-07-21T00:15:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+        },
+        {
+          "title": "为什么软件在 macOS 上启动很慢？",
+          "link": "https://www.ihewro.com/archives/1355/",
+          "description": "前言有没有发现很多软件在 macOS 上启动很慢，比如 edge/ 微信 /chrome/ 会议软件等等。加载一个动态库时间甚至长达 10～20 秒，让人匪夷所思。你可能认为只有在 intel ...",
+          "pub_date": "2025-05-31T23:23:00+08:00",
+          "updated_at": "2025-05-31T23:23:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+        },
+        {
+          "title": "支持 Markdown 行级别评论 ｜ 聊聊 AI 如何高效代码开发",
+          "link": "https://www.ihewro.com/archives/1351/",
+          "description": "现在很多实时协作的文档都支持“划线评论”，是我日常工作中非常高频的一个功能。而当我阅读其他人博客的时候，很少会去评论，有一个原因就是文章太长的时候，没有耐心看完，看完之后也不知道评论什么了。我自...",
+          "pub_date": "2025-05-27T00:09:00+08:00",
+          "updated_at": "2025-05-27T00:09:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
         }
       ]
     },
@@ -2236,6 +2299,175 @@
       ]
     },
     {
+      "name": "且听书吟",
+      "url": "https://yufan.me",
+      "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353",
+      "feed_url": "https://yufan.me/feed",
+      "posts": [
+        {
+          "title": "再见，小时候",
+          "link": "https://yufan.me/posts/never-say-goodbye-to-childhood",
+          "description": "无论如何，我都要和小时候告别了。但属于我的童年、我的趣事，我会一直记得。",
+          "pub_date": "2025-11-15T09:36:31+08:00",
+          "updated_at": "2025-11-15T09:36:31+08:00",
+          "author": "syhily@gmail.com (雨帆)",
+          "site_name": "且听书吟",
+          "site_url": "https://yufan.me",
+          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
+        },
+        {
+          "title": "如果・爱",
+          "link": "https://yufan.me/posts/perhaps-love",
+          "description": "如果这就是爱，为什么要等到十年后才明白？",
+          "pub_date": "2025-11-06T16:11:34+08:00",
+          "updated_at": "2025-11-06T16:11:34+08:00",
+          "author": "syhily@gmail.com (雨帆)",
+          "site_name": "且听书吟",
+          "site_url": "https://yufan.me",
+          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
+        },
+        {
+          "title": "时光里的安然",
+          "link": "https://yufan.me/posts/tranquil-times",
+          "description": "窗外小雨已歇，桂花香却仍旧停在记忆深处——像一场迟来的温柔，悄悄包裹着记忆，也包裹着那段安静的时光。",
+          "pub_date": "2025-11-06T06:01:05+08:00",
+          "updated_at": "2025-11-06T06:01:05+08:00",
+          "author": "syhily@gmail.com (雨帆)",
+          "site_name": "且听书吟",
+          "site_url": "https://yufan.me",
+          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
+        },
+        {
+          "title": "简单的幸福",
+          "link": "https://yufan.me/posts/simple-happiness",
+          "description": "我能感受到心里那份柔软和温暖，像你和孩子们在身边时一样，让我相信，无论现实多忙碌，生活依然可以轻盈而美好。",
+          "pub_date": "2025-11-05T16:01:32+08:00",
+          "updated_at": "2025-11-05T16:01:32+08:00",
+          "author": "syhily@gmail.com (雨帆)",
+          "site_name": "且听书吟",
+          "site_url": "https://yufan.me",
+          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
+        },
+        {
+          "title": "秋日暖阳",
+          "link": "https://yufan.me/posts/sun-in-autumn",
+          "description": "炎热的夏天仿佛被人突然按下了暂停键。十一一过，绵绵的秋雨便接踵而至，天气也一层一层地转凉。",
+          "pub_date": "2025-10-21T18:15:23+08:00",
+          "updated_at": "2025-10-21T18:15:23+08:00",
+          "author": "syhily@gmail.com (雨帆)",
+          "site_name": "且听书吟",
+          "site_url": "https://yufan.me",
+          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
+        },
+        {
+          "title": "遇见你的那一天",
+          "link": "https://yufan.me/posts/the-day-i-met-you",
+          "description": "有些失去是注定的，有些缘分终究没有结果。有时候我会想，如果能重来该有多好。可是真的能重来，也未必能尽如人意。",
+          "pub_date": "2025-10-14T09:26:28+08:00",
+          "updated_at": "2025-10-14T09:26:28+08:00",
+          "author": "syhily@gmail.com (雨帆)",
+          "site_name": "且听书吟",
+          "site_url": "https://yufan.me",
+          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
+        },
+        {
+          "title": "一阵风，两场雨",
+          "link": "https://yufan.me/posts/a-breeze-two-rains",
+          "description": "一阵风，两场雨，几点思绪，不过如此。",
+          "pub_date": "2025-10-14T01:12:28+08:00",
+          "updated_at": "2025-10-14T01:12:28+08:00",
+          "author": "syhily@gmail.com (雨帆)",
+          "site_name": "且听书吟",
+          "site_url": "https://yufan.me",
+          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
+        },
+        {
+          "title": "时光里的初见",
+          "link": "https://yufan.me/posts/first-glimpse-through-time",
+          "description": "人生若只如初见，何事秋风悲画扇。等闲变却故人心，却道故人心易变。",
+          "pub_date": "2025-10-12T20:07:12+08:00",
+          "updated_at": "2025-10-12T20:07:12+08:00",
+          "author": "syhily@gmail.com (雨帆)",
+          "site_name": "且听书吟",
+          "site_url": "https://yufan.me",
+          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
+        },
+        {
+          "title": "《视觉之旅——神秘的机器世界》书评",
+          "link": "https://yufan.me/posts/book-review-in-how-things-work",
+          "description": "本书可以说是《视觉之旅》的新篇章，与机械制造相关的第一本书。",
+          "pub_date": "2025-10-12T16:25:28+08:00",
+          "updated_at": "2025-10-12T16:25:28+08:00",
+          "author": "syhily@gmail.com (雨帆)",
+          "site_name": "且听书吟",
+          "site_url": "https://yufan.me",
+          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
+        },
+        {
+          "title": "《美丽的化学元素》书评",
+          "link": "https://yufan.me/posts/book-review-in-chemistry-elements",
+          "description": "我们是否还需要这样一本化学元素科普书？",
+          "pub_date": "2025-10-12T11:20:19+08:00",
+          "updated_at": "2025-10-12T11:20:19+08:00",
+          "author": "syhily@gmail.com (雨帆)",
+          "site_name": "且听书吟",
+          "site_url": "https://yufan.me",
+          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
+        },
+        {
+          "title": "巴别塔终曲：最后一代卡西欧电子词典",
+          "link": "https://yufan.me/posts/2025-casio-ex-word",
+          "description": "卡西欧电子辞典曾经是学生时代的梦想，现在却成了过气产品的挣扎象征。",
+          "pub_date": "2025-10-11T06:04:21+08:00",
+          "updated_at": "2025-10-11T06:04:21+08:00",
+          "author": "syhily@gmail.com (雨帆)",
+          "site_name": "且听书吟",
+          "site_url": "https://yufan.me",
+          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
+        },
+        {
+          "title": "《Go 语言设计与实现》书评",
+          "link": "https://yufan.me/posts/book-review-in-go",
+          "description": "我觉得这本书更像是写给作者自己看的。如果想要让更多人看懂，或许还需要更多的努力。",
+          "pub_date": "2025-10-01T12:57:19+08:00",
+          "updated_at": "2025-10-01T12:57:19+08:00",
+          "author": "syhily@gmail.com (雨帆)",
+          "site_name": "且听书吟",
+          "site_url": "https://yufan.me",
+          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
+        },
+        {
+          "title": "学会向这个世界妥协",
+          "link": "https://yufan.me/posts/living-with-noise",
+          "description": "学会妥协，并不是承认错误，而是承认世界不会完全如你所愿。与世界相处的方式，往往不是“打败”，而是“放下”。",
+          "pub_date": "2025-09-28T15:58:28+08:00",
+          "updated_at": "2025-09-28T15:58:28+08:00",
+          "author": "syhily@gmail.com (雨帆)",
+          "site_name": "且听书吟",
+          "site_url": "https://yufan.me",
+          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
+        },
+        {
+          "title": "人生，很短也很长",
+          "link": "https://yufan.me/posts/life-is-like-a-boat",
+          "description": "人生从不是一场孤单的奔赴，而是一场带着爱与牵挂的接力。那些离开的人，会变成记忆里的光；那些陪伴在身边的人，会成为前行的力量。",
+          "pub_date": "2025-09-22T01:45:28+08:00",
+          "updated_at": "2025-09-22T01:45:28+08:00",
+          "author": "syhily@gmail.com (雨帆)",
+          "site_name": "且听书吟",
+          "site_url": "https://yufan.me",
+          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
+        }
+      ]
+    },
+    {
+      "name": "空白Koobai",
+      "url": "https://koobai.com/",
+      "avatar": "https://cdn.xiaoten.com/friends/koobai.webp",
+      "feed_url": "https://koobai.com/index.xml",
+      "posts": []
+    },
+    {
       "name": "Jack's Space",
       "url": "https://veryjack.com/",
       "avatar": "https://veryjack.com/wp-content/uploads/2025/05/avatar_transparant-150x150.webp",
@@ -2418,238 +2650,6 @@
           "avatar": "https://veryjack.com/wp-content/uploads/2025/05/avatar_transparant-150x150.webp"
         }
       ]
-    },
-    {
-      "name": "且听书吟",
-      "url": "https://yufan.me",
-      "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353",
-      "feed_url": "https://yufan.me/feed",
-      "posts": [
-        {
-          "title": "再见，小时候",
-          "link": "https://yufan.me/posts/never-say-goodbye-to-childhood",
-          "description": "无论如何，我都要和小时候告别了。但属于我的童年、我的趣事，我会一直记得。",
-          "pub_date": "2025-11-15T09:36:31+08:00",
-          "updated_at": "2025-11-15T09:36:31+08:00",
-          "author": "syhily@gmail.com (雨帆)",
-          "site_name": "且听书吟",
-          "site_url": "https://yufan.me",
-          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
-        },
-        {
-          "title": "如果・爱",
-          "link": "https://yufan.me/posts/perhaps-love",
-          "description": "如果这就是爱，为什么要等到十年后才明白？",
-          "pub_date": "2025-11-06T16:11:34+08:00",
-          "updated_at": "2025-11-06T16:11:34+08:00",
-          "author": "syhily@gmail.com (雨帆)",
-          "site_name": "且听书吟",
-          "site_url": "https://yufan.me",
-          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
-        },
-        {
-          "title": "时光里的安然",
-          "link": "https://yufan.me/posts/tranquil-times",
-          "description": "窗外小雨已歇，桂花香却仍旧停在记忆深处——像一场迟来的温柔，悄悄包裹着记忆，也包裹着那段安静的时光。",
-          "pub_date": "2025-11-06T06:01:05+08:00",
-          "updated_at": "2025-11-06T06:01:05+08:00",
-          "author": "syhily@gmail.com (雨帆)",
-          "site_name": "且听书吟",
-          "site_url": "https://yufan.me",
-          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
-        },
-        {
-          "title": "简单的幸福",
-          "link": "https://yufan.me/posts/simple-happiness",
-          "description": "我能感受到心里那份柔软和温暖，像你和孩子们在身边时一样，让我相信，无论现实多忙碌，生活依然可以轻盈而美好。",
-          "pub_date": "2025-11-05T16:01:32+08:00",
-          "updated_at": "2025-11-05T16:01:32+08:00",
-          "author": "syhily@gmail.com (雨帆)",
-          "site_name": "且听书吟",
-          "site_url": "https://yufan.me",
-          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
-        },
-        {
-          "title": "秋日暖阳",
-          "link": "https://yufan.me/posts/sun-in-autumn",
-          "description": "炎热的夏天仿佛被人突然按下了暂停键。十一一过，绵绵的秋雨便接踵而至，天气也一层一层地转凉。",
-          "pub_date": "2025-10-21T18:15:23+08:00",
-          "updated_at": "2025-10-21T18:15:23+08:00",
-          "author": "syhily@gmail.com (雨帆)",
-          "site_name": "且听书吟",
-          "site_url": "https://yufan.me",
-          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
-        },
-        {
-          "title": "遇见你的那一天",
-          "link": "https://yufan.me/posts/the-day-i-met-you",
-          "description": "有些失去是注定的，有些缘分终究没有结果。有时候我会想，如果能重来该有多好。可是真的能重来，也未必能尽如人意。",
-          "pub_date": "2025-10-14T09:26:28+08:00",
-          "updated_at": "2025-10-14T09:26:28+08:00",
-          "author": "syhily@gmail.com (雨帆)",
-          "site_name": "且听书吟",
-          "site_url": "https://yufan.me",
-          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
-        },
-        {
-          "title": "一阵风，两场雨",
-          "link": "https://yufan.me/posts/a-breeze-two-rains",
-          "description": "一阵风，两场雨，几点思绪，不过如此。",
-          "pub_date": "2025-10-14T01:12:28+08:00",
-          "updated_at": "2025-10-14T01:12:28+08:00",
-          "author": "syhily@gmail.com (雨帆)",
-          "site_name": "且听书吟",
-          "site_url": "https://yufan.me",
-          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
-        },
-        {
-          "title": "时光里的初见",
-          "link": "https://yufan.me/posts/first-glimpse-through-time",
-          "description": "人生若只如初见，何事秋风悲画扇。等闲变却故人心，却道故人心易变。",
-          "pub_date": "2025-10-12T20:07:12+08:00",
-          "updated_at": "2025-10-12T20:07:12+08:00",
-          "author": "syhily@gmail.com (雨帆)",
-          "site_name": "且听书吟",
-          "site_url": "https://yufan.me",
-          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
-        },
-        {
-          "title": "《视觉之旅——神秘的机器世界》书评",
-          "link": "https://yufan.me/posts/book-review-in-how-things-work",
-          "description": "本书可以说是《视觉之旅》的新篇章，与机械制造相关的第一本书。",
-          "pub_date": "2025-10-12T16:25:28+08:00",
-          "updated_at": "2025-10-12T16:25:28+08:00",
-          "author": "syhily@gmail.com (雨帆)",
-          "site_name": "且听书吟",
-          "site_url": "https://yufan.me",
-          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
-        },
-        {
-          "title": "《美丽的化学元素》书评",
-          "link": "https://yufan.me/posts/book-review-in-chemistry-elements",
-          "description": "我们是否还需要这样一本化学元素科普书？",
-          "pub_date": "2025-10-12T11:20:19+08:00",
-          "updated_at": "2025-10-12T11:20:19+08:00",
-          "author": "syhily@gmail.com (雨帆)",
-          "site_name": "且听书吟",
-          "site_url": "https://yufan.me",
-          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
-        },
-        {
-          "title": "巴别塔终曲：最后一代卡西欧电子词典",
-          "link": "https://yufan.me/posts/2025-casio-ex-word",
-          "description": "卡西欧电子辞典曾经是学生时代的梦想，现在却成了过气产品的挣扎象征。",
-          "pub_date": "2025-10-11T06:04:21+08:00",
-          "updated_at": "2025-10-11T06:04:21+08:00",
-          "author": "syhily@gmail.com (雨帆)",
-          "site_name": "且听书吟",
-          "site_url": "https://yufan.me",
-          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
-        },
-        {
-          "title": "《Go 语言设计与实现》书评",
-          "link": "https://yufan.me/posts/book-review-in-go",
-          "description": "我觉得这本书更像是写给作者自己看的。如果想要让更多人看懂，或许还需要更多的努力。",
-          "pub_date": "2025-10-01T12:57:19+08:00",
-          "updated_at": "2025-10-01T12:57:19+08:00",
-          "author": "syhily@gmail.com (雨帆)",
-          "site_name": "且听书吟",
-          "site_url": "https://yufan.me",
-          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
-        },
-        {
-          "title": "学会向这个世界妥协",
-          "link": "https://yufan.me/posts/living-with-noise",
-          "description": "学会妥协，并不是承认错误，而是承认世界不会完全如你所愿。与世界相处的方式，往往不是“打败”，而是“放下”。",
-          "pub_date": "2025-09-28T15:58:28+08:00",
-          "updated_at": "2025-09-28T15:58:28+08:00",
-          "author": "syhily@gmail.com (雨帆)",
-          "site_name": "且听书吟",
-          "site_url": "https://yufan.me",
-          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
-        },
-        {
-          "title": "人生，很短也很长",
-          "link": "https://yufan.me/posts/life-is-like-a-boat",
-          "description": "人生从不是一场孤单的奔赴，而是一场带着爱与牵挂的接力。那些离开的人，会变成记忆里的光；那些陪伴在身边的人，会成为前行的力量。",
-          "pub_date": "2025-09-22T01:45:28+08:00",
-          "updated_at": "2025-09-22T01:45:28+08:00",
-          "author": "syhily@gmail.com (雨帆)",
-          "site_name": "且听书吟",
-          "site_url": "https://yufan.me",
-          "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
-        }
-      ]
-    },
-    {
-      "name": "友人C",
-      "url": "https://www.ihewro.com",
-      "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg",
-      "feed_url": "https://www.ihewro.com/feed",
-      "posts": [
-        {
-          "title": "成为 Chromium Committer 我的个人经历",
-          "link": "https://www.ihewro.com/archives/1377/",
-          "description": "国庆后10月9号，非常开心收到了 Chromium Committer 提名成功的邮件，申请到 Chromium.org 后缀的邮箱。可能有不少人不了解 Chromium Committer是什...",
-          "pub_date": "2025-11-09T00:31:00+08:00",
-          "updated_at": "2025-11-09T00:31:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
-        },
-        {
-          "title": "何以为我 - Being Leads Doing.",
-          "link": "https://www.ihewro.com/archives/1376/",
-          "description": "已经好久没有在博客上分享最新的动态，最近几个月似乎有些迷失在焦虑和痛苦里。以至于每年生日之后会写一篇的总结的文章也没有写，本文权当作为生日后的总结吧。[scode type=\"share\" si...",
-          "pub_date": "2025-10-21T00:36:00+08:00",
-          "updated_at": "2025-10-21T00:36:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
-        },
-        {
-          "title": "LifeTimer - 记录生活、学习、工作",
-          "link": "https://www.ihewro.com/archives/1372/",
-          "description": "特色所有数据存储在你自己的服务器之上，非常适合有服务器的人macOS原生开发，体积小，性能好完美适配博客，支持在博客上显示小组件日/周/月视图轻松查阅自己的时间分配开源，随时可以自己继续开发隐藏...",
-          "pub_date": "2025-07-21T00:15:00+08:00",
-          "updated_at": "2025-07-21T00:15:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
-        },
-        {
-          "title": "为什么软件在 macOS 上启动很慢？",
-          "link": "https://www.ihewro.com/archives/1355/",
-          "description": "前言有没有发现很多软件在 macOS 上启动很慢，比如 edge/ 微信 /chrome/ 会议软件等等。加载一个动态库时间甚至长达 10～20 秒，让人匪夷所思。你可能认为只有在 intel ...",
-          "pub_date": "2025-05-31T23:23:00+08:00",
-          "updated_at": "2025-05-31T23:23:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
-        },
-        {
-          "title": "支持 Markdown 行级别评论 ｜ 聊聊 AI 如何高效代码开发",
-          "link": "https://www.ihewro.com/archives/1351/",
-          "description": "现在很多实时协作的文档都支持“划线评论”，是我日常工作中非常高频的一个功能。而当我阅读其他人博客的时候，很少会去评论，有一个原因就是文章太长的时候，没有耐心看完，看完之后也不知道评论什么了。我自...",
-          "pub_date": "2025-05-27T00:09:00+08:00",
-          "updated_at": "2025-05-27T00:09:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
-        }
-      ]
-    },
-    {
-      "name": "空白Koobai",
-      "url": "https://koobai.com/",
-      "avatar": "https://cdn.xiaoten.com/friends/koobai.webp",
-      "feed_url": "https://koobai.com/index.xml",
-      "posts": []
     },
     {
       "name": "小十博客",
