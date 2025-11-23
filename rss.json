@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-23T09:42:49.088613+08:00",
+  "updated_at": "2025-11-23T14:27:34.859520+08:00",
   "total_sites": 24,
   "total_posts": 239,
   "sites": [
@@ -453,124 +453,6 @@
       "posts": []
     },
     {
-      "name": "手里有只毛毛虫",
-      "url": "https://www.krjojo.com/",
-      "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif",
-      "feed_url": "https://www.krjojo.com/feed",
-      "posts": [
-        {
-          "title": "分享一个 Umami 追踪站内搜索的办法",
-          "link": "https://www.krjojo.com/12416.html",
-          "description": "想起以前用 Matomo 的时候是自带站内搜索追踪的，后来换了Umami 后这功能被遗忘了。 如今突然想起，结 ...\n<p><a href=\"https://www.krjojo.com/12416.html\" rel=\"nofollow\">来源</a></p>",
-          "pub_date": "2025-11-16T13:32:59+08:00",
-          "updated_at": "2025-11-16T13:32:59+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
-        },
-        {
-          "title": "记录一次.git 目录过大，手动瘦身过程",
-          "link": "https://www.krjojo.com/12384.html",
-          "description": "某次不小心把大文件推送了Git，导致.git文件非常大， 每次打开都非常吃读写速度，哪怕后面把大文件删除了也无 ...\n<p><a href=\"https://www.krjojo.com/12384.html\" rel=\"nofollow\">来源</a></p>",
-          "pub_date": "2025-11-10T14:11:08+08:00",
-          "updated_at": "2025-11-10T14:11:08+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
-        },
-        {
-          "title": "中西医之争，为何没人提比中医早五百年的印医",
-          "link": "https://www.krjojo.com/12328.html",
-          "description": "嘿，发明中医、西医这词的人真的是天才。 在名字上，把传统医学与现代医学，变成地域及文化对立，关键还效果不错。  ...\n<p><a href=\"https://www.krjojo.com/12328.html\" rel=\"nofollow\">来源</a></p>",
-          "pub_date": "2025-11-08T03:39:27+08:00",
-          "updated_at": "2025-11-08T03:39:27+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
-        },
-        {
-          "title": "阿里云安全组无法批量添加IP组解决办法",
-          "link": "https://www.krjojo.com/12340.html",
-          "description": "今天给阿里云添加腾讯EO回源IP段，发现了一个问题， 阿里云似乎没有IP组的概念。 如果在安全组中，把CDN回 ...\n<p><a href=\"https://www.krjojo.com/12340.html\" rel=\"nofollow\">来源</a></p>",
-          "pub_date": "2025-11-03T12:38:18+08:00",
-          "updated_at": "2025-11-03T12:38:18+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
-        },
-        {
-          "title": "网页利用 view-transition 仿 AppStore 转场动画",
-          "link": "https://www.krjojo.com/12288.html",
-          "description": "其实上个月为了体验这功能就做了这个demo项目，碍于后面有些事忙起来遗忘了，这次补发文章出来。 介绍一下 vi ...\n<p><a href=\"https://www.krjojo.com/12288.html\" rel=\"nofollow\">来源</a></p>",
-          "pub_date": "2025-10-21T03:26:45+08:00",
-          "updated_at": "2025-10-21T03:26:45+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
-        },
-        {
-          "title": "页面改造计划第一期完工",
-          "link": "https://www.krjojo.com/12183.html",
-          "description": "趁着国庆假期简单捣鼓了一下，整体风格更加现代化，又不失个性。 加入大量现代化元素，（可能）符合当下审美 设计目 ...\n<p><a href=\"https://www.krjojo.com/12183.html\" rel=\"nofollow\">来源</a></p>",
-          "pub_date": "2025-10-07T03:05:35+08:00",
-          "updated_at": "2025-10-07T03:05:35+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
-        },
-        {
-          "title": "为 Hugo 添加 LLMS 的支持",
-          "link": "https://www.krjojo.com/12092.html",
-          "description": "首先表明观点： 需要特定格式来消费信息的人工智能不是人工智能。 人工智能不需要它自己的格式来理解我的网站，如果 ...\n<p><a href=\"https://www.krjojo.com/12092.html\" rel=\"nofollow\">来源</a></p>",
-          "pub_date": "2025-08-20T13:39:56+08:00",
-          "updated_at": "2025-08-20T13:39:56+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
-        },
-        {
-          "title": "三角洲 天才少年 161击杀 拿下！！！",
-          "link": "https://www.krjojo.com/12073.html",
-          "description": "就想告诉大家一声，没别的意思，真的没有一点炫耀成分。 诶，你怎么知道我打出天才少年了？\n<p><a href=\"https://www.krjojo.com/12073.html\" rel=\"nofollow\">来源</a></p>",
-          "pub_date": "2025-08-05T06:56:43+08:00",
-          "updated_at": "2025-08-05T06:56:43+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
-        },
-        {
-          "title": "文明6 关闭扫盘方法",
-          "link": "https://www.krjojo.com/12024.html",
-          "description": "今天EPIC放出《席德·梅尔的文明VI 白金版》免费领取，至 2025/7/24 23:00 https:// ...\n<p><a href=\"https://www.krjojo.com/12024.html\" rel=\"nofollow\">来源</a></p>",
-          "pub_date": "2025-07-18T01:42:45+08:00",
-          "updated_at": "2025-07-18T01:42:45+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
-        },
-        {
-          "title": "LLMs.txt：让AI更方便爬取你的数据",
-          "link": "https://www.krjojo.com/11591.html",
-          "description": "最近，看到各种开发工具最近在其文档中添加了 LLMs.txt 支持。 虽然&#160;robots.txt&#038;n ...\n<p><a href=\"https://www.krjojo.com/11591.html\" rel=\"nofollow\">来源</a></p>",
-          "pub_date": "2025-06-25T11:04:01+08:00",
-          "updated_at": "2025-06-25T11:04:01+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
-        }
-      ]
-    },
-    {
       "name": "黑石博客",
       "url": "https://heson.me/",
       "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca",
@@ -689,6 +571,124 @@
       ]
     },
     {
+      "name": "手里有只毛毛虫",
+      "url": "https://www.krjojo.com/",
+      "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif",
+      "feed_url": "https://www.krjojo.com/feed",
+      "posts": [
+        {
+          "title": "分享一个 Umami 追踪站内搜索的办法",
+          "link": "https://www.krjojo.com/12416.html",
+          "description": "想起以前用 Matomo 的时候是自带站内搜索追踪的，后来换了Umami 后这功能被遗忘了。 如今突然想起，结 ...\n<p><a href=\"https://www.krjojo.com/12416.html\" rel=\"nofollow\">来源</a></p>",
+          "pub_date": "2025-11-16T13:32:59+08:00",
+          "updated_at": "2025-11-16T13:32:59+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
+        },
+        {
+          "title": "记录一次.git 目录过大，手动瘦身过程",
+          "link": "https://www.krjojo.com/12384.html",
+          "description": "某次不小心把大文件推送了Git，导致.git文件非常大， 每次打开都非常吃读写速度，哪怕后面把大文件删除了也无 ...\n<p><a href=\"https://www.krjojo.com/12384.html\" rel=\"nofollow\">来源</a></p>",
+          "pub_date": "2025-11-10T14:11:08+08:00",
+          "updated_at": "2025-11-10T14:11:08+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
+        },
+        {
+          "title": "中西医之争，为何没人提比中医早五百年的印医",
+          "link": "https://www.krjojo.com/12328.html",
+          "description": "嘿，发明中医、西医这词的人真的是天才。 在名字上，把传统医学与现代医学，变成地域及文化对立，关键还效果不错。  ...\n<p><a href=\"https://www.krjojo.com/12328.html\" rel=\"nofollow\">来源</a></p>",
+          "pub_date": "2025-11-08T03:39:27+08:00",
+          "updated_at": "2025-11-08T03:39:27+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
+        },
+        {
+          "title": "阿里云安全组无法批量添加IP组解决办法",
+          "link": "https://www.krjojo.com/12340.html",
+          "description": "今天给阿里云添加腾讯EO回源IP段，发现了一个问题， 阿里云似乎没有IP组的概念。 如果在安全组中，把CDN回 ...\n<p><a href=\"https://www.krjojo.com/12340.html\" rel=\"nofollow\">来源</a></p>",
+          "pub_date": "2025-11-03T12:38:18+08:00",
+          "updated_at": "2025-11-03T12:38:18+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
+        },
+        {
+          "title": "网页利用 view-transition 仿 AppStore 转场动画",
+          "link": "https://www.krjojo.com/12288.html",
+          "description": "其实上个月为了体验这功能就做了这个demo项目，碍于后面有些事忙起来遗忘了，这次补发文章出来。 介绍一下 vi ...\n<p><a href=\"https://www.krjojo.com/12288.html\" rel=\"nofollow\">来源</a></p>",
+          "pub_date": "2025-10-21T03:26:45+08:00",
+          "updated_at": "2025-10-21T03:26:45+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
+        },
+        {
+          "title": "页面改造计划第一期完工",
+          "link": "https://www.krjojo.com/12183.html",
+          "description": "趁着国庆假期简单捣鼓了一下，整体风格更加现代化，又不失个性。 加入大量现代化元素，（可能）符合当下审美 设计目 ...\n<p><a href=\"https://www.krjojo.com/12183.html\" rel=\"nofollow\">来源</a></p>",
+          "pub_date": "2025-10-07T03:05:35+08:00",
+          "updated_at": "2025-10-07T03:05:35+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
+        },
+        {
+          "title": "为 Hugo 添加 LLMS 的支持",
+          "link": "https://www.krjojo.com/12092.html",
+          "description": "首先表明观点： 需要特定格式来消费信息的人工智能不是人工智能。 人工智能不需要它自己的格式来理解我的网站，如果 ...\n<p><a href=\"https://www.krjojo.com/12092.html\" rel=\"nofollow\">来源</a></p>",
+          "pub_date": "2025-08-20T13:39:56+08:00",
+          "updated_at": "2025-08-20T13:39:56+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
+        },
+        {
+          "title": "三角洲 天才少年 161击杀 拿下！！！",
+          "link": "https://www.krjojo.com/12073.html",
+          "description": "就想告诉大家一声，没别的意思，真的没有一点炫耀成分。 诶，你怎么知道我打出天才少年了？\n<p><a href=\"https://www.krjojo.com/12073.html\" rel=\"nofollow\">来源</a></p>",
+          "pub_date": "2025-08-05T06:56:43+08:00",
+          "updated_at": "2025-08-05T06:56:43+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
+        },
+        {
+          "title": "文明6 关闭扫盘方法",
+          "link": "https://www.krjojo.com/12024.html",
+          "description": "今天EPIC放出《席德·梅尔的文明VI 白金版》免费领取，至 2025/7/24 23:00 https:// ...\n<p><a href=\"https://www.krjojo.com/12024.html\" rel=\"nofollow\">来源</a></p>",
+          "pub_date": "2025-07-18T01:42:45+08:00",
+          "updated_at": "2025-07-18T01:42:45+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
+        },
+        {
+          "title": "LLMs.txt：让AI更方便爬取你的数据",
+          "link": "https://www.krjojo.com/11591.html",
+          "description": "最近，看到各种开发工具最近在其文档中添加了 LLMs.txt 支持。 虽然&#160;robots.txt&#038;n ...\n<p><a href=\"https://www.krjojo.com/11591.html\" rel=\"nofollow\">来源</a></p>",
+          "pub_date": "2025-06-25T11:04:01+08:00",
+          "updated_at": "2025-06-25T11:04:01+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
+        }
+      ]
+    },
+    {
       "name": "小白大学渣",
       "url": "https://www.baihub.cn/",
       "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg",
@@ -748,6 +748,124 @@
           "site_name": "小白大学渣",
           "site_url": "https://www.baihub.cn/",
           "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
+        }
+      ]
+    },
+    {
+      "name": "网友小宋",
+      "url": "https://xyzbz.cn/",
+      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png",
+      "feed_url": "https://xyzbz.cn/feed",
+      "posts": [
+        {
+          "title": "乙巳蛇年-十一月半",
+          "link": "https://xyzbz.cn/archives/1477/",
+          "description": "电池焕新忍了半个月，终于到了月初，13的电池已经到了要崩溃的地步，充电宝也成为了出门必备的设备。1号重新下载了商城APP，电池换新，电池价格上个月从199降到了159，每月1-7日是服务日，会打...",
+          "pub_date": "2025-11-15T16:22:00+08:00",
+          "updated_at": "2025-11-15T16:22:00+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+        },
+        {
+          "title": "石漫滩二郎山半日游",
+          "link": "https://xyzbz.cn/archives/1465/",
+          "description": "此行缘由说起来此行有部分原因是因为前段时间电车第三次续保送的加油卷。自从有电车后油车开的很少，加了一次，没怎么开，但是第二张快到期了，不加就废了，关键是油箱油有点多，需要跑跑才能继续加。于是便跟...",
+          "pub_date": "2025-11-01T15:50:30+08:00",
+          "updated_at": "2025-11-01T15:50:30+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+        },
+        {
+          "title": "乙巳蛇年-十月末",
+          "link": "https://xyzbz.cn/archives/1463/",
+          "description": "杯碎十年之约的定制水杯No.2023001号，算起来也陪伴了我两年半，当初专门要的001的编号，那时候更新老积极了，现在正常更新两篇口水文，加上随机想写的文章。这两年也加了很多友联，看到一个一个...",
+          "pub_date": "2025-10-31T04:53:00+08:00",
+          "updated_at": "2025-10-31T04:53:00+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+        },
+        {
+          "title": "秋游海棠园",
+          "link": "https://xyzbz.cn/archives/1461/",
+          "description": "秋天忙碌了小半个月，终于赶上了休息，准备带着孩子出去转转，感受一些秋天，正如前段时间的评论，最近准备去秋游爬个山，去了，但是拍的图片太多了，爬山的图片还没有整理出来，第二天带娃散心的照片先整理出...",
+          "pub_date": "2025-10-28T11:38:33+08:00",
+          "updated_at": "2025-10-28T11:38:33+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+        },
+        {
+          "title": "乙巳蛇年-十月半",
+          "link": "https://xyzbz.cn/archives/1458/",
+          "description": "天气天晴了，一个白天，晚上就继续下大雨。以前挺喜欢下雨天，下多了就开始讨厌了！*食酒事哈酒要慎重，可能是信息获取不足，十一认识的三个去喝酒，喝完去唱歌，一个开车，两个骑三轮，开车那个把前面骑三轮...",
+          "pub_date": "2025-10-17T17:11:00+08:00",
+          "updated_at": "2025-10-17T17:11:00+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+        },
+        {
+          "title": "Docker部署美食记录应用Mealie",
+          "link": "https://xyzbz.cn/archives/1457/",
+          "description": "前言最近刷抖音，经常看到一些保姆级别的美食教学视频，跟着步骤做了一些，ld孩子都说好吃，但是单独发篇文章的话，格式步骤一直没有自己中意的，所以想着部署一个美食记录应用，参考网上有发布的文章，最后...",
+          "pub_date": "2025-10-12T15:14:22+08:00",
+          "updated_at": "2025-10-12T15:14:22+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+        },
+        {
+          "title": "乙巳蛇年-九月末",
+          "link": "https://xyzbz.cn/archives/1456/",
+          "description": "系统更换其实我对系统比较佛系，当年在良心云买服务器，初始系统选择的应用服务器，系统ct7，但是时间跑到今天，停止服务更新，之前也收到过信息，一直没有处理，那天看到杜老师博客更新，想想还是需要处理...",
+          "pub_date": "2025-09-30T23:53:00+08:00",
+          "updated_at": "2025-09-30T23:53:00+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+        },
+        {
+          "title": "乙巳蛇年-九月半",
+          "link": "https://xyzbz.cn/archives/1455/",
+          "description": "出差月初出了趟差，去下面分公司调试一些设备，中午到的，调试防火墙，调试服务器，由于好久没干过这些，一个下午只调试好了一台服务器，调试完分公司的人非拉着喝酒，我比较抗拒和酒蒙子喝酒，于是便找了个理...",
+          "pub_date": "2025-09-18T01:32:00+08:00",
+          "updated_at": "2025-09-18T01:32:00+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+        },
+        {
+          "title": "乙巳蛇年-八月末",
+          "link": "https://xyzbz.cn/archives/1453/",
+          "description": "那晚上班路转眼一瞬发现远方天空的云彩真的好美，像冈仁波齐停车后，犹豫许久还是决定去看看临近傍晚，返程车辆增多跨过马路，走在路边，像个异物往天空的方向望去发现已经逐渐散去几分钟的时间，多少有点遗憾...",
+          "pub_date": "2025-09-01T17:17:03+08:00",
+          "updated_at": "2025-09-01T17:17:03+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+        },
+        {
+          "title": "关于“我那不争气的老表”",
+          "link": "https://xyzbz.cn/archives/1451/",
+          "description": "其实老表人挺好的。所谓不争气往往来自家人的评价错误往往都有一个不好的开始。老表是我姑家的孩子。小时候，相近年龄的孩子有我堂哥，我，老表！堂哥初中毕业，就南下打工了，一直很多年，结婚生子也算是圆满...",
+          "pub_date": "2025-08-23T22:50:51+08:00",
+          "updated_at": "2025-08-23T22:50:51+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
         }
       ]
     },
@@ -976,124 +1094,6 @@
           "site_name": "雅余",
           "site_url": "https://yayu.net/",
           "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        }
-      ]
-    },
-    {
-      "name": "网友小宋",
-      "url": "https://xyzbz.cn/",
-      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png",
-      "feed_url": "https://xyzbz.cn/feed",
-      "posts": [
-        {
-          "title": "乙巳蛇年-十一月半",
-          "link": "https://xyzbz.cn/archives/1477/",
-          "description": "电池焕新忍了半个月，终于到了月初，13的电池已经到了要崩溃的地步，充电宝也成为了出门必备的设备。1号重新下载了商城APP，电池换新，电池价格上个月从199降到了159，每月1-7日是服务日，会打...",
-          "pub_date": "2025-11-15T16:22:00+08:00",
-          "updated_at": "2025-11-15T16:22:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "石漫滩二郎山半日游",
-          "link": "https://xyzbz.cn/archives/1465/",
-          "description": "此行缘由说起来此行有部分原因是因为前段时间电车第三次续保送的加油卷。自从有电车后油车开的很少，加了一次，没怎么开，但是第二张快到期了，不加就废了，关键是油箱油有点多，需要跑跑才能继续加。于是便跟...",
-          "pub_date": "2025-11-01T15:50:30+08:00",
-          "updated_at": "2025-11-01T15:50:30+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-十月末",
-          "link": "https://xyzbz.cn/archives/1463/",
-          "description": "杯碎十年之约的定制水杯No.2023001号，算起来也陪伴了我两年半，当初专门要的001的编号，那时候更新老积极了，现在正常更新两篇口水文，加上随机想写的文章。这两年也加了很多友联，看到一个一个...",
-          "pub_date": "2025-10-31T04:53:00+08:00",
-          "updated_at": "2025-10-31T04:53:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "秋游海棠园",
-          "link": "https://xyzbz.cn/archives/1461/",
-          "description": "秋天忙碌了小半个月，终于赶上了休息，准备带着孩子出去转转，感受一些秋天，正如前段时间的评论，最近准备去秋游爬个山，去了，但是拍的图片太多了，爬山的图片还没有整理出来，第二天带娃散心的照片先整理出...",
-          "pub_date": "2025-10-28T11:38:33+08:00",
-          "updated_at": "2025-10-28T11:38:33+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-十月半",
-          "link": "https://xyzbz.cn/archives/1458/",
-          "description": "天气天晴了，一个白天，晚上就继续下大雨。以前挺喜欢下雨天，下多了就开始讨厌了！*食酒事哈酒要慎重，可能是信息获取不足，十一认识的三个去喝酒，喝完去唱歌，一个开车，两个骑三轮，开车那个把前面骑三轮...",
-          "pub_date": "2025-10-17T17:11:00+08:00",
-          "updated_at": "2025-10-17T17:11:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "Docker部署美食记录应用Mealie",
-          "link": "https://xyzbz.cn/archives/1457/",
-          "description": "前言最近刷抖音，经常看到一些保姆级别的美食教学视频，跟着步骤做了一些，ld孩子都说好吃，但是单独发篇文章的话，格式步骤一直没有自己中意的，所以想着部署一个美食记录应用，参考网上有发布的文章，最后...",
-          "pub_date": "2025-10-12T15:14:22+08:00",
-          "updated_at": "2025-10-12T15:14:22+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-九月末",
-          "link": "https://xyzbz.cn/archives/1456/",
-          "description": "系统更换其实我对系统比较佛系，当年在良心云买服务器，初始系统选择的应用服务器，系统ct7，但是时间跑到今天，停止服务更新，之前也收到过信息，一直没有处理，那天看到杜老师博客更新，想想还是需要处理...",
-          "pub_date": "2025-09-30T23:53:00+08:00",
-          "updated_at": "2025-09-30T23:53:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-九月半",
-          "link": "https://xyzbz.cn/archives/1455/",
-          "description": "出差月初出了趟差，去下面分公司调试一些设备，中午到的，调试防火墙，调试服务器，由于好久没干过这些，一个下午只调试好了一台服务器，调试完分公司的人非拉着喝酒，我比较抗拒和酒蒙子喝酒，于是便找了个理...",
-          "pub_date": "2025-09-18T01:32:00+08:00",
-          "updated_at": "2025-09-18T01:32:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-八月末",
-          "link": "https://xyzbz.cn/archives/1453/",
-          "description": "那晚上班路转眼一瞬发现远方天空的云彩真的好美，像冈仁波齐停车后，犹豫许久还是决定去看看临近傍晚，返程车辆增多跨过马路，走在路边，像个异物往天空的方向望去发现已经逐渐散去几分钟的时间，多少有点遗憾...",
-          "pub_date": "2025-09-01T17:17:03+08:00",
-          "updated_at": "2025-09-01T17:17:03+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "关于“我那不争气的老表”",
-          "link": "https://xyzbz.cn/archives/1451/",
-          "description": "其实老表人挺好的。所谓不争气往往来自家人的评价错误往往都有一个不好的开始。老表是我姑家的孩子。小时候，相近年龄的孩子有我堂哥，我，老表！堂哥初中毕业，就南下打工了，一直很多年，结婚生子也算是圆满...",
-          "pub_date": "2025-08-23T22:50:51+08:00",
-          "updated_at": "2025-08-23T22:50:51+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
         }
       ]
     },
@@ -2450,6 +2450,13 @@
       ]
     },
     {
+      "name": "空白Koobai",
+      "url": "https://koobai.com/",
+      "avatar": "https://cdn.xiaoten.com/friends/koobai.webp",
+      "feed_url": "https://koobai.com/index.xml",
+      "posts": []
+    },
+    {
       "name": "友人C",
       "url": "https://www.ihewro.com",
       "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg",
@@ -2500,13 +2507,6 @@
           "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
         }
       ]
-    },
-    {
-      "name": "空白Koobai",
-      "url": "https://koobai.com/",
-      "avatar": "https://cdn.xiaoten.com/friends/koobai.webp",
-      "feed_url": "https://koobai.com/index.xml",
-      "posts": []
     },
     {
       "name": "小十博客",
