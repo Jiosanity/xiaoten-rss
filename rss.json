@@ -1,7 +1,7 @@
 {
-  "updated_at": "2025-11-25T02:28:54.739103+08:00",
-  "total_sites": 25,
-  "total_posts": 259,
+  "updated_at": "2025-11-25T09:23:32.281088+08:00",
+  "total_sites": 24,
+  "total_posts": 250,
   "sites": [
     {
       "name": "Wandai Blog",
@@ -457,124 +457,6 @@
       ]
     },
     {
-      "name": "黑石博客",
-      "url": "https://heson.me/",
-      "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca",
-      "feed_url": "https://heson.me/feed",
-      "posts": [
-        {
-          "title": "关于Windows11激活",
-          "link": "https://heson.me/dowhat/49.html",
-          "description": "蹲了2个月的电脑配件好价，这次双十一终于全部攒齐了，具体配置及价格详见➡️ 《我的电脑配置及外设【完结】》 在Windows官网上下了个多版本的Windows11，之前都喜欢安装专业版，但这次给...",
-          "pub_date": "2025-10-27T11:39:00+08:00",
-          "updated_at": "2025-10-27T11:39:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "记录一次memo的调用",
-          "link": "https://heson.me/dowhat/47.html",
-          "description": "基本不怎么在微信发朋友圈的我，但最喜欢在博客发动态。所以哔哔、闪念、说说、胶囊诸如此类的，是我博客必备的功能。奈何cuteen原生的闪念功能虽然简单，但就是太简单了，不能发图片。所以我决定把me...",
-          "pub_date": "2025-10-10T08:54:00+08:00",
-          "updated_at": "2025-10-10T08:54:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "在NAS上搭建私有云音乐",
-          "link": "https://heson.me/dowhat/35.html",
-          "description": "QQ音乐会员 我看谁还充，反正我是不充了。来看看下面这个方案：[card title=\"免费私有云音乐方案\" color=\"success\"]🎵下载：LX Music(洛雪音乐)：一款免费开源的...",
-          "pub_date": "2025-09-26T11:34:00+08:00",
-          "updated_at": "2025-09-26T11:34:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "天钡wtr pro 5825u上手体验",
-          "link": "https://heson.me/dowhat/33.html",
-          "description": "天钡wtr pro 5825u（物理机飞牛os）是我现在正在用的nas服务器。这个博客就搭在它上面。由来之前一直关注n150的nas消息，偶然一天问nas群友n150推荐机型：看了一下外观和配置...",
-          "pub_date": "2025-09-23T10:44:00+08:00",
-          "updated_at": "2025-09-23T10:44:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "深度思考：决定你命运的核心能力",
-          "link": "https://heson.me/life/25.html",
-          "description": "[card title=\"推荐理由\" color=\"info\"]真正改变命运的是独立、深刻地思考问题的能力。[/card]深度思考：决定你命运的核心能力看透本质与看不清本质的人，注定拥有不同的命...",
-          "pub_date": "2025-09-22T08:42:00+08:00",
-          "updated_at": "2025-09-22T08:42:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "装修记——自装的150天",
-          "link": "https://heson.me/life/15.html",
-          "description": "第一次装修时，我把全部事情都交给了装修公司。每平米998元，总共花了二十多万，当时还以为占了便宜。刚装完的时候看着还行，颜色和材料都是自己选的。但现在回想起来，他们用的都是商家特供的渠道货，样式...",
-          "pub_date": "2025-09-11T09:14:00+08:00",
-          "updated_at": "2025-09-11T09:14:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "那些年的友情链接，还在闪闪发光",
-          "link": "https://heson.me/life/10.html",
-          "description": "[audio src=\"https://heson.me/music/%E6%9E%97%E5%BF%97%E7%82%AB-%E5%87%A4%E5%87%B0%E8%8A%B1%E5%BC%...",
-          "pub_date": "2025-09-06T10:20:00+08:00",
-          "updated_at": "2025-09-06T10:20:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "童年第一台急先锋电脑到如今NAS服务器的搭建",
-          "link": "https://heson.me/life/6.html",
-          "description": "童年的“折腾基因”启蒙第一台电脑的“开箱记忆”2001 年的夏天，拨号上网的“滴滴嘟嘟”声还在楼道里此起彼伏，Windows 98 的蓝天白云桌面是大多数家庭电脑的标配。五年级的我放学回家，看见...",
-          "pub_date": "2025-09-04T16:10:00+08:00",
-          "updated_at": "2025-09-04T16:10:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "战地风云 6 预购记：一场关于热爱与时光的独白​",
-          "link": "https://heson.me/life/4.html",
-          "description": "鼠标最终还是点下了 “[RainBowText]确认预购[/RainBowText]” 的按钮，屏幕上跳出《战地风云 6》魅影版的订单页面时，我竟莫名愣了几秒。指尖还残留着鼠标按键的微弱触感，心...",
-          "pub_date": "2025-09-02T11:16:00+08:00",
-          "updated_at": "2025-09-02T11:16:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        },
-        {
-          "title": "我的电脑配置及外设【完结】",
-          "link": "https://heson.me/dowhat/3.html",
-          "description": "需求首先确定显示器，红米g pro27u，一款4k160和1k300的双模显示器，带电视和小爱同学。因为我这台电脑是放在客厅岛台上的，所以电视功能可拓展客厅功能，同时全屋小米智能，非常有必要在电...",
-          "pub_date": "2025-09-02T07:15:00+08:00",
-          "updated_at": "2025-09-02T07:15:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
-        }
-      ]
-    },
-    {
       "name": "手里有只毛毛虫",
       "url": "https://www.krjojo.com/",
       "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif",
@@ -693,6 +575,124 @@
       ]
     },
     {
+      "name": "黑石博客",
+      "url": "https://heson.me/",
+      "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca",
+      "feed_url": "https://heson.me/feed",
+      "posts": [
+        {
+          "title": "关于Windows11激活",
+          "link": "https://heson.me/dowhat/49.html",
+          "description": "蹲了2个月的电脑配件好价，这次双十一终于全部攒齐了，具体配置及价格详见➡️ 《我的电脑配置及外设【完结】》 在Windows官网上下了个多版本的Windows11，之前都喜欢安装专业版，但这次给...",
+          "pub_date": "2025-10-27T11:39:00+08:00",
+          "updated_at": "2025-10-27T11:39:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "记录一次memo的调用",
+          "link": "https://heson.me/dowhat/47.html",
+          "description": "基本不怎么在微信发朋友圈的我，但最喜欢在博客发动态。所以哔哔、闪念、说说、胶囊诸如此类的，是我博客必备的功能。奈何cuteen原生的闪念功能虽然简单，但就是太简单了，不能发图片。所以我决定把me...",
+          "pub_date": "2025-10-10T08:54:00+08:00",
+          "updated_at": "2025-10-10T08:54:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "在NAS上搭建私有云音乐",
+          "link": "https://heson.me/dowhat/35.html",
+          "description": "QQ音乐会员 我看谁还充，反正我是不充了。来看看下面这个方案：[card title=\"免费私有云音乐方案\" color=\"success\"]🎵下载：LX Music(洛雪音乐)：一款免费开源的...",
+          "pub_date": "2025-09-26T11:34:00+08:00",
+          "updated_at": "2025-09-26T11:34:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "天钡wtr pro 5825u上手体验",
+          "link": "https://heson.me/dowhat/33.html",
+          "description": "天钡wtr pro 5825u（物理机飞牛os）是我现在正在用的nas服务器。这个博客就搭在它上面。由来之前一直关注n150的nas消息，偶然一天问nas群友n150推荐机型：看了一下外观和配置...",
+          "pub_date": "2025-09-23T10:44:00+08:00",
+          "updated_at": "2025-09-23T10:44:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "深度思考：决定你命运的核心能力",
+          "link": "https://heson.me/life/25.html",
+          "description": "[card title=\"推荐理由\" color=\"info\"]真正改变命运的是独立、深刻地思考问题的能力。[/card]深度思考：决定你命运的核心能力看透本质与看不清本质的人，注定拥有不同的命...",
+          "pub_date": "2025-09-22T08:42:00+08:00",
+          "updated_at": "2025-09-22T08:42:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "装修记——自装的150天",
+          "link": "https://heson.me/life/15.html",
+          "description": "第一次装修时，我把全部事情都交给了装修公司。每平米998元，总共花了二十多万，当时还以为占了便宜。刚装完的时候看着还行，颜色和材料都是自己选的。但现在回想起来，他们用的都是商家特供的渠道货，样式...",
+          "pub_date": "2025-09-11T09:14:00+08:00",
+          "updated_at": "2025-09-11T09:14:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "那些年的友情链接，还在闪闪发光",
+          "link": "https://heson.me/life/10.html",
+          "description": "[audio src=\"https://heson.me/music/%E6%9E%97%E5%BF%97%E7%82%AB-%E5%87%A4%E5%87%B0%E8%8A%B1%E5%BC%...",
+          "pub_date": "2025-09-06T10:20:00+08:00",
+          "updated_at": "2025-09-06T10:20:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "童年第一台急先锋电脑到如今NAS服务器的搭建",
+          "link": "https://heson.me/life/6.html",
+          "description": "童年的“折腾基因”启蒙第一台电脑的“开箱记忆”2001 年的夏天，拨号上网的“滴滴嘟嘟”声还在楼道里此起彼伏，Windows 98 的蓝天白云桌面是大多数家庭电脑的标配。五年级的我放学回家，看见...",
+          "pub_date": "2025-09-04T16:10:00+08:00",
+          "updated_at": "2025-09-04T16:10:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "战地风云 6 预购记：一场关于热爱与时光的独白​",
+          "link": "https://heson.me/life/4.html",
+          "description": "鼠标最终还是点下了 “[RainBowText]确认预购[/RainBowText]” 的按钮，屏幕上跳出《战地风云 6》魅影版的订单页面时，我竟莫名愣了几秒。指尖还残留着鼠标按键的微弱触感，心...",
+          "pub_date": "2025-09-02T11:16:00+08:00",
+          "updated_at": "2025-09-02T11:16:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        },
+        {
+          "title": "我的电脑配置及外设【完结】",
+          "link": "https://heson.me/dowhat/3.html",
+          "description": "需求首先确定显示器，红米g pro27u，一款4k160和1k300的双模显示器，带电视和小爱同学。因为我这台电脑是放在客厅岛台上的，所以电视功能可拓展客厅功能，同时全屋小米智能，非常有必要在电...",
+          "pub_date": "2025-09-02T07:15:00+08:00",
+          "updated_at": "2025-09-02T07:15:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
+        }
+      ]
+    },
+    {
       "name": "MouT.me",
       "url": "https://ghost.mout.me/",
       "avatar": "https://cravatar.cn/avatar/678bf8cb50938b0e3a252e0509455d10",
@@ -759,124 +759,6 @@
           "site_name": "小白大学渣",
           "site_url": "https://www.baihub.cn/",
           "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
-        }
-      ]
-    },
-    {
-      "name": "网友小宋",
-      "url": "https://xyzbz.cn/",
-      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png",
-      "feed_url": "https://xyzbz.cn/feed",
-      "posts": [
-        {
-          "title": "乙巳蛇年-十一月半",
-          "link": "https://xyzbz.cn/archives/1477/",
-          "description": "电池焕新忍了半个月，终于到了月初，13的电池已经到了要崩溃的地步，充电宝也成为了出门必备的设备。1号重新下载了商城APP，电池换新，电池价格上个月从199降到了159，每月1-7日是服务日，会打...",
-          "pub_date": "2025-11-15T16:22:00+08:00",
-          "updated_at": "2025-11-15T16:22:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "石漫滩二郎山半日游",
-          "link": "https://xyzbz.cn/archives/1465/",
-          "description": "此行缘由说起来此行有部分原因是因为前段时间电车第三次续保送的加油卷。自从有电车后油车开的很少，加了一次，没怎么开，但是第二张快到期了，不加就废了，关键是油箱油有点多，需要跑跑才能继续加。于是便跟...",
-          "pub_date": "2025-11-01T15:50:30+08:00",
-          "updated_at": "2025-11-01T15:50:30+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-十月末",
-          "link": "https://xyzbz.cn/archives/1463/",
-          "description": "杯碎十年之约的定制水杯No.2023001号，算起来也陪伴了我两年半，当初专门要的001的编号，那时候更新老积极了，现在正常更新两篇口水文，加上随机想写的文章。这两年也加了很多友联，看到一个一个...",
-          "pub_date": "2025-10-31T04:53:00+08:00",
-          "updated_at": "2025-10-31T04:53:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "秋游海棠园",
-          "link": "https://xyzbz.cn/archives/1461/",
-          "description": "秋天忙碌了小半个月，终于赶上了休息，准备带着孩子出去转转，感受一些秋天，正如前段时间的评论，最近准备去秋游爬个山，去了，但是拍的图片太多了，爬山的图片还没有整理出来，第二天带娃散心的照片先整理出...",
-          "pub_date": "2025-10-28T11:38:33+08:00",
-          "updated_at": "2025-10-28T11:38:33+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-十月半",
-          "link": "https://xyzbz.cn/archives/1458/",
-          "description": "天气天晴了，一个白天，晚上就继续下大雨。以前挺喜欢下雨天，下多了就开始讨厌了！*食酒事哈酒要慎重，可能是信息获取不足，十一认识的三个去喝酒，喝完去唱歌，一个开车，两个骑三轮，开车那个把前面骑三轮...",
-          "pub_date": "2025-10-17T17:11:00+08:00",
-          "updated_at": "2025-10-17T17:11:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "Docker部署美食记录应用Mealie",
-          "link": "https://xyzbz.cn/archives/1457/",
-          "description": "前言最近刷抖音，经常看到一些保姆级别的美食教学视频，跟着步骤做了一些，ld孩子都说好吃，但是单独发篇文章的话，格式步骤一直没有自己中意的，所以想着部署一个美食记录应用，参考网上有发布的文章，最后...",
-          "pub_date": "2025-10-12T15:14:22+08:00",
-          "updated_at": "2025-10-12T15:14:22+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-九月末",
-          "link": "https://xyzbz.cn/archives/1456/",
-          "description": "系统更换其实我对系统比较佛系，当年在良心云买服务器，初始系统选择的应用服务器，系统ct7，但是时间跑到今天，停止服务更新，之前也收到过信息，一直没有处理，那天看到杜老师博客更新，想想还是需要处理...",
-          "pub_date": "2025-09-30T23:53:00+08:00",
-          "updated_at": "2025-09-30T23:53:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-九月半",
-          "link": "https://xyzbz.cn/archives/1455/",
-          "description": "出差月初出了趟差，去下面分公司调试一些设备，中午到的，调试防火墙，调试服务器，由于好久没干过这些，一个下午只调试好了一台服务器，调试完分公司的人非拉着喝酒，我比较抗拒和酒蒙子喝酒，于是便找了个理...",
-          "pub_date": "2025-09-18T01:32:00+08:00",
-          "updated_at": "2025-09-18T01:32:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-八月末",
-          "link": "https://xyzbz.cn/archives/1453/",
-          "description": "那晚上班路转眼一瞬发现远方天空的云彩真的好美，像冈仁波齐停车后，犹豫许久还是决定去看看临近傍晚，返程车辆增多跨过马路，走在路边，像个异物往天空的方向望去发现已经逐渐散去几分钟的时间，多少有点遗憾...",
-          "pub_date": "2025-09-01T17:17:03+08:00",
-          "updated_at": "2025-09-01T17:17:03+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "关于“我那不争气的老表”",
-          "link": "https://xyzbz.cn/archives/1451/",
-          "description": "其实老表人挺好的。所谓不争气往往来自家人的评价错误往往都有一个不好的开始。老表是我姑家的孩子。小时候，相近年龄的孩子有我堂哥，我，老表！堂哥初中毕业，就南下打工了，一直很多年，结婚生子也算是圆满...",
-          "pub_date": "2025-08-23T22:50:51+08:00",
-          "updated_at": "2025-08-23T22:50:51+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
         }
       ]
     },
@@ -1109,129 +991,22 @@
       ]
     },
     {
-      "name": "故事的程序猿",
-      "url": "https://blog.lichenghao.cn",
-      "avatar": "https://blog.lichenghao.cn/avatar.svg",
-      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
-      "posts": [
-        {
-          "title": "我为开心消消乐怒冲一块钱！",
-          "link": "https://blog.lichenghao.cn/article/loqvgppo5q9y",
-          "description": "我玩开心消消乐有七八年了，这几天的 11159 关也太难了吧！！！",
-          "pub_date": "2025-11-15T14:41:01+08:00",
-          "updated_at": "2025-11-15T14:41:01+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "一个悠闲的周六",
-          "link": "https://blog.lichenghao.cn/article/pull9dpvsxtf",
-          "description": "对我来说，悠闲双休的周末“可不多了”。李老师这个月底就要生了，顺利的话我们还能再有两个二人世界的周末。",
-          "pub_date": "2025-11-08T21:22:20+08:00",
-          "updated_at": "2025-11-08T21:22:20+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "十月-忙碌、期望、激动\\(≧▽≦)/",
-          "link": "https://blog.lichenghao.cn/article/uowqqituzesr",
-          "description": "忙忙碌碌的，到了今天才有时间总结下十月发生的点点滴滴~",
-          "pub_date": "2025-11-07T20:59:02+08:00",
-          "updated_at": "2025-11-07T20:59:02+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "Islands 主题：JetBrains IDE 迎来全新外观",
-          "link": "https://blog.lichenghao.cn/article/g8ja27idsfz9",
-          "description": "Islands 主题：JetBrains IDE 迎来全新外观",
-          "pub_date": "2025-11-04T14:21:57+08:00",
-          "updated_at": "2025-11-04T14:21:57+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "腾讯云EdgeOne取消免费套餐中的源站防护功能",
-          "link": "https://blog.lichenghao.cn/article/vgwpskyaixpb",
-          "description": "不久前也被免费套餐吸引，最近提示取消了免费套餐中的源站防护功能。",
-          "pub_date": "2025-10-22T13:48:08+08:00",
-          "updated_at": "2025-10-22T13:48:08+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "我的小橘猫三岁了哦~",
-          "link": "https://blog.lichenghao.cn/article/6safj6n0uz03",
-          "description": "我的小橘猫三岁多了，比姐姐大一岁，即将跟我们一起迎接弟弟的到来。",
-          "pub_date": "2025-10-20T20:12:22+08:00",
-          "updated_at": "2025-10-20T20:12:22+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "八九月小结【二五年】",
-          "link": "https://blog.lichenghao.cn/article/8lk32ehxa41f",
-          "description": "这两个月实在是太忙了，除了要上班以外，家里的房子装修的设计相关的东西，照顾怀孕的媳妇儿，去沈阳办理过户...",
-          "pub_date": "2025-10-09T15:07:02+08:00",
-          "updated_at": "2025-10-09T15:07:02+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵式",
-          "link": "https://blog.lichenghao.cn/article/0omloraxbim9",
-          "description": "今天的中国 🇨🇳，江山壮丽、人民豪迈，更无惧任何风浪！让我们一起铭记历史，从伟大胜利走向伟大复兴！",
-          "pub_date": "2025-09-03T15:34:53+08:00",
-          "updated_at": "2025-09-03T15:34:53+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "买房五年卖掉后，怒亏四十万！含泪总结！",
-          "link": "https://blog.lichenghao.cn/article/omvn6uy69a3l",
-          "description": "新婚买房",
-          "pub_date": "2025-09-02T15:28:33+08:00",
-          "updated_at": "2025-09-02T15:28:33+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        },
-        {
-          "title": "Android 和 ios 利用企业微信实现手机验证码共享🎉",
-          "link": "https://blog.lichenghao.cn/article/od5noe30udw6",
-          "description": "之前分享过，利用 Bark 来实现 使用 Bark 和小伙伴共享验证码！ | 故事的程序猿 ，但是最近李老师换 Android 手机了，那么 Bark 只能用在 IOS 客户端上。所以就有了这次分享。",
-          "pub_date": "2025-08-22T22:00:08+08:00",
-          "updated_at": "2025-08-22T22:00:08+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://blog.lichenghao.cn/avatar.svg"
-        }
-      ]
-    },
-    {
       "name": "游钓四方",
       "url": "https://blog.lhasa.icu/",
       "avatar": "https://blog.lhasa.icu/favicon.svg",
       "feed_url": "https://blog.lhasa.icu/rss.xml",
       "posts": [
+        {
+          "title": "Introducing Astro Lhasa 1.0",
+          "link": "https://blog.lhasa.icu/posts/technology/2025-11-25-introducing-astro-lhasa-1-0",
+          "description": "",
+          "pub_date": "2025-11-24T20:09:00+08:00",
+          "updated_at": "2025-11-24T20:09:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
         {
           "title": "读苏轼有感（1）",
           "link": "https://blog.lhasa.icu/posts/life/2025-11-20-sushi-reflection-01",
@@ -1554,54 +1329,120 @@
       ]
     },
     {
-      "name": "安静角落",
-      "url": "https://wuziya.com/",
-      "avatar": "https://cravatar.cn/avatar/44a830f1733f4acca071dac524c256a7972853f976dfc57a8f9e706351fdfff7",
-      "feed_url": "https://wuziya.com/feed",
+      "name": "故事的程序猿",
+      "url": "https://blog.lichenghao.cn",
+      "avatar": "https://blog.lichenghao.cn/avatar.svg",
+      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
       "posts": [
         {
-          "title": "我的收音机",
-          "link": "https://wuziya.com/274.html",
-          "description": "原来是之前的播放器插件有问题。😅我调了半天，就是自带的天线收不到几个台。😅视频加载速度有点感人，下面是直接地址：直接引用地址1：香港直接引用地址2：北京",
-          "pub_date": "2025-10-21T22:05:00+08:00",
-          "updated_at": "2025-10-21T22:05:00+08:00",
-          "author": "博主",
-          "site_name": "安静角落",
-          "site_url": "https://wuziya.com/",
-          "avatar": "https://cravatar.cn/avatar/44a830f1733f4acca071dac524c256a7972853f976dfc57a8f9e706351fdfff7"
+          "title": "我为开心消消乐怒冲一块钱！",
+          "link": "https://blog.lichenghao.cn/article/loqvgppo5q9y",
+          "description": "我玩开心消消乐有七八年了，这几天的 11159 关也太难了吧！！！",
+          "pub_date": "2025-11-15T14:41:01+08:00",
+          "updated_at": "2025-11-15T14:41:01+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
         },
         {
-          "title": "今年这里再也拍不到这种照片了",
-          "link": "https://wuziya.com/273.html",
-          "description": "现在这里已经修路了。",
-          "pub_date": "2025-10-20T23:26:00+08:00",
-          "updated_at": "2025-10-20T23:26:00+08:00",
-          "author": "博主",
-          "site_name": "安静角落",
-          "site_url": "https://wuziya.com/",
-          "avatar": "https://cravatar.cn/avatar/44a830f1733f4acca071dac524c256a7972853f976dfc57a8f9e706351fdfff7"
+          "title": "一个悠闲的周六",
+          "link": "https://blog.lichenghao.cn/article/pull9dpvsxtf",
+          "description": "对我来说，悠闲双休的周末“可不多了”。李老师这个月底就要生了，顺利的话我们还能再有两个二人世界的周末。",
+          "pub_date": "2025-11-08T21:22:20+08:00",
+          "updated_at": "2025-11-08T21:22:20+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
         },
         {
-          "title": "国庆逛东北",
-          "link": "https://wuziya.com/251.html",
-          "description": "2025国庆，天津-山海关-齐齐哈尔-满州里-海拉尔-哈尔滨，原计划就差了长春和沈阳。😂1号出发，6号就回来了。在天津，住了一个有史以来最贵的房子，以后不会再住这么贵的了，实在太费钱钱了。😂山海...",
-          "pub_date": "2025-10-07T00:43:00+08:00",
-          "updated_at": "2025-10-07T00:43:00+08:00",
-          "author": "博主",
-          "site_name": "安静角落",
-          "site_url": "https://wuziya.com/",
-          "avatar": "https://cravatar.cn/avatar/44a830f1733f4acca071dac524c256a7972853f976dfc57a8f9e706351fdfff7"
+          "title": "十月-忙碌、期望、激动\\(≧▽≦)/",
+          "link": "https://blog.lichenghao.cn/article/uowqqituzesr",
+          "description": "忙忙碌碌的，到了今天才有时间总结下十月发生的点点滴滴~",
+          "pub_date": "2025-11-07T20:59:02+08:00",
+          "updated_at": "2025-11-07T20:59:02+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
         },
         {
-          "title": "疯狂",
-          "link": "https://wuziya.com/250.html",
-          "description": "每天重复昨天的生活又期望取得不一样的结果这叫疯狂",
-          "pub_date": "2025-09-28T11:42:00+08:00",
-          "updated_at": "2025-09-28T11:42:00+08:00",
-          "author": "博主",
-          "site_name": "安静角落",
-          "site_url": "https://wuziya.com/",
-          "avatar": "https://cravatar.cn/avatar/44a830f1733f4acca071dac524c256a7972853f976dfc57a8f9e706351fdfff7"
+          "title": "Islands 主题：JetBrains IDE 迎来全新外观",
+          "link": "https://blog.lichenghao.cn/article/g8ja27idsfz9",
+          "description": "Islands 主题：JetBrains IDE 迎来全新外观",
+          "pub_date": "2025-11-04T14:21:57+08:00",
+          "updated_at": "2025-11-04T14:21:57+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "腾讯云EdgeOne取消免费套餐中的源站防护功能",
+          "link": "https://blog.lichenghao.cn/article/vgwpskyaixpb",
+          "description": "不久前也被免费套餐吸引，最近提示取消了免费套餐中的源站防护功能。",
+          "pub_date": "2025-10-22T13:48:08+08:00",
+          "updated_at": "2025-10-22T13:48:08+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "我的小橘猫三岁了哦~",
+          "link": "https://blog.lichenghao.cn/article/6safj6n0uz03",
+          "description": "我的小橘猫三岁多了，比姐姐大一岁，即将跟我们一起迎接弟弟的到来。",
+          "pub_date": "2025-10-20T20:12:22+08:00",
+          "updated_at": "2025-10-20T20:12:22+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "八九月小结【二五年】",
+          "link": "https://blog.lichenghao.cn/article/8lk32ehxa41f",
+          "description": "这两个月实在是太忙了，除了要上班以外，家里的房子装修的设计相关的东西，照顾怀孕的媳妇儿，去沈阳办理过户...",
+          "pub_date": "2025-10-09T15:07:02+08:00",
+          "updated_at": "2025-10-09T15:07:02+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵式",
+          "link": "https://blog.lichenghao.cn/article/0omloraxbim9",
+          "description": "今天的中国 🇨🇳，江山壮丽、人民豪迈，更无惧任何风浪！让我们一起铭记历史，从伟大胜利走向伟大复兴！",
+          "pub_date": "2025-09-03T15:34:53+08:00",
+          "updated_at": "2025-09-03T15:34:53+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "买房五年卖掉后，怒亏四十万！含泪总结！",
+          "link": "https://blog.lichenghao.cn/article/omvn6uy69a3l",
+          "description": "新婚买房",
+          "pub_date": "2025-09-02T15:28:33+08:00",
+          "updated_at": "2025-09-02T15:28:33+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
+        },
+        {
+          "title": "Android 和 ios 利用企业微信实现手机验证码共享🎉",
+          "link": "https://blog.lichenghao.cn/article/od5noe30udw6",
+          "description": "之前分享过，利用 Bark 来实现 使用 Bark 和小伙伴共享验证码！ | 故事的程序猿 ，但是最近李老师换 Android 手机了，那么 Bark 只能用在 IOS 客户端上。所以就有了这次分享。",
+          "pub_date": "2025-08-22T22:00:08+08:00",
+          "updated_at": "2025-08-22T22:00:08+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://blog.lichenghao.cn/avatar.svg"
         }
       ]
     },
@@ -1834,21 +1675,54 @@
       ]
     },
     {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://gravatar.memobbs.app/avatar/ba83fa02fc4b2ba621514941307e21be?s=80",
-      "feed_url": "https://immmmm.com/feed",
+      "name": "安静角落",
+      "url": "https://wuziya.com/",
+      "avatar": "https://cravatar.cn/avatar/44a830f1733f4acca071dac524c256a7972853f976dfc57a8f9e706351fdfff7",
+      "feed_url": "https://wuziya.com/feed",
       "posts": [
         {
-          "title": "Lucky-canvas 抽奖插件折腾记",
-          "link": "https://immmmm.com/lucky-everday/",
-          "description": "<p>基于 <a href=\"https://github.com/buuing/lucky-canvas\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">「Lucky-canvas」</a> 抽奖插件，借助 <a href=\"https://www.trae.ai/\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">字节跳动 trae</a> 做了个大转盘，全屏显示、替换背景、概率设置、一键导入、边框修改等能想到的和需要的功能都已实现，效果远超预期。</p>\n<p>体验地址：<a href=\"https://immmmm.com/dzp/\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">https://immmmm.com/dzp/</a></p>\n<h3 id=\"使用手册-\">使用手册 📚</h3>\n<p>1.打开网址， 右下角“全屏按钮”，右上角是“设置入口”。点击中间开始转动，结束时会弹出中奖内容，并伴有撒花。</p>\n<p>2.右上角点击进入“设置”。首次打开，点击安装字体“Aa 年度最可爱”。</p>\n<p>3.设置分层两列，左侧显示的奖项名称、中奖概率，可以直接修改或删除。说明：某一奖项的数值是这一项中奖率的“分子”，所有数值总和是“分母”。如“棒棒糖”的中奖率设置的 15，则中奖率是</p>\n<p><code>15/（10+10+……+15+10+10+5）</code></p>\n<p>4.左侧奖项列表下方是 4 个按钮。顾名思义，第 1、2、4 项试试就知。说明一下第 3 项“上传配置”，采用了“上传 txt 文件，一行一条内容”的形式，一键导入。如：本地新建了以下内容「姓氏+空格+中奖数值」</p>\n<div class=\"highlight\"><pre tabindex=\"0\"><code class=\"language-js\"><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">张</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">王</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">李</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">田</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">柳</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">石</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span></code></pre></div><p>点击“上传配置”，选择 txt 文件，导入即可。所以，如果要换电脑快速导入，只要编辑保存好自己的“奖项.txt”到别的电脑，导入即可。</p>\n<p>5.配置右侧，点击可更改转盘配色、指针、内外层转盘背景。</p>\n<p><em>随心搭配，换着玩儿～</em></p>\n<h3 id=\"致谢\">致谢</h3>\n<p><a href=\"https://taoshu.in/web/lucky-canvas.html#%E8%80%81%E8%99%8E%E6%9C%BA\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">抽奖组件 lucky-canvas 素材大全</a></p>\n<p>🎉</p>",
-          "pub_date": "2025-05-31T12:02:58+08:00",
-          "updated_at": "2025-05-31T12:02:58+08:00",
-          "author": "林木木",
-          "site_name": "木木木木木",
-          "site_url": "https://immmmm.com/",
-          "avatar": "https://gravatar.memobbs.app/avatar/ba83fa02fc4b2ba621514941307e21be?s=80"
+          "title": "我的收音机",
+          "link": "https://wuziya.com/274.html",
+          "description": "原来是之前的播放器插件有问题。😅我调了半天，就是自带的天线收不到几个台。😅视频加载速度有点感人，下面是直接地址：直接引用地址1：香港直接引用地址2：北京",
+          "pub_date": "2025-10-21T22:05:00+08:00",
+          "updated_at": "2025-10-21T22:05:00+08:00",
+          "author": "博主",
+          "site_name": "安静角落",
+          "site_url": "https://wuziya.com/",
+          "avatar": "https://cravatar.cn/avatar/44a830f1733f4acca071dac524c256a7972853f976dfc57a8f9e706351fdfff7"
+        },
+        {
+          "title": "今年这里再也拍不到这种照片了",
+          "link": "https://wuziya.com/273.html",
+          "description": "现在这里已经修路了。",
+          "pub_date": "2025-10-20T23:26:00+08:00",
+          "updated_at": "2025-10-20T23:26:00+08:00",
+          "author": "博主",
+          "site_name": "安静角落",
+          "site_url": "https://wuziya.com/",
+          "avatar": "https://cravatar.cn/avatar/44a830f1733f4acca071dac524c256a7972853f976dfc57a8f9e706351fdfff7"
+        },
+        {
+          "title": "国庆逛东北",
+          "link": "https://wuziya.com/251.html",
+          "description": "2025国庆，天津-山海关-齐齐哈尔-满州里-海拉尔-哈尔滨，原计划就差了长春和沈阳。😂1号出发，6号就回来了。在天津，住了一个有史以来最贵的房子，以后不会再住这么贵的了，实在太费钱钱了。😂山海...",
+          "pub_date": "2025-10-07T00:43:00+08:00",
+          "updated_at": "2025-10-07T00:43:00+08:00",
+          "author": "博主",
+          "site_name": "安静角落",
+          "site_url": "https://wuziya.com/",
+          "avatar": "https://cravatar.cn/avatar/44a830f1733f4acca071dac524c256a7972853f976dfc57a8f9e706351fdfff7"
+        },
+        {
+          "title": "疯狂",
+          "link": "https://wuziya.com/250.html",
+          "description": "每天重复昨天的生活又期望取得不一样的结果这叫疯狂",
+          "pub_date": "2025-09-28T11:42:00+08:00",
+          "updated_at": "2025-09-28T11:42:00+08:00",
+          "author": "博主",
+          "site_name": "安静角落",
+          "site_url": "https://wuziya.com/",
+          "avatar": "https://cravatar.cn/avatar/44a830f1733f4acca071dac524c256a7972853f976dfc57a8f9e706351fdfff7"
         }
       ]
     },
@@ -2026,6 +1900,25 @@
       ]
     },
     {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://gravatar.memobbs.app/avatar/ba83fa02fc4b2ba621514941307e21be?s=80",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": [
+        {
+          "title": "Lucky-canvas 抽奖插件折腾记",
+          "link": "https://immmmm.com/lucky-everday/",
+          "description": "<p>基于 <a href=\"https://github.com/buuing/lucky-canvas\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">「Lucky-canvas」</a> 抽奖插件，借助 <a href=\"https://www.trae.ai/\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">字节跳动 trae</a> 做了个大转盘，全屏显示、替换背景、概率设置、一键导入、边框修改等能想到的和需要的功能都已实现，效果远超预期。</p>\n<p>体验地址：<a href=\"https://immmmm.com/dzp/\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">https://immmmm.com/dzp/</a></p>\n<h3 id=\"使用手册-\">使用手册 📚</h3>\n<p>1.打开网址， 右下角“全屏按钮”，右上角是“设置入口”。点击中间开始转动，结束时会弹出中奖内容，并伴有撒花。</p>\n<p>2.右上角点击进入“设置”。首次打开，点击安装字体“Aa 年度最可爱”。</p>\n<p>3.设置分层两列，左侧显示的奖项名称、中奖概率，可以直接修改或删除。说明：某一奖项的数值是这一项中奖率的“分子”，所有数值总和是“分母”。如“棒棒糖”的中奖率设置的 15，则中奖率是</p>\n<p><code>15/（10+10+……+15+10+10+5）</code></p>\n<p>4.左侧奖项列表下方是 4 个按钮。顾名思义，第 1、2、4 项试试就知。说明一下第 3 项“上传配置”，采用了“上传 txt 文件，一行一条内容”的形式，一键导入。如：本地新建了以下内容「姓氏+空格+中奖数值」</p>\n<div class=\"highlight\"><pre tabindex=\"0\"><code class=\"language-js\"><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">张</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">王</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">李</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">田</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">柳</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span><span style=\"display: flex;\"><span><span style=\"color: #a6e22e;\">石</span> <span style=\"color: #ae81ff;\">1</span>\n</span></span></code></pre></div><p>点击“上传配置”，选择 txt 文件，导入即可。所以，如果要换电脑快速导入，只要编辑保存好自己的“奖项.txt”到别的电脑，导入即可。</p>\n<p>5.配置右侧，点击可更改转盘配色、指针、内外层转盘背景。</p>\n<p><em>随心搭配，换着玩儿～</em></p>\n<h3 id=\"致谢\">致谢</h3>\n<p><a href=\"https://taoshu.in/web/lucky-canvas.html#%E8%80%81%E8%99%8E%E6%9C%BA\" rel=\"noopener nofollow noreferrer\" target=\"_blank\">抽奖组件 lucky-canvas 素材大全</a></p>\n<p>🎉</p>",
+          "pub_date": "2025-05-31T12:02:58+08:00",
+          "updated_at": "2025-05-31T12:02:58+08:00",
+          "author": "林木木",
+          "site_name": "木木木木木",
+          "site_url": "https://immmmm.com/",
+          "avatar": "https://gravatar.memobbs.app/avatar/ba83fa02fc4b2ba621514941307e21be?s=80"
+        }
+      ]
+    },
+    {
       "name": "目的地-Destination",
       "url": "https://chrison.cn/",
       "avatar": "https://chrison.cn/logo.png",
@@ -2087,205 +1980,6 @@
           "avatar": "https://chrison.cn/logo.png"
         }
       ]
-    },
-    {
-      "name": "从良未遂",
-      "url": "https://www.jeffer.xyz/",
-      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg",
-      "feed_url": "https://www.jeffer.xyz/feed",
-      "posts": [
-        {
-          "title": "极简统计 支持本地部署PHP网站统计系统",
-          "link": "https://www.jeffer.xyz/cid/3221.html",
-          "description": "最近做了一个网站统计系统，叫 JefCounts 极简统计，博客分享一下。手里几个博客和小网站，一直想找个简单的统计工具。试过Google Analytics，功能是强大，但总觉得太复杂，国内面临一个问题，加载慢不上节点无法访问。百度统计也用过但是体验差，界面也不够清爽，还有一些统计系统的部署太麻烦了。",
-          "pub_date": "2025-11-18T09:13:31+08:00",
-          "updated_at": "2025-11-18T09:13:31+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "爸爸厨房：简单版糖炒栗子",
-          "link": "https://www.jeffer.xyz/cid/3207.html",
-          "description": "看到夕格的这篇文章《爸爸的厨房06：红糖馒头》。把手机里的照片也掏出来看看，正好更新一篇厨房文章。之前在博客写 [&#8230;]",
-          "pub_date": "2025-11-06T04:31:33+08:00",
-          "updated_at": "2025-11-06T04:31:33+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "使用工具为博客做一个体检 看看可以得几分？",
-          "link": "https://www.jeffer.xyz/cid/3188.html",
-          "description": "做了一个博客体检的小工具，大家都来试一试，看看你的博客可以得几分呢？我得了86分，检查到了一个得分最惨的博友是43分，也不冤枉，因为网站访问慢，favicon图标有问题，页面tdk有问题，好家伙各种基础问题，不过都不影响博客使用这些都是一些基础的问题。",
-          "pub_date": "2025-10-22T08:21:03+08:00",
-          "updated_at": "2025-10-22T08:21:03+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "喜提浓密黑发 萎靡不振恢复好多",
-          "link": "https://www.jeffer.xyz/cid/3172.html",
-          "description": "之前带闺女熬夜比较多，头发里面都是白头发，我本来没有注意，还和理发师得瑟，你看我白头发就几根，一直熬夜都没事， [&#8230;]",
-          "pub_date": "2025-10-17T10:06:45+08:00",
-          "updated_at": "2025-10-17T10:06:45+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "零后端搭建”博友圈”：用 FindBLOG.Net 的 rss.json 直接渲染友链时间线",
-          "link": "https://www.jeffer.xyz/cid/3169.html",
-          "description": "今年写了不少 WordPress 小工具，结果下载量最高的还是 RSS 相关的那几款。问了一圈，发现很多博主并 [&#8230;]",
-          "pub_date": "2025-10-17T09:08:12+08:00",
-          "updated_at": "2025-10-17T09:08:12+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "艰难前进的痛苦",
-          "link": "https://www.jeffer.xyz/cid/3087.html",
-          "description": "想要做的事情很多，但是实际做出来事情很少。在做一件事情之前，我想会需要花费一周时间，结果是两周时间，我想这个数 [&#8230;]",
-          "pub_date": "2025-08-10T16:55:57+08:00",
-          "updated_at": "2025-08-10T16:55:57+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "记录一次产品8n国际化的翻车事件",
-          "link": "https://www.jeffer.xyz/cid/3081.html",
-          "description": "最近开发一款新产品，遇到了一个棘手的问题——语言国际化。 产品有100多个单品，需要支持七八种语言，每种语言的 [&#8230;]",
-          "pub_date": "2025-08-06T14:48:39+08:00",
-          "updated_at": "2025-08-06T14:48:39+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "恶臭红尘，不能自已",
-          "link": "https://www.jeffer.xyz/cid/3068.html",
-          "description": "今天读蒙需的《“灵性”与“童蒙”》，其中讲到很多经历，感觉不谋而合，或者是很多人的人生经历大同小异。灵性这个词 [&#8230;]",
-          "pub_date": "2025-08-04T06:37:49+08:00",
-          "updated_at": "2025-08-04T06:37:49+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        },
-        {
-          "title": "秦皇岛“渔岛”行  管理域名服务器",
-          "link": "https://www.jeffer.xyz/cid/3025.html",
-          "description": "秦皇岛渔岛行 周末出行带孩子去秦皇岛溜溜，这次是小区的一个专门搞旅游的邻居组织，坐大巴到秦皇岛两天，提供交通和 [&#8230;]",
-          "pub_date": "2025-07-24T06:13:51+08:00",
-          "updated_at": "2025-07-24T06:13:51+08:00",
-          "author": "Jeffer.Z",
-          "site_name": "从良未遂",
-          "site_url": "https://www.jeffer.xyz/",
-          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
-        }
-      ]
-    },
-    {
-      "name": "枋柚梓",
-      "url": "https://inkss.cn/",
-      "avatar": "https://cdn.xiaoten.com/friends/inkss.avif",
-      "feed_url": "https://inkss.cn/feed",
-      "posts": [
-        {
-          "title": "极空间 NAS：SSH 高阶玩法实践",
-          "link": "https://inkss.cn/post/3af25609/",
-          "description": "以极空间 Z4Pro+ 性能版为例，其 CPU 为 N355，配备 16GB DDR5 内存。若仅作为 NAS 存储使用，性能略显冗余，因此是时候尝试开启 SSH，以探索更多玩法。",
-          "pub_date": "2025-09-11T13:40:00+08:00",
-          "updated_at": "2025-11-15T11:20:00+08:00",
-          "author": "",
-          "site_name": "枋柚梓",
-          "site_url": "https://inkss.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        },
-        {
-          "title": "Umami 3.0 升级实录：1Panel 下数据库迁移至 PostgreSQL",
-          "link": "https://inkss.cn/post/bbad9898/",
-          "description": "本文详解如何在 1Panel 面板下将 Umami 从 MySQL/MariaDB 平滑迁移至 PostgreSQL，并升级至 3.0 版本。涵盖备份、数据转换、容器配置及常见坑点，适用于 Docker 部署环境，助力用户顺利完成数据库迁移与版本升级。",
-          "pub_date": "2025-11-12T12:48:00+08:00",
-          "updated_at": "2025-11-12T12:48:00+08:00",
-          "author": "",
-          "site_name": "枋柚梓",
-          "site_url": "https://inkss.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        },
-        {
-          "title": "腾讯云 EdgeOne 使用指南：配置、加速与安全优化",
-          "link": "https://inkss.cn/post/4a1a172a/",
-          "description": "本文分享腾讯云 EdgeOne 三个月使用心得，涵盖免费版 / 付费版套餐选择技巧（首单优惠、会员续费攻略）、域名接入（DNSPod 托管、CNAME 接入注意事项）、IPv6 回源配置、安全防护（Web 防护规则、防盗链）、站点加速（CORS 设置、边缘函数应用）等实战内容，帮助用户高效使用 EdgeOne 实现全球加速与内网服务访问。",
-          "pub_date": "2025-10-21T10:00:00+08:00",
-          "updated_at": "2025-11-10T08:05:00+08:00",
-          "author": "",
-          "site_name": "枋柚梓",
-          "site_url": "https://inkss.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        },
-        {
-          "title": "米家中枢自动化极客版案例分享",
-          "link": "https://inkss.cn/post/430ddf15/",
-          "description": "本文分享米家中枢自动化极客版的多个应用案例，包括双开无线开关按键模拟、水暖毯睡眠模式模拟、动态延时关灯开灯、摄像机位置修正、传统设备接入米家等，还涉及离家和入睡状态的判断与联动控制，提供设计思路与实际应用参考。",
-          "pub_date": "2025-08-10T11:50:00+08:00",
-          "updated_at": "2025-10-15T17:00:00+08:00",
-          "author": "",
-          "site_name": "枋柚梓",
-          "site_url": "https://inkss.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        },
-        {
-          "title": "极空间防火墙配置避坑：IPv6 地址丢失（DHCPv6）教程",
-          "link": "https://inkss.cn/post/f2d9f349/",
-          "description": "极空间系统新增防火墙功能后，实现了设备级网络访问管控，为公网环境下的安全配置提供了更精细化的选项。然而，由于底层规则设置过于粗糙，实际配置过程中出现设备 IPv6 地址异常丢失的问题。",
-          "pub_date": "2025-09-05T15:07:00+08:00",
-          "updated_at": "2025-09-11T07:23:00+08:00",
-          "author": "",
-          "site_name": "枋柚梓",
-          "site_url": "https://inkss.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        },
-        {
-          "title": "庐山旅行攻略",
-          "link": "https://inkss.cn/post/e600275d/",
-          "description": "2025 庐山 3 天 2 晚旅行攻略：交通住宿清单 + 东线西线游玩指南",
-          "pub_date": "2025-08-23T09:28:00+08:00",
-          "updated_at": "2025-08-23T09:28:00+08:00",
-          "author": "",
-          "site_name": "枋柚梓",
-          "site_url": "https://inkss.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        },
-        {
-          "title": "1Panel + MariaDB 安装 Umami 报错实录：问题分析与解决方案",
-          "link": "https://inkss.cn/post/9eba8252/",
-          "description": "本文详细介绍在 1Panel 面板中使用 MariaDB 安装 Umami 的完整步骤，解决数据库连接失败和迁移报错问题，实现无 MySQL 数据只有 MariaDB 数据库的 Umami 安装。",
-          "pub_date": "2025-08-19T09:20:00+08:00",
-          "updated_at": "2025-08-19T09:20:00+08:00",
-          "author": "",
-          "site_name": "枋柚梓",
-          "site_url": "https://inkss.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        }
-      ]
-    },
-    {
-      "name": "Hello Alili",
-      "url": "https://alili.tech/",
-      "avatar": "https://cdn.xiaoten.com/friends/alili.png",
-      "feed_url": "https://alili.tech/index.xml",
-      "posts": []
     },
     {
       "name": "Evan",
@@ -2490,6 +2184,205 @@
           "site_name": "Evan",
           "site_url": "https://www.evan.xin/",
           "avatar": "https://www.evan.xin/logo.png"
+        }
+      ]
+    },
+    {
+      "name": "从良未遂",
+      "url": "https://www.jeffer.xyz/",
+      "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg",
+      "feed_url": "https://www.jeffer.xyz/feed",
+      "posts": [
+        {
+          "title": "极简统计 支持本地部署PHP网站统计系统",
+          "link": "https://www.jeffer.xyz/cid/3221.html",
+          "description": "最近做了一个网站统计系统，叫 JefCounts 极简统计，博客分享一下。手里几个博客和小网站，一直想找个简单的统计工具。试过Google Analytics，功能是强大，但总觉得太复杂，国内面临一个问题，加载慢不上节点无法访问。百度统计也用过但是体验差，界面也不够清爽，还有一些统计系统的部署太麻烦了。",
+          "pub_date": "2025-11-18T09:13:31+08:00",
+          "updated_at": "2025-11-18T09:13:31+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "爸爸厨房：简单版糖炒栗子",
+          "link": "https://www.jeffer.xyz/cid/3207.html",
+          "description": "看到夕格的这篇文章《爸爸的厨房06：红糖馒头》。把手机里的照片也掏出来看看，正好更新一篇厨房文章。之前在博客写 [&#8230;]",
+          "pub_date": "2025-11-06T04:31:33+08:00",
+          "updated_at": "2025-11-06T04:31:33+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "使用工具为博客做一个体检 看看可以得几分？",
+          "link": "https://www.jeffer.xyz/cid/3188.html",
+          "description": "做了一个博客体检的小工具，大家都来试一试，看看你的博客可以得几分呢？我得了86分，检查到了一个得分最惨的博友是43分，也不冤枉，因为网站访问慢，favicon图标有问题，页面tdk有问题，好家伙各种基础问题，不过都不影响博客使用这些都是一些基础的问题。",
+          "pub_date": "2025-10-22T08:21:03+08:00",
+          "updated_at": "2025-10-22T08:21:03+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "喜提浓密黑发 萎靡不振恢复好多",
+          "link": "https://www.jeffer.xyz/cid/3172.html",
+          "description": "之前带闺女熬夜比较多，头发里面都是白头发，我本来没有注意，还和理发师得瑟，你看我白头发就几根，一直熬夜都没事， [&#8230;]",
+          "pub_date": "2025-10-17T10:06:45+08:00",
+          "updated_at": "2025-10-17T10:06:45+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "零后端搭建”博友圈”：用 FindBLOG.Net 的 rss.json 直接渲染友链时间线",
+          "link": "https://www.jeffer.xyz/cid/3169.html",
+          "description": "今年写了不少 WordPress 小工具，结果下载量最高的还是 RSS 相关的那几款。问了一圈，发现很多博主并 [&#8230;]",
+          "pub_date": "2025-10-17T09:08:12+08:00",
+          "updated_at": "2025-10-17T09:08:12+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "艰难前进的痛苦",
+          "link": "https://www.jeffer.xyz/cid/3087.html",
+          "description": "想要做的事情很多，但是实际做出来事情很少。在做一件事情之前，我想会需要花费一周时间，结果是两周时间，我想这个数 [&#8230;]",
+          "pub_date": "2025-08-10T16:55:57+08:00",
+          "updated_at": "2025-08-10T16:55:57+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "记录一次产品8n国际化的翻车事件",
+          "link": "https://www.jeffer.xyz/cid/3081.html",
+          "description": "最近开发一款新产品，遇到了一个棘手的问题——语言国际化。 产品有100多个单品，需要支持七八种语言，每种语言的 [&#8230;]",
+          "pub_date": "2025-08-06T14:48:39+08:00",
+          "updated_at": "2025-08-06T14:48:39+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "恶臭红尘，不能自已",
+          "link": "https://www.jeffer.xyz/cid/3068.html",
+          "description": "今天读蒙需的《“灵性”与“童蒙”》，其中讲到很多经历，感觉不谋而合，或者是很多人的人生经历大同小异。灵性这个词 [&#8230;]",
+          "pub_date": "2025-08-04T06:37:49+08:00",
+          "updated_at": "2025-08-04T06:37:49+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        },
+        {
+          "title": "秦皇岛“渔岛”行  管理域名服务器",
+          "link": "https://www.jeffer.xyz/cid/3025.html",
+          "description": "秦皇岛渔岛行 周末出行带孩子去秦皇岛溜溜，这次是小区的一个专门搞旅游的邻居组织，坐大巴到秦皇岛两天，提供交通和 [&#8230;]",
+          "pub_date": "2025-07-24T06:13:51+08:00",
+          "updated_at": "2025-07-24T06:13:51+08:00",
+          "author": "Jeffer.Z",
+          "site_name": "从良未遂",
+          "site_url": "https://www.jeffer.xyz/",
+          "avatar": "https://www.jeffer.xyz/wp-content/uploads/2023/01/cropped-2023010402181112.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hello Alili",
+      "url": "https://alili.tech/",
+      "avatar": "https://cdn.xiaoten.com/friends/alili.png",
+      "feed_url": "https://alili.tech/index.xml",
+      "posts": []
+    },
+    {
+      "name": "枋柚梓",
+      "url": "https://inkss.cn/",
+      "avatar": "https://cdn.xiaoten.com/friends/inkss.avif",
+      "feed_url": "https://inkss.cn/feed",
+      "posts": [
+        {
+          "title": "极空间 NAS：SSH 高阶玩法实践",
+          "link": "https://inkss.cn/post/3af25609/",
+          "description": "以极空间 Z4Pro+ 性能版为例，其 CPU 为 N355，配备 16GB DDR5 内存。若仅作为 NAS 存储使用，性能略显冗余，因此是时候尝试开启 SSH，以探索更多玩法。",
+          "pub_date": "2025-09-11T13:40:00+08:00",
+          "updated_at": "2025-11-15T11:20:00+08:00",
+          "author": "",
+          "site_name": "枋柚梓",
+          "site_url": "https://inkss.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
+        },
+        {
+          "title": "Umami 3.0 升级实录：1Panel 下数据库迁移至 PostgreSQL",
+          "link": "https://inkss.cn/post/bbad9898/",
+          "description": "本文详解如何在 1Panel 面板下将 Umami 从 MySQL/MariaDB 平滑迁移至 PostgreSQL，并升级至 3.0 版本。涵盖备份、数据转换、容器配置及常见坑点，适用于 Docker 部署环境，助力用户顺利完成数据库迁移与版本升级。",
+          "pub_date": "2025-11-12T12:48:00+08:00",
+          "updated_at": "2025-11-12T12:48:00+08:00",
+          "author": "",
+          "site_name": "枋柚梓",
+          "site_url": "https://inkss.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
+        },
+        {
+          "title": "腾讯云 EdgeOne 使用指南：配置、加速与安全优化",
+          "link": "https://inkss.cn/post/4a1a172a/",
+          "description": "本文分享腾讯云 EdgeOne 三个月使用心得，涵盖免费版 / 付费版套餐选择技巧（首单优惠、会员续费攻略）、域名接入（DNSPod 托管、CNAME 接入注意事项）、IPv6 回源配置、安全防护（Web 防护规则、防盗链）、站点加速（CORS 设置、边缘函数应用）等实战内容，帮助用户高效使用 EdgeOne 实现全球加速与内网服务访问。",
+          "pub_date": "2025-10-21T10:00:00+08:00",
+          "updated_at": "2025-11-10T08:05:00+08:00",
+          "author": "",
+          "site_name": "枋柚梓",
+          "site_url": "https://inkss.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
+        },
+        {
+          "title": "米家中枢自动化极客版案例分享",
+          "link": "https://inkss.cn/post/430ddf15/",
+          "description": "本文分享米家中枢自动化极客版的多个应用案例，包括双开无线开关按键模拟、水暖毯睡眠模式模拟、动态延时关灯开灯、摄像机位置修正、传统设备接入米家等，还涉及离家和入睡状态的判断与联动控制，提供设计思路与实际应用参考。",
+          "pub_date": "2025-08-10T11:50:00+08:00",
+          "updated_at": "2025-10-15T17:00:00+08:00",
+          "author": "",
+          "site_name": "枋柚梓",
+          "site_url": "https://inkss.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
+        },
+        {
+          "title": "极空间防火墙配置避坑：IPv6 地址丢失（DHCPv6）教程",
+          "link": "https://inkss.cn/post/f2d9f349/",
+          "description": "极空间系统新增防火墙功能后，实现了设备级网络访问管控，为公网环境下的安全配置提供了更精细化的选项。然而，由于底层规则设置过于粗糙，实际配置过程中出现设备 IPv6 地址异常丢失的问题。",
+          "pub_date": "2025-09-05T15:07:00+08:00",
+          "updated_at": "2025-09-11T07:23:00+08:00",
+          "author": "",
+          "site_name": "枋柚梓",
+          "site_url": "https://inkss.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
+        },
+        {
+          "title": "庐山旅行攻略",
+          "link": "https://inkss.cn/post/e600275d/",
+          "description": "2025 庐山 3 天 2 晚旅行攻略：交通住宿清单 + 东线西线游玩指南",
+          "pub_date": "2025-08-23T09:28:00+08:00",
+          "updated_at": "2025-08-23T09:28:00+08:00",
+          "author": "",
+          "site_name": "枋柚梓",
+          "site_url": "https://inkss.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
+        },
+        {
+          "title": "1Panel + MariaDB 安装 Umami 报错实录：问题分析与解决方案",
+          "link": "https://inkss.cn/post/9eba8252/",
+          "description": "本文详细介绍在 1Panel 面板中使用 MariaDB 安装 Umami 的完整步骤，解决数据库连接失败和迁移报错问题，实现无 MySQL 数据只有 MariaDB 数据库的 Umami 安装。",
+          "pub_date": "2025-08-19T09:20:00+08:00",
+          "updated_at": "2025-08-19T09:20:00+08:00",
+          "author": "",
+          "site_name": "枋柚梓",
+          "site_url": "https://inkss.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
         }
       ]
     },
@@ -3052,6 +2945,17 @@
   ],
   "all_posts": [
     {
+      "title": "Introducing Astro Lhasa 1.0",
+      "link": "https://blog.lhasa.icu/posts/technology/2025-11-25-introducing-astro-lhasa-1-0",
+      "description": "",
+      "pub_date": "2025-11-24T20:09:00+08:00",
+      "updated_at": "2025-11-24T20:09:00+08:00",
+      "author": "",
+      "site_name": "游钓四方",
+      "site_url": "https://blog.lhasa.icu/",
+      "avatar": "https://blog.lhasa.icu/favicon.svg"
+    },
+    {
       "title": "时光不负往昔",
       "link": "https://yufan.me/posts/the-blossoms-of-yesteryears",
       "description": "那些零散而琐碎的往事，在时间的尘埃里沉睡，却仍不时在心底闪出微光。你呢？你还记得多少？",
@@ -3336,17 +3240,6 @@
       "site_name": "Jack's Space",
       "site_url": "https://veryjack.com/",
       "avatar": "https://veryjack.com/wp-content/uploads/2025/05/avatar_transparant-150x150.webp"
-    },
-    {
-      "title": "乙巳蛇年-十一月半",
-      "link": "https://xyzbz.cn/archives/1477/",
-      "description": "电池焕新忍了半个月，终于到了月初，13的电池已经到了要崩溃的地步，充电宝也成为了出门必备的设备。1号重新下载了商城APP，电池换新，电池价格上个月从199降到了159，每月1-7日是服务日，会打...",
-      "pub_date": "2025-11-15T16:22:00+08:00",
-      "updated_at": "2025-11-15T16:22:00+08:00",
-      "author": "网友小宋",
-      "site_name": "网友小宋",
-      "site_url": "https://xyzbz.cn/",
-      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
       "title": "更换暖气阀门",
@@ -3855,17 +3748,6 @@
       "avatar": "https://blog.lhasa.icu/favicon.svg"
     },
     {
-      "title": "石漫滩二郎山半日游",
-      "link": "https://xyzbz.cn/archives/1465/",
-      "description": "此行缘由说起来此行有部分原因是因为前段时间电车第三次续保送的加油卷。自从有电车后油车开的很少，加了一次，没怎么开，但是第二张快到期了，不加就废了，关键是油箱油有点多，需要跑跑才能继续加。于是便跟...",
-      "pub_date": "2025-11-01T15:50:30+08:00",
-      "updated_at": "2025-11-01T15:50:30+08:00",
-      "author": "网友小宋",
-      "site_name": "网友小宋",
-      "site_url": "https://xyzbz.cn/",
-      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-    },
-    {
       "title": "开源Bilibili播放器插件",
       "link": "https://wangdaodao.com/20251101/typecho-bilibili-player.html",
       "description": "小试牛刀，开源Bilibili播放器插件，后面还有几个插件正在调整，分别是：Panorama：在文章中嵌入全景图AMapPlugin：高德地图插件AMapRoutePlugin：高德地图路径规划...",
@@ -3886,17 +3768,6 @@
       "site_name": "游钓四方",
       "site_url": "https://blog.lhasa.icu/",
       "avatar": "https://blog.lhasa.icu/favicon.svg"
-    },
-    {
-      "title": "乙巳蛇年-十月末",
-      "link": "https://xyzbz.cn/archives/1463/",
-      "description": "杯碎十年之约的定制水杯No.2023001号，算起来也陪伴了我两年半，当初专门要的001的编号，那时候更新老积极了，现在正常更新两篇口水文，加上随机想写的文章。这两年也加了很多友联，看到一个一个...",
-      "pub_date": "2025-10-31T04:53:00+08:00",
-      "updated_at": "2025-10-31T04:53:00+08:00",
-      "author": "网友小宋",
-      "site_name": "网友小宋",
-      "site_url": "https://xyzbz.cn/",
-      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
       "title": "有趣的小摆件",
@@ -3941,17 +3812,6 @@
       "site_name": "Jack's Space",
       "site_url": "https://veryjack.com/",
       "avatar": "https://veryjack.com/wp-content/uploads/2025/05/avatar_transparant-150x150.webp"
-    },
-    {
-      "title": "秋游海棠园",
-      "link": "https://xyzbz.cn/archives/1461/",
-      "description": "秋天忙碌了小半个月，终于赶上了休息，准备带着孩子出去转转，感受一些秋天，正如前段时间的评论，最近准备去秋游爬个山，去了，但是拍的图片太多了，爬山的图片还没有整理出来，第二天带娃散心的照片先整理出...",
-      "pub_date": "2025-10-28T11:38:33+08:00",
-      "updated_at": "2025-10-28T11:38:33+08:00",
-      "author": "网友小宋",
-      "site_name": "网友小宋",
-      "site_url": "https://xyzbz.cn/",
-      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
       "title": "《园冶》：世界最早的造园学名著",
@@ -4306,17 +4166,6 @@
       "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
     },
     {
-      "title": "乙巳蛇年-十月半",
-      "link": "https://xyzbz.cn/archives/1458/",
-      "description": "天气天晴了，一个白天，晚上就继续下大雨。以前挺喜欢下雨天，下多了就开始讨厌了！*食酒事哈酒要慎重，可能是信息获取不足，十一认识的三个去喝酒，喝完去唱歌，一个开车，两个骑三轮，开车那个把前面骑三轮...",
-      "pub_date": "2025-10-17T17:11:00+08:00",
-      "updated_at": "2025-10-17T17:11:00+08:00",
-      "author": "网友小宋",
-      "site_name": "网友小宋",
-      "site_url": "https://xyzbz.cn/",
-      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-    },
-    {
       "title": "音乐裁缝",
       "link": "https://wang618.cn/yin-yue-cai-feng.html",
       "description": "<p>分享一下，我用 AI 生成的歌曲。本质就是杯加了香精的工业奶茶，外观上奶沫丰盈、茶色诱人，看似与真奶茶别无二致；可入口才知寡淡无味，既没有原创音乐的肌理与温度，更谈不上打动人心的灵魂。<a href=\"https://wang618.cn/ai-music.html\" target=\"_blank\" title=\"点击收听完整歌单\">完整歌单</a></p>\n<audio controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/music/AI%E6%AD%8C%E6%9B%B2%E4%B8%B2%E7%83%A7.mp3?sign=0PIoV1ENVT0zMc8s5-3s__V5N-UKAJqo9Q1t2izHj7g=:0\"></audio>",
@@ -4526,17 +4375,6 @@
       "avatar": "https://cravatar.cn/avatar/fc0c337151f20f2bdb9e063a7f61ebb5d954424040daf081086f6fc2b8564353"
     },
     {
-      "title": "Docker部署美食记录应用Mealie",
-      "link": "https://xyzbz.cn/archives/1457/",
-      "description": "前言最近刷抖音，经常看到一些保姆级别的美食教学视频，跟着步骤做了一些，ld孩子都说好吃，但是单独发篇文章的话，格式步骤一直没有自己中意的，所以想着部署一个美食记录应用，参考网上有发布的文章，最后...",
-      "pub_date": "2025-10-12T15:14:22+08:00",
-      "updated_at": "2025-10-12T15:14:22+08:00",
-      "author": "网友小宋",
-      "site_name": "网友小宋",
-      "site_url": "https://xyzbz.cn/",
-      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-    },
-    {
       "title": "《美丽的化学元素》书评",
       "link": "https://yufan.me/posts/book-review-in-chemistry-elements",
       "description": "我们是否还需要这样一本化学元素科普书？",
@@ -4722,17 +4560,6 @@
       "site_name": "雅余",
       "site_url": "https://yayu.net/",
       "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-    },
-    {
-      "title": "乙巳蛇年-九月末",
-      "link": "https://xyzbz.cn/archives/1456/",
-      "description": "系统更换其实我对系统比较佛系，当年在良心云买服务器，初始系统选择的应用服务器，系统ct7，但是时间跑到今天，停止服务更新，之前也收到过信息，一直没有处理，那天看到杜老师博客更新，想想还是需要处理...",
-      "pub_date": "2025-09-30T23:53:00+08:00",
-      "updated_at": "2025-09-30T23:53:00+08:00",
-      "author": "网友小宋",
-      "site_name": "网友小宋",
-      "site_url": "https://xyzbz.cn/",
-      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
       "title": "慢享国庆",
@@ -4944,17 +4771,6 @@
       "avatar": "https://blog.lhasa.icu/favicon.svg"
     },
     {
-      "title": "乙巳蛇年-九月半",
-      "link": "https://xyzbz.cn/archives/1455/",
-      "description": "出差月初出了趟差，去下面分公司调试一些设备，中午到的，调试防火墙，调试服务器，由于好久没干过这些，一个下午只调试好了一台服务器，调试完分公司的人非拉着喝酒，我比较抗拒和酒蒙子喝酒，于是便找了个理...",
-      "pub_date": "2025-09-18T01:32:00+08:00",
-      "updated_at": "2025-09-18T01:32:00+08:00",
-      "author": "网友小宋",
-      "site_name": "网友小宋",
-      "site_url": "https://xyzbz.cn/",
-      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-    },
-    {
       "title": "EasyFill v1.3 发布：支持SPA机制、优化 Shadow DOM 遍历逻辑",
       "link": "https://blog.lhasa.icu/posts/technology/2025-09-18-easyfill-1-3-0",
       "description": "",
@@ -5164,17 +4980,6 @@
       "avatar": "https://cravatar.cn/avatar/fc2c9b067f65c9e2d7057ba797f7cfca"
     },
     {
-      "title": "乙巳蛇年-八月末",
-      "link": "https://xyzbz.cn/archives/1453/",
-      "description": "那晚上班路转眼一瞬发现远方天空的云彩真的好美，像冈仁波齐停车后，犹豫许久还是决定去看看临近傍晚，返程车辆增多跨过马路，走在路边，像个异物往天空的方向望去发现已经逐渐散去几分钟的时间，多少有点遗憾...",
-      "pub_date": "2025-09-01T17:17:03+08:00",
-      "updated_at": "2025-09-01T17:17:03+08:00",
-      "author": "网友小宋",
-      "site_name": "网友小宋",
-      "site_url": "https://xyzbz.cn/",
-      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-    },
-    {
       "title": "山西河北历史文化之旅｜应县木塔",
       "link": "https://yayu.net/5554.html",
       "description": "「山西河北9天历史文化之旅」第四篇——应县木塔 佛宫寺释迦塔（Pagoda of Fogong Temple） [&#8230;]",
@@ -5239,17 +5044,6 @@
       "site_name": "Jack's Space",
       "site_url": "https://veryjack.com/",
       "avatar": "https://veryjack.com/wp-content/uploads/2025/05/avatar_transparant-150x150.webp"
-    },
-    {
-      "title": "关于“我那不争气的老表”",
-      "link": "https://xyzbz.cn/archives/1451/",
-      "description": "其实老表人挺好的。所谓不争气往往来自家人的评价错误往往都有一个不好的开始。老表是我姑家的孩子。小时候，相近年龄的孩子有我堂哥，我，老表！堂哥初中毕业，就南下打工了，一直很多年，结婚生子也算是圆满...",
-      "pub_date": "2025-08-23T22:50:51+08:00",
-      "updated_at": "2025-08-23T22:50:51+08:00",
-      "author": "网友小宋",
-      "site_name": "网友小宋",
-      "site_url": "https://xyzbz.cn/",
-      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
     },
     {
       "title": "【米表升级】贯彻极简设计风格，呈现更极致",
@@ -5919,6 +5713,12 @@
       "url": "https://bestcherish.com",
       "feed_url": null,
       "reason": "no_feed_found"
+    },
+    {
+      "name": "网友小宋",
+      "url": "https://xyzbz.cn/",
+      "feed_url": "https://xyzbz.cn/feed",
+      "reason": "ConnectionError"
     }
   ]
 }
