@@ -1,126 +1,8 @@
 {
-  "updated_at": "2025-12-01T09:48:11.156250+08:00",
+  "updated_at": "2025-12-01T14:32:02.217197+08:00",
   "total_sites": 24,
   "total_posts": 253,
   "sites": [
-    {
-      "name": "王叨叨",
-      "url": "https://wangdaodao.com/",
-      "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png",
-      "feed_url": "https://wangdaodao.com/feed",
-      "posts": [
-        {
-          "title": "开始记账了",
-          "link": "https://wangdaodao.com/20251128/bookkeeping.html",
-          "description": "不知道大家有没有记账的习惯，我之前刚工作那会是有的，当时手机上记账软件也不多，看来看去用的随手记，还买了安卓的会员。前段时间又下载回来试了试，竟然又要收费了…",
-          "pub_date": "2025-11-28T21:38:00+08:00",
-          "updated_at": "2025-11-28T21:38:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "发布Typecho足迹插件",
-          "link": "https://wangdaodao.com/20251122/typecho-track.html",
-          "description": "MyTrack 是一个为 Typecho 博客系统开发的足迹记录插件，允许用户在地图上标记自己的旅行足迹，并关联相关的文章和图片。插件基于高德地图 API，提供了直观的地图展示和便捷的管理功能。...",
-          "pub_date": "2025-11-22T16:38:00+08:00",
-          "updated_at": "2025-11-22T16:38:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "一次AI编程的分享",
-          "link": "https://wangdaodao.com/20251120/ai-programming-sharing.html",
-          "description": "最近给部门做了一次关于AI编程的分享-从重复劳动到高效创造，由于PPT中有一些代码和录屏没办法放出来，所以我就简单的整理了一份，放在博客里面。大家如果对AI编程感兴趣，也可以互相交流。",
-          "pub_date": "2025-11-20T19:34:00+08:00",
-          "updated_at": "2025-11-20T19:34:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "基于高德地图做足迹管理插件",
-          "link": "https://wangdaodao.com/20251117/amap-track.html",
-          "description": "距离上次折腾高德地图有一段时间了，最近看到有人在博客上面增加了足迹，我这心里也痒痒了，咱也做一个足迹管理的插件吧！支持配置高德地图的API密钥；能够设置默认的缩放级别；能够设置默认视图模式；能够...",
-          "pub_date": "2025-11-17T21:18:00+08:00",
-          "updated_at": "2025-11-17T21:18:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "开源两个后台美化插件",
-          "link": "https://wangdaodao.com/20251113/typecho-admin-plugins.html",
-          "description": "上篇文章介绍了 Typecho 的简洁哲学，里面有一条是：需求的有限满足。实际上很多易用性问题，我们都寄希望于第三方开发来完善，这也是官方文档建设再次被提上日程并承诺重视的原因，开放会带来期待中...",
-          "pub_date": "2025-11-13T22:07:00+08:00",
-          "updated_at": "2025-11-13T22:07:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "Typecho的简洁哲学",
-          "link": "https://wangdaodao.com/20251111/the-simplicity-philosophy-of-typecho.html",
-          "description": "最近在看 typecho 的官方博客，从2008年一直到2023年，跨越了15年，从一开始的奔放到现在的内敛，从一开始新鲜的枝丫，到现在粗壮的大树。从他的logo的演变，也能看出来他慢慢的内敛。...",
-          "pub_date": "2025-11-11T12:57:00+08:00",
-          "updated_at": "2025-11-11T12:57:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "Typecho如何实现评论无限嵌套",
-          "link": "https://wangdaodao.com/20251108/typecho-comments-max-levels.html",
-          "description": "今天有朋友在我的博客上留言，询问有关插件的一些问题。起初我正常回复，但回复到第五层时发现已无法继续，于是便进入后台打算进行设置。哎，我觉得设置9层，基本上应该可以了吧，结果保存了一下，变成了7……",
-          "pub_date": "2025-11-08T22:39:00+08:00",
-          "updated_at": "2025-11-08T22:39:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "开源Panorama全景图插件",
-          "link": "https://wangdaodao.com/20251106/typecho-panorama-plugin.html",
-          "description": "经过了周末的调整，现在插件终于可以和大家见面了。Panorama 插件为 Typecho 博客系统添加全景图展示功能，支持将多张图片转换为可交互的全景图。",
-          "pub_date": "2025-11-06T19:03:00+08:00",
-          "updated_at": "2025-11-06T19:03:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "服务器续费了",
-          "link": "https://wangdaodao.com/20251104/racknerd-renew.html",
-          "description": "自从搬瓦工那台机器到期不再续费，目前手里就只有一台VPS了，这个当时是去年黑五搞活动买的，可以看我之前《又入手了一台VPS》。目前感觉性能完全够用，就放一个Typecho的博客绰绰有余。",
-          "pub_date": "2025-11-04T09:13:00+08:00",
-          "updated_at": "2025-11-04T09:13:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        },
-        {
-          "title": "开源Bilibili播放器插件",
-          "link": "https://wangdaodao.com/20251101/typecho-bilibili-player.html",
-          "description": "小试牛刀，开源Bilibili播放器插件，后面还有几个插件正在调整，分别是：Panorama：在文章中嵌入全景图AMapPlugin：高德地图插件AMapRoutePlugin：高德地图路径规划...",
-          "pub_date": "2025-11-01T14:43:00+08:00",
-          "updated_at": "2025-11-01T14:43:00+08:00",
-          "author": "王叨叨",
-          "site_name": "王叨叨",
-          "site_url": "https://wangdaodao.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
-        }
-      ]
-    },
     {
       "name": "Jame",
       "url": "https://jame.work",
@@ -152,7 +34,7 @@
         {
           "title": "物哀",
           "link": "https://jame.work/html/other/6r",
-          "description": "<h1>物哀</h1>\n<blockquote>糟糕的事物会使人悲伤，美好的事物也同样。</blockquote>\n<p>如果这篇文章是昨天晚上写的话，我会和你聊聊《雪国》，聊聊日本文学黏糊糊的感觉，聊聊中国和欧美有关物哀的文化、以及和日本的差异。聊聊转瞬即逝又无法挽留的纯洁、虚无之美，以及这种美为什么让人提心吊胆，又为什么物哀应当算作一种“奢侈品”。那时我思如泉涌，能挥挥洒洒几千字。但实际却是今天早上写的，昨晚的感觉烟消云散，一个字都憋不出来了。</p>\n<p>只好等到以后不定那天来感觉了再写，所以，我并不能和你聊什么是物哀了。</p>\n<br />\n<br />\n<p>又或者说——其实我已经和你聊过了什么是物哀了。</p>\n<p>\n</p>",
+          "description": "<h1>物哀</h1>\n<blockquote>糟糕的事物会使人悲伤，美好的事物也同样。</blockquote>\n<p>如果这篇文章是昨天晚上写的话，我会和你聊聊《雪国》，聊聊日本文学黏糊糊的感觉，聊聊中国和欧美有关物哀的文化、以及和日本的差异。聊聊转瞬即逝又无法挽留的纯洁、虚无之美，以及这种美为什么让人提心吊胆，又为什么物哀应当算作一种“奢侈品”。那时我思如泉涌，能挥挥洒洒几千字。但实际却是今天早上写的，昨晚的感觉烟消云散，一个字都憋不出来了。</p>\n<p>只好等到以后不定那天来感觉了再写，所以，我并不能和你聊什么是物哀了。</p>\n<br />\n<p>又或者说——其实我已经和你聊过了什么是物哀了。</p>\n<p>\n</p>",
           "pub_date": "2025-11-14T00:00:00+08:00",
           "updated_at": "2025-11-14T00:00:00+08:00",
           "author": "",
@@ -328,11 +210,122 @@
       ]
     },
     {
-      "name": "MouT.me",
-      "url": "https://ghost.mout.me/",
-      "avatar": "https://cravatar.cn/avatar/678bf8cb50938b0e3a252e0509455d10",
-      "feed_url": "https://ghost.mout.me/feed",
-      "posts": []
+      "name": "王叨叨",
+      "url": "https://wangdaodao.com/",
+      "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png",
+      "feed_url": "https://wangdaodao.com/feed",
+      "posts": [
+        {
+          "title": "开始记账了",
+          "link": "https://wangdaodao.com/20251128/bookkeeping.html",
+          "description": "不知道大家有没有记账的习惯，我之前刚工作那会是有的，当时手机上记账软件也不多，看来看去用的随手记，还买了安卓的会员。前段时间又下载回来试了试，竟然又要收费了…",
+          "pub_date": "2025-11-28T21:38:00+08:00",
+          "updated_at": "2025-11-28T21:38:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "发布Typecho足迹插件",
+          "link": "https://wangdaodao.com/20251122/typecho-track.html",
+          "description": "MyTrack 是一个为 Typecho 博客系统开发的足迹记录插件，允许用户在地图上标记自己的旅行足迹，并关联相关的文章和图片。插件基于高德地图 API，提供了直观的地图展示和便捷的管理功能。...",
+          "pub_date": "2025-11-22T16:38:00+08:00",
+          "updated_at": "2025-11-22T16:38:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "一次AI编程的分享",
+          "link": "https://wangdaodao.com/20251120/ai-programming-sharing.html",
+          "description": "最近给部门做了一次关于AI编程的分享-从重复劳动到高效创造，由于PPT中有一些代码和录屏没办法放出来，所以我就简单的整理了一份，放在博客里面。大家如果对AI编程感兴趣，也可以互相交流。",
+          "pub_date": "2025-11-20T19:34:00+08:00",
+          "updated_at": "2025-11-20T19:34:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "基于高德地图做足迹管理插件",
+          "link": "https://wangdaodao.com/20251117/amap-track.html",
+          "description": "距离上次折腾高德地图有一段时间了，最近看到有人在博客上面增加了足迹，我这心里也痒痒了，咱也做一个足迹管理的插件吧！支持配置高德地图的API密钥；能够设置默认的缩放级别；能够设置默认视图模式；能够...",
+          "pub_date": "2025-11-17T21:18:00+08:00",
+          "updated_at": "2025-11-17T21:18:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "开源两个后台美化插件",
+          "link": "https://wangdaodao.com/20251113/typecho-admin-plugins.html",
+          "description": "上篇文章介绍了 Typecho 的简洁哲学，里面有一条是：需求的有限满足。实际上很多易用性问题，我们都寄希望于第三方开发来完善，这也是官方文档建设再次被提上日程并承诺重视的原因，开放会带来期待中...",
+          "pub_date": "2025-11-13T22:07:00+08:00",
+          "updated_at": "2025-11-13T22:07:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "Typecho的简洁哲学",
+          "link": "https://wangdaodao.com/20251111/the-simplicity-philosophy-of-typecho.html",
+          "description": "最近在看 typecho 的官方博客，从2008年一直到2023年，跨越了15年，从一开始的奔放到现在的内敛，从一开始新鲜的枝丫，到现在粗壮的大树。从他的logo的演变，也能看出来他慢慢的内敛。...",
+          "pub_date": "2025-11-11T12:57:00+08:00",
+          "updated_at": "2025-11-11T12:57:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "Typecho如何实现评论无限嵌套",
+          "link": "https://wangdaodao.com/20251108/typecho-comments-max-levels.html",
+          "description": "今天有朋友在我的博客上留言，询问有关插件的一些问题。起初我正常回复，但回复到第五层时发现已无法继续，于是便进入后台打算进行设置。哎，我觉得设置9层，基本上应该可以了吧，结果保存了一下，变成了7……",
+          "pub_date": "2025-11-08T22:39:00+08:00",
+          "updated_at": "2025-11-08T22:39:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "开源Panorama全景图插件",
+          "link": "https://wangdaodao.com/20251106/typecho-panorama-plugin.html",
+          "description": "经过了周末的调整，现在插件终于可以和大家见面了。Panorama 插件为 Typecho 博客系统添加全景图展示功能，支持将多张图片转换为可交互的全景图。",
+          "pub_date": "2025-11-06T19:03:00+08:00",
+          "updated_at": "2025-11-06T19:03:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "服务器续费了",
+          "link": "https://wangdaodao.com/20251104/racknerd-renew.html",
+          "description": "自从搬瓦工那台机器到期不再续费，目前手里就只有一台VPS了，这个当时是去年黑五搞活动买的，可以看我之前《又入手了一台VPS》。目前感觉性能完全够用，就放一个Typecho的博客绰绰有余。",
+          "pub_date": "2025-11-04T09:13:00+08:00",
+          "updated_at": "2025-11-04T09:13:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        },
+        {
+          "title": "开源Bilibili播放器插件",
+          "link": "https://wangdaodao.com/20251101/typecho-bilibili-player.html",
+          "description": "小试牛刀，开源Bilibili播放器插件，后面还有几个插件正在调整，分别是：Panorama：在文章中嵌入全景图AMapPlugin：高德地图插件AMapRoutePlugin：高德地图路径规划...",
+          "pub_date": "2025-11-01T14:43:00+08:00",
+          "updated_at": "2025-11-01T14:43:00+08:00",
+          "author": "王叨叨",
+          "site_name": "王叨叨",
+          "site_url": "https://wangdaodao.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png"
+        }
+      ]
     },
     {
       "name": "手里有只毛毛虫",
@@ -449,6 +442,87 @@
           "site_name": "手里有只毛毛虫",
           "site_url": "https://www.krjojo.com/",
           "avatar": "https://www.krjojo.com/wp-content/uploads/2024/05/avatar.avif"
+        }
+      ]
+    },
+    {
+      "name": "MouT.me",
+      "url": "https://ghost.mout.me/",
+      "avatar": "https://cravatar.cn/avatar/678bf8cb50938b0e3a252e0509455d10",
+      "feed_url": "https://ghost.mout.me/feed",
+      "posts": []
+    },
+    {
+      "name": "小白大学渣",
+      "url": "https://www.baihub.cn/",
+      "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg",
+      "feed_url": "https://www.baihub.cn/feed",
+      "posts": [
+        {
+          "title": "初尝醉酒滋味",
+          "link": "https://www.baihub.cn/corner/first-drunk-experience/",
+          "description": "起因是一位在职博士师兄已经完成了大部分实验，十二月初科室培训结束后就要回到工作单位了，在本周宴请实验室的大家一 [&#8230;]",
+          "pub_date": "2025-11-30T17:41:43+08:00",
+          "updated_at": "2025-11-30T17:41:43+08:00",
+          "author": "大学渣",
+          "site_name": "小白大学渣",
+          "site_url": "https://www.baihub.cn/",
+          "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
+        },
+        {
+          "title": "self.age+=1",
+          "link": "https://www.baihub.cn/corner/2025-birthday/",
+          "description": "距离上一篇博客已经过去一个多月了，不更新的日子里在被开题报告折磨，在每天担心挨老板骂，读研的日子里风平浪静，似 [&#8230;]",
+          "pub_date": "2025-09-25T15:59:47+08:00",
+          "updated_at": "2025-09-25T15:59:47+08:00",
+          "author": "大学渣",
+          "site_name": "小白大学渣",
+          "site_url": "https://www.baihub.cn/",
+          "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
+        },
+        {
+          "title": "点亮成就之：终于过六级了",
+          "link": "https://www.baihub.cn/corner/cet6-passed/",
+          "description": "做 PPT 摸鱼打开 B 站，热搜榜上挂了一条四六级成绩查询，愣了一下才发觉已经到了可以查成绩的时间了。心惊胆 [&#8230;]",
+          "pub_date": "2025-08-16T03:42:25+08:00",
+          "updated_at": "2025-08-16T03:42:25+08:00",
+          "author": "大学渣",
+          "site_name": "小白大学渣",
+          "site_url": "https://www.baihub.cn/",
+          "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
+        },
+        {
+          "title": "二〇二五·盛夏小记",
+          "link": "https://www.baihub.cn/corner/2025-end-of-summer/",
+          "description": "（一） 南宁的夏天虽说没有川渝等地区著名的火炉般的热度，但似乎也是在外有名的热。本文起笔的现在，朋友圈里“秋天 [&#8230;]",
+          "pub_date": "2025-08-08T08:26:23+08:00",
+          "updated_at": "2025-08-08T08:26:23+08:00",
+          "author": "大学渣",
+          "site_name": "小白大学渣",
+          "site_url": "https://www.baihub.cn/",
+          "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
+        },
+        {
+          "title": "幻梦影业·救命我被马蜂包围了",
+          "link": "https://www.baihub.cn/dreams/250720/",
+          "description": "好吧有点标题党，其实事情是这样的 我：你说如果2012年我突然出现在你的好友列表，你会不会把我删了🤪我哥：为什 [&#8230;]",
+          "pub_date": "2025-07-20T06:34:06+08:00",
+          "updated_at": "2025-07-20T06:34:06+08:00",
+          "author": "大学渣",
+          "site_name": "小白大学渣",
+          "site_url": "https://www.baihub.cn/",
+          "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
+        },
+        {
+          "title": "谁人的毕业季",
+          "link": "https://www.baihub.cn/corner/whose-graduation-season/",
+          "description": "2025年6月26日并不是我的毕业典礼，又像提前参加了我的毕业典礼。 当天应邀给实习室友拍毕业照。拍照时临近正 [&#8230;]",
+          "pub_date": "2025-07-15T18:26:34+08:00",
+          "updated_at": "2025-07-15T18:26:34+08:00",
+          "author": "大学渣",
+          "site_name": "小白大学渣",
+          "site_url": "https://www.baihub.cn/",
+          "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
         }
       ]
     },
@@ -571,76 +645,120 @@
       ]
     },
     {
-      "name": "小白大学渣",
-      "url": "https://www.baihub.cn/",
-      "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg",
-      "feed_url": "https://www.baihub.cn/feed",
+      "name": "网友小宋",
+      "url": "https://xyzbz.cn/",
+      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png",
+      "feed_url": "https://xyzbz.cn/feed",
       "posts": [
         {
-          "title": "初尝醉酒滋味",
-          "link": "https://www.baihub.cn/corner/first-drunk-experience/",
-          "description": "起因是一位在职博士师兄已经完成了大部分实验，十二月初科室培训结束后就要回到工作单位了，在本周宴请实验室的大家一 [&#8230;]",
-          "pub_date": "2025-11-30T17:41:43+08:00",
-          "updated_at": "2025-11-30T17:41:43+08:00",
-          "author": "大学渣",
-          "site_name": "小白大学渣",
-          "site_url": "https://www.baihub.cn/",
-          "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
+          "title": "乙巳蛇年-十一月末",
+          "link": "https://xyzbz.cn/archives/1478/",
+          "description": "网红热干面周一的早上送完大宝去学校，闲来没事想着回老家一趟，顺便觅点食。准备走呢，想起了之前很火的王店热干面，上次根据导航去过一趟，可惜人家没出摊。这次沿着上次路线前往，终于出摊了。没做足功课，...",
+          "pub_date": "2025-11-30T23:59:00+08:00",
+          "updated_at": "2025-11-30T23:59:00+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
         },
         {
-          "title": "self.age+=1",
-          "link": "https://www.baihub.cn/corner/2025-birthday/",
-          "description": "距离上一篇博客已经过去一个多月了，不更新的日子里在被开题报告折磨，在每天担心挨老板骂，读研的日子里风平浪静，似 [&#8230;]",
-          "pub_date": "2025-09-25T15:59:47+08:00",
-          "updated_at": "2025-09-25T15:59:47+08:00",
-          "author": "大学渣",
-          "site_name": "小白大学渣",
-          "site_url": "https://www.baihub.cn/",
-          "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
+          "title": "乙巳蛇年-十一月半",
+          "link": "https://xyzbz.cn/archives/1477/",
+          "description": "电池焕新忍了半个月，终于到了月初，13的电池已经到了要崩溃的地步，充电宝也成为了出门必备的设备。1号重新下载了商城APP，电池换新，电池价格上个月从199降到了159，每月1-7日是服务日，会打...",
+          "pub_date": "2025-11-15T16:22:00+08:00",
+          "updated_at": "2025-11-15T16:22:00+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
         },
         {
-          "title": "点亮成就之：终于过六级了",
-          "link": "https://www.baihub.cn/corner/cet6-passed/",
-          "description": "做 PPT 摸鱼打开 B 站，热搜榜上挂了一条四六级成绩查询，愣了一下才发觉已经到了可以查成绩的时间了。心惊胆 [&#8230;]",
-          "pub_date": "2025-08-16T03:42:25+08:00",
-          "updated_at": "2025-08-16T03:42:25+08:00",
-          "author": "大学渣",
-          "site_name": "小白大学渣",
-          "site_url": "https://www.baihub.cn/",
-          "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
+          "title": "石漫滩二郎山半日游",
+          "link": "https://xyzbz.cn/archives/1465/",
+          "description": "此行缘由说起来此行有部分原因是因为前段时间电车第三次续保送的加油卷。自从有电车后油车开的很少，加了一次，没怎么开，但是第二张快到期了，不加就废了，关键是油箱油有点多，需要跑跑才能继续加。于是便跟...",
+          "pub_date": "2025-11-01T15:50:30+08:00",
+          "updated_at": "2025-11-01T15:50:30+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
         },
         {
-          "title": "二〇二五·盛夏小记",
-          "link": "https://www.baihub.cn/corner/2025-end-of-summer/",
-          "description": "（一） 南宁的夏天虽说没有川渝等地区著名的火炉般的热度，但似乎也是在外有名的热。本文起笔的现在，朋友圈里“秋天 [&#8230;]",
-          "pub_date": "2025-08-08T08:26:23+08:00",
-          "updated_at": "2025-08-08T08:26:23+08:00",
-          "author": "大学渣",
-          "site_name": "小白大学渣",
-          "site_url": "https://www.baihub.cn/",
-          "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
+          "title": "乙巳蛇年-十月末",
+          "link": "https://xyzbz.cn/archives/1463/",
+          "description": "杯碎十年之约的定制水杯No.2023001号，算起来也陪伴了我两年半，当初专门要的001的编号，那时候更新老积极了，现在正常更新两篇口水文，加上随机想写的文章。这两年也加了很多友联，看到一个一个...",
+          "pub_date": "2025-10-31T04:53:00+08:00",
+          "updated_at": "2025-10-31T04:53:00+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
         },
         {
-          "title": "幻梦影业·救命我被马蜂包围了",
-          "link": "https://www.baihub.cn/dreams/250720/",
-          "description": "好吧有点标题党，其实事情是这样的 我：你说如果2012年我突然出现在你的好友列表，你会不会把我删了🤪我哥：为什 [&#8230;]",
-          "pub_date": "2025-07-20T06:34:06+08:00",
-          "updated_at": "2025-07-20T06:34:06+08:00",
-          "author": "大学渣",
-          "site_name": "小白大学渣",
-          "site_url": "https://www.baihub.cn/",
-          "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
+          "title": "秋游海棠园",
+          "link": "https://xyzbz.cn/archives/1461/",
+          "description": "秋天忙碌了小半个月，终于赶上了休息，准备带着孩子出去转转，感受一些秋天，正如前段时间的评论，最近准备去秋游爬个山，去了，但是拍的图片太多了，爬山的图片还没有整理出来，第二天带娃散心的照片先整理出...",
+          "pub_date": "2025-10-28T11:38:33+08:00",
+          "updated_at": "2025-10-28T11:38:33+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
         },
         {
-          "title": "谁人的毕业季",
-          "link": "https://www.baihub.cn/corner/whose-graduation-season/",
-          "description": "2025年6月26日并不是我的毕业典礼，又像提前参加了我的毕业典礼。 当天应邀给实习室友拍毕业照。拍照时临近正 [&#8230;]",
-          "pub_date": "2025-07-15T18:26:34+08:00",
-          "updated_at": "2025-07-15T18:26:34+08:00",
-          "author": "大学渣",
-          "site_name": "小白大学渣",
-          "site_url": "https://www.baihub.cn/",
-          "avatar": "https://www.baihub.cn/wp-content/uploads/2024/12/logo-middle.jpg"
+          "title": "乙巳蛇年-十月半",
+          "link": "https://xyzbz.cn/archives/1458/",
+          "description": "天气天晴了，一个白天，晚上就继续下大雨。以前挺喜欢下雨天，下多了就开始讨厌了！*食酒事哈酒要慎重，可能是信息获取不足，十一认识的三个去喝酒，喝完去唱歌，一个开车，两个骑三轮，开车那个把前面骑三轮...",
+          "pub_date": "2025-10-17T17:11:00+08:00",
+          "updated_at": "2025-10-17T17:11:00+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+        },
+        {
+          "title": "Docker部署美食记录应用Mealie",
+          "link": "https://xyzbz.cn/archives/1457/",
+          "description": "前言最近刷抖音，经常看到一些保姆级别的美食教学视频，跟着步骤做了一些，ld孩子都说好吃，但是单独发篇文章的话，格式步骤一直没有自己中意的，所以想着部署一个美食记录应用，参考网上有发布的文章，最后...",
+          "pub_date": "2025-10-12T15:14:22+08:00",
+          "updated_at": "2025-10-12T15:14:22+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+        },
+        {
+          "title": "乙巳蛇年-九月末",
+          "link": "https://xyzbz.cn/archives/1456/",
+          "description": "系统更换其实我对系统比较佛系，当年在良心云买服务器，初始系统选择的应用服务器，系统ct7，但是时间跑到今天，停止服务更新，之前也收到过信息，一直没有处理，那天看到杜老师博客更新，想想还是需要处理...",
+          "pub_date": "2025-09-30T23:53:00+08:00",
+          "updated_at": "2025-09-30T23:53:00+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+        },
+        {
+          "title": "乙巳蛇年-九月半",
+          "link": "https://xyzbz.cn/archives/1455/",
+          "description": "出差月初出了趟差，去下面分公司调试一些设备，中午到的，调试防火墙，调试服务器，由于好久没干过这些，一个下午只调试好了一台服务器，调试完分公司的人非拉着喝酒，我比较抗拒和酒蒙子喝酒，于是便找了个理...",
+          "pub_date": "2025-09-18T01:32:00+08:00",
+          "updated_at": "2025-09-18T01:32:00+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
+        },
+        {
+          "title": "乙巳蛇年-八月末",
+          "link": "https://xyzbz.cn/archives/1453/",
+          "description": "那晚上班路转眼一瞬发现远方天空的云彩真的好美，像冈仁波齐停车后，犹豫许久还是决定去看看临近傍晚，返程车辆增多跨过马路，走在路边，像个异物往天空的方向望去发现已经逐渐散去几分钟的时间，多少有点遗憾...",
+          "pub_date": "2025-09-01T17:17:03+08:00",
+          "updated_at": "2025-09-01T17:17:03+08:00",
+          "author": "网友小宋",
+          "site_name": "网友小宋",
+          "site_url": "https://xyzbz.cn/",
+          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
         }
       ]
     },
@@ -869,440 +987,6 @@
           "site_name": "雅余",
           "site_url": "https://yayu.net/",
           "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/logo.png"
-        }
-      ]
-    },
-    {
-      "name": "游钓四方",
-      "url": "https://blog.lhasa.icu/",
-      "avatar": "https://blog.lhasa.icu/favicon.svg",
-      "feed_url": "https://blog.lhasa.icu/rss.xml",
-      "posts": [
-        {
-          "title": "我的第一次 GitHub PR",
-          "link": "https://blog.lhasa.icu/posts/technology/2025-11-26-my-first-github-pr",
-          "description": "",
-          "pub_date": "2025-11-26T15:23:00+08:00",
-          "updated_at": "2025-11-26T15:23:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "Introducing Astro Lhasa 1.0",
-          "link": "https://blog.lhasa.icu/posts/technology/2025-11-25-introducing-astro-lhasa-1-0",
-          "description": "",
-          "pub_date": "2025-11-24T20:09:00+08:00",
-          "updated_at": "2025-11-24T20:09:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "读苏轼有感（1）",
-          "link": "https://blog.lhasa.icu/posts/life/2025-11-20-sushi-reflection-01",
-          "description": "",
-          "pub_date": "2025-11-19T16:29:00+08:00",
-          "updated_at": "2025-11-19T16:29:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "坐于顶，闻茶香，听古典，观夕阳",
-          "link": "https://blog.lhasa.icu/posts/outdoors/2025-11-17-sit-top-tea-classical-sunset",
-          "description": "",
-          "pub_date": "2025-11-17T10:29:00+08:00",
-          "updated_at": "2025-11-17T10:29:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "27 公里 1510 米！徒步新手毕业了",
-          "link": "https://blog.lhasa.icu/posts/outdoors/2025-11-15-biaoyi-line-newbie-graduation",
-          "description": "",
-          "pub_date": "2025-11-15T10:56:00+08:00",
-          "updated_at": "2025-11-15T10:56:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "最近的活动",
-          "link": "https://blog.lhasa.icu/posts/outdoors/2025-11-14-recent-activities",
-          "description": "",
-          "pub_date": "2025-11-13T17:31:00+08:00",
-          "updated_at": "2025-11-13T17:31:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "喜得配发物资",
-          "link": "https://blog.lhasa.icu/posts/life/2025-11-07-got-issued-suede-and-camo-shoes",
-          "description": "",
-          "pub_date": "2025-11-07T10:57:00+08:00",
-          "updated_at": "2025-11-07T10:57:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "让博客的代码块更有表现力",
-          "link": "https://blog.lhasa.icu/posts/technology/2025-11-03-make-blog-codeblocks-more-expressive",
-          "description": "",
-          "pub_date": "2025-11-03T15:59:00+08:00",
-          "updated_at": "2025-11-03T15:59:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "上天竺",
-          "link": "https://blog.lhasa.icu/posts/life/2025-11-03-upper-tianzhu",
-          "description": "",
-          "pub_date": "2025-11-02T16:51:00+08:00",
-          "updated_at": "2025-11-02T16:51:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "船游西湖，徒步河坊街",
-          "link": "https://blog.lhasa.icu/posts/life/2025-11-01-west-lake-boat-hefang-walk",
-          "description": "",
-          "pub_date": "2025-10-31T17:06:00+08:00",
-          "updated_at": "2025-10-31T17:06:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "打造全新 Artalk 评论界面",
-          "link": "https://blog.lhasa.icu/posts/technology/2025-10-26-artalk-custom-comment-form",
-          "description": "",
-          "pub_date": "2025-10-26T15:57:00+08:00",
-          "updated_at": "2025-10-26T15:57:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "西湖阅读初体验",
-          "link": "https://blog.lhasa.icu/posts/life/2025-10-25-first-reading-experience-at-west-lake",
-          "description": "",
-          "pub_date": "2025-10-24T18:30:00+08:00",
-          "updated_at": "2025-10-24T18:30:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "时隔四年，晨跑环西湖",
-          "link": "https://blog.lhasa.icu/posts/outdoors/2025-10-24-four-years-later-morning-run-west-lake",
-          "description": "",
-          "pub_date": "2025-10-23T16:01:00+08:00",
-          "updated_at": "2025-10-23T16:01:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "我从义乌搬家到杭州了",
-          "link": "https://blog.lhasa.icu/posts/life/2025-10-23-moving_from_yiwu_to_hangzhou",
-          "description": "",
-          "pub_date": "2025-10-22T18:07:00+08:00",
-          "updated_at": "2025-10-22T18:07:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "知乎答疑：个人博客内容常陷入同质化，如何找到独特风格？",
-          "link": "https://blog.lhasa.icu/posts/life/2025-10-18-answer-how-to-find-unique-style",
-          "description": "",
-          "pub_date": "2025-10-18T11:04:00+08:00",
-          "updated_at": "2025-10-18T11:04:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "首次徒步爬山，误闯深山老林，徒手爬悬崖，两度滑落险些丧命",
-          "link": "https://blog.lhasa.icu/posts/outdoors/2025-10-15-first-hike-deep-forest-cliff-fall",
-          "description": "",
-          "pub_date": "2025-10-15T02:05:00+08:00",
-          "updated_at": "2025-10-15T02:05:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "夜骑：环岩口水库，遭翻车",
-          "link": "https://blog.lhasa.icu/posts/outdoors/2025-10-11-night-ride-yankou-crash",
-          "description": "",
-          "pub_date": "2025-10-11T20:51:00+08:00",
-          "updated_at": "2025-10-11T20:51:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "国庆最后一天：倍鱼线二进宫",
-          "link": "https://blog.lhasa.icu/posts/outdoors/2025-10-09-double-ride-beiyu-line",
-          "description": "",
-          "pub_date": "2025-10-08T19:09:00+08:00",
-          "updated_at": "2025-10-08T19:09:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "集成 LightGallery 灯箱",
-          "link": "https://blog.lhasa.icu/posts/technology/2025-09-18-integrating-lightgallery",
-          "description": "",
-          "pub_date": "2025-09-18T11:33:00+08:00",
-          "updated_at": "2025-09-18T11:33:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "EasyFill v1.3 发布：支持SPA机制、优化 Shadow DOM 遍历逻辑",
-          "link": "https://blog.lhasa.icu/posts/technology/2025-09-18-easyfill-1-3-0",
-          "description": "",
-          "pub_date": "2025-09-18T00:44:00+08:00",
-          "updated_at": "2025-09-18T00:44:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "EasyFill v1.2 发布：黑名单功能上线",
-          "link": "https://blog.lhasa.icu/posts/technology/2025-09-16-easyfill-1-2-0",
-          "description": "",
-          "pub_date": "2025-09-16T03:21:00+08:00",
-          "updated_at": "2025-09-16T03:21:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "何为享受",
-          "link": "https://blog.lhasa.icu/posts/life/2025-08-30-what-is-enjoyment",
-          "description": "",
-          "pub_date": "2025-08-30T09:05:00+08:00",
-          "updated_at": "2025-08-30T09:05:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "热成铁板烧，又被暴雨淋成落汤鸡：西湖，我来了！",
-          "link": "https://blog.lhasa.icu/posts/outdoors/2025-07-19-from-yiwu-to-west-lake-in-heat-and-rain",
-          "description": "",
-          "pub_date": "2025-07-19T12:06:00+08:00",
-          "updated_at": "2025-07-19T12:06:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "这个 RSS 有意思",
-          "link": "https://blog.lhasa.icu/posts/technology/2025-07-10-beautify-rss",
-          "description": "",
-          "pub_date": "2025-07-09T18:26:00+08:00",
-          "updated_at": "2025-07-09T18:26:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "生日骑遇“死亡摇摆”，差点成忌日骑",
-          "link": "https://blog.lhasa.icu/posts/outdoors/2025-06-25-birthday-ride",
-          "description": "",
-          "pub_date": "2025-06-25T12:53:00+08:00",
-          "updated_at": "2025-06-25T12:53:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "雨骑枫赤线",
-          "link": "https://blog.lhasa.icu/posts/outdoors/2025-06-25-rain-ride-scarlet-maple",
-          "description": "",
-          "pub_date": "2025-06-25T12:53:00+08:00",
-          "updated_at": "2025-06-25T12:53:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "独立开发者创业了",
-          "link": "https://blog.lhasa.icu/posts/startup/2025-06-12-im-starting-up",
-          "description": "",
-          "pub_date": "2025-06-12T05:07:00+08:00",
-          "updated_at": "2025-06-12T05:07:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        },
-        {
-          "title": "二零二五 - 六七月读书随笔",
-          "link": "https://blog.lhasa.icu/posts/life/2025-06-07-reading-log",
-          "description": "",
-          "pub_date": "2025-06-07T08:16:00+08:00",
-          "updated_at": "2025-06-07T08:16:00+08:00",
-          "author": "",
-          "site_name": "游钓四方",
-          "site_url": "https://blog.lhasa.icu/",
-          "avatar": "https://blog.lhasa.icu/favicon.svg"
-        }
-      ]
-    },
-    {
-      "name": "网友小宋",
-      "url": "https://xyzbz.cn/",
-      "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png",
-      "feed_url": "https://xyzbz.cn/feed",
-      "posts": [
-        {
-          "title": "乙巳蛇年-十一月末",
-          "link": "https://xyzbz.cn/archives/1478/",
-          "description": "网红热干面周一的早上送完大宝去学校，闲来没事想着回老家一趟，顺便觅点食。准备走呢，想起了之前很火的王店热干面，上次根据导航去过一趟，可惜人家没出摊。这次沿着上次路线前往，终于出摊了。没做足功课，...",
-          "pub_date": "2025-11-30T23:59:00+08:00",
-          "updated_at": "2025-11-30T23:59:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-十一月半",
-          "link": "https://xyzbz.cn/archives/1477/",
-          "description": "电池焕新忍了半个月，终于到了月初，13的电池已经到了要崩溃的地步，充电宝也成为了出门必备的设备。1号重新下载了商城APP，电池换新，电池价格上个月从199降到了159，每月1-7日是服务日，会打...",
-          "pub_date": "2025-11-15T16:22:00+08:00",
-          "updated_at": "2025-11-15T16:22:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "石漫滩二郎山半日游",
-          "link": "https://xyzbz.cn/archives/1465/",
-          "description": "此行缘由说起来此行有部分原因是因为前段时间电车第三次续保送的加油卷。自从有电车后油车开的很少，加了一次，没怎么开，但是第二张快到期了，不加就废了，关键是油箱油有点多，需要跑跑才能继续加。于是便跟...",
-          "pub_date": "2025-11-01T15:50:30+08:00",
-          "updated_at": "2025-11-01T15:50:30+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-十月末",
-          "link": "https://xyzbz.cn/archives/1463/",
-          "description": "杯碎十年之约的定制水杯No.2023001号，算起来也陪伴了我两年半，当初专门要的001的编号，那时候更新老积极了，现在正常更新两篇口水文，加上随机想写的文章。这两年也加了很多友联，看到一个一个...",
-          "pub_date": "2025-10-31T04:53:00+08:00",
-          "updated_at": "2025-10-31T04:53:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "秋游海棠园",
-          "link": "https://xyzbz.cn/archives/1461/",
-          "description": "秋天忙碌了小半个月，终于赶上了休息，准备带着孩子出去转转，感受一些秋天，正如前段时间的评论，最近准备去秋游爬个山，去了，但是拍的图片太多了，爬山的图片还没有整理出来，第二天带娃散心的照片先整理出...",
-          "pub_date": "2025-10-28T11:38:33+08:00",
-          "updated_at": "2025-10-28T11:38:33+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-十月半",
-          "link": "https://xyzbz.cn/archives/1458/",
-          "description": "天气天晴了，一个白天，晚上就继续下大雨。以前挺喜欢下雨天，下多了就开始讨厌了！*食酒事哈酒要慎重，可能是信息获取不足，十一认识的三个去喝酒，喝完去唱歌，一个开车，两个骑三轮，开车那个把前面骑三轮...",
-          "pub_date": "2025-10-17T17:11:00+08:00",
-          "updated_at": "2025-10-17T17:11:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "Docker部署美食记录应用Mealie",
-          "link": "https://xyzbz.cn/archives/1457/",
-          "description": "前言最近刷抖音，经常看到一些保姆级别的美食教学视频，跟着步骤做了一些，ld孩子都说好吃，但是单独发篇文章的话，格式步骤一直没有自己中意的，所以想着部署一个美食记录应用，参考网上有发布的文章，最后...",
-          "pub_date": "2025-10-12T15:14:22+08:00",
-          "updated_at": "2025-10-12T15:14:22+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-九月末",
-          "link": "https://xyzbz.cn/archives/1456/",
-          "description": "系统更换其实我对系统比较佛系，当年在良心云买服务器，初始系统选择的应用服务器，系统ct7，但是时间跑到今天，停止服务更新，之前也收到过信息，一直没有处理，那天看到杜老师博客更新，想想还是需要处理...",
-          "pub_date": "2025-09-30T23:53:00+08:00",
-          "updated_at": "2025-09-30T23:53:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-九月半",
-          "link": "https://xyzbz.cn/archives/1455/",
-          "description": "出差月初出了趟差，去下面分公司调试一些设备，中午到的，调试防火墙，调试服务器，由于好久没干过这些，一个下午只调试好了一台服务器，调试完分公司的人非拉着喝酒，我比较抗拒和酒蒙子喝酒，于是便找了个理...",
-          "pub_date": "2025-09-18T01:32:00+08:00",
-          "updated_at": "2025-09-18T01:32:00+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
-        },
-        {
-          "title": "乙巳蛇年-八月末",
-          "link": "https://xyzbz.cn/archives/1453/",
-          "description": "那晚上班路转眼一瞬发现远方天空的云彩真的好美，像冈仁波齐停车后，犹豫许久还是决定去看看临近傍晚，返程车辆增多跨过马路，走在路边，像个异物往天空的方向望去发现已经逐渐散去几分钟的时间，多少有点遗憾...",
-          "pub_date": "2025-09-01T17:17:03+08:00",
-          "updated_at": "2025-09-01T17:17:03+08:00",
-          "author": "网友小宋",
-          "site_name": "网友小宋",
-          "site_url": "https://xyzbz.cn/",
-          "avatar": "https://bu.dusays.com/2023/07/25/64bf920527086.png"
         }
       ]
     },
@@ -1649,6 +1333,322 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://wang618.cn/img/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F/%E6%88%91%E7%9A%84%E5%A4%B4%E5%83%8F01.webp"
+        }
+      ]
+    },
+    {
+      "name": "游钓四方",
+      "url": "https://blog.lhasa.icu/",
+      "avatar": "https://blog.lhasa.icu/favicon.svg",
+      "feed_url": "https://blog.lhasa.icu/rss.xml",
+      "posts": [
+        {
+          "title": "我的第一次 GitHub PR",
+          "link": "https://blog.lhasa.icu/posts/technology/2025-11-26-my-first-github-pr",
+          "description": "",
+          "pub_date": "2025-11-26T15:23:00+08:00",
+          "updated_at": "2025-11-26T15:23:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "Introducing Astro Lhasa 1.0",
+          "link": "https://blog.lhasa.icu/posts/technology/2025-11-25-introducing-astro-lhasa-1-0",
+          "description": "",
+          "pub_date": "2025-11-24T20:09:00+08:00",
+          "updated_at": "2025-11-24T20:09:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "读苏轼有感（1）",
+          "link": "https://blog.lhasa.icu/posts/life/2025-11-20-sushi-reflection-01",
+          "description": "",
+          "pub_date": "2025-11-19T16:29:00+08:00",
+          "updated_at": "2025-11-19T16:29:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "坐于顶，闻茶香，听古典，观夕阳",
+          "link": "https://blog.lhasa.icu/posts/outdoors/2025-11-17-sit-top-tea-classical-sunset",
+          "description": "",
+          "pub_date": "2025-11-17T10:29:00+08:00",
+          "updated_at": "2025-11-17T10:29:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "27 公里 1510 米！徒步新手毕业了",
+          "link": "https://blog.lhasa.icu/posts/outdoors/2025-11-15-biaoyi-line-newbie-graduation",
+          "description": "",
+          "pub_date": "2025-11-15T10:56:00+08:00",
+          "updated_at": "2025-11-15T10:56:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "最近的活动",
+          "link": "https://blog.lhasa.icu/posts/outdoors/2025-11-14-recent-activities",
+          "description": "",
+          "pub_date": "2025-11-13T17:31:00+08:00",
+          "updated_at": "2025-11-13T17:31:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "喜得配发物资",
+          "link": "https://blog.lhasa.icu/posts/life/2025-11-07-got-issued-suede-and-camo-shoes",
+          "description": "",
+          "pub_date": "2025-11-07T10:57:00+08:00",
+          "updated_at": "2025-11-07T10:57:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "让博客的代码块更有表现力",
+          "link": "https://blog.lhasa.icu/posts/technology/2025-11-03-make-blog-codeblocks-more-expressive",
+          "description": "",
+          "pub_date": "2025-11-03T15:59:00+08:00",
+          "updated_at": "2025-11-03T15:59:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "上天竺",
+          "link": "https://blog.lhasa.icu/posts/life/2025-11-03-upper-tianzhu",
+          "description": "",
+          "pub_date": "2025-11-02T16:51:00+08:00",
+          "updated_at": "2025-11-02T16:51:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "船游西湖，徒步河坊街",
+          "link": "https://blog.lhasa.icu/posts/life/2025-11-01-west-lake-boat-hefang-walk",
+          "description": "",
+          "pub_date": "2025-10-31T17:06:00+08:00",
+          "updated_at": "2025-10-31T17:06:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "打造全新 Artalk 评论界面",
+          "link": "https://blog.lhasa.icu/posts/technology/2025-10-26-artalk-custom-comment-form",
+          "description": "",
+          "pub_date": "2025-10-26T15:57:00+08:00",
+          "updated_at": "2025-10-26T15:57:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "西湖阅读初体验",
+          "link": "https://blog.lhasa.icu/posts/life/2025-10-25-first-reading-experience-at-west-lake",
+          "description": "",
+          "pub_date": "2025-10-24T18:30:00+08:00",
+          "updated_at": "2025-10-24T18:30:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "时隔四年，晨跑环西湖",
+          "link": "https://blog.lhasa.icu/posts/outdoors/2025-10-24-four-years-later-morning-run-west-lake",
+          "description": "",
+          "pub_date": "2025-10-23T16:01:00+08:00",
+          "updated_at": "2025-10-23T16:01:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "我从义乌搬家到杭州了",
+          "link": "https://blog.lhasa.icu/posts/life/2025-10-23-moving_from_yiwu_to_hangzhou",
+          "description": "",
+          "pub_date": "2025-10-22T18:07:00+08:00",
+          "updated_at": "2025-10-22T18:07:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "知乎答疑：个人博客内容常陷入同质化，如何找到独特风格？",
+          "link": "https://blog.lhasa.icu/posts/life/2025-10-18-answer-how-to-find-unique-style",
+          "description": "",
+          "pub_date": "2025-10-18T11:04:00+08:00",
+          "updated_at": "2025-10-18T11:04:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "首次徒步爬山，误闯深山老林，徒手爬悬崖，两度滑落险些丧命",
+          "link": "https://blog.lhasa.icu/posts/outdoors/2025-10-15-first-hike-deep-forest-cliff-fall",
+          "description": "",
+          "pub_date": "2025-10-15T02:05:00+08:00",
+          "updated_at": "2025-10-15T02:05:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "夜骑：环岩口水库，遭翻车",
+          "link": "https://blog.lhasa.icu/posts/outdoors/2025-10-11-night-ride-yankou-crash",
+          "description": "",
+          "pub_date": "2025-10-11T20:51:00+08:00",
+          "updated_at": "2025-10-11T20:51:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "国庆最后一天：倍鱼线二进宫",
+          "link": "https://blog.lhasa.icu/posts/outdoors/2025-10-09-double-ride-beiyu-line",
+          "description": "",
+          "pub_date": "2025-10-08T19:09:00+08:00",
+          "updated_at": "2025-10-08T19:09:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "集成 LightGallery 灯箱",
+          "link": "https://blog.lhasa.icu/posts/technology/2025-09-18-integrating-lightgallery",
+          "description": "",
+          "pub_date": "2025-09-18T11:33:00+08:00",
+          "updated_at": "2025-09-18T11:33:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "EasyFill v1.3 发布：支持SPA机制、优化 Shadow DOM 遍历逻辑",
+          "link": "https://blog.lhasa.icu/posts/technology/2025-09-18-easyfill-1-3-0",
+          "description": "",
+          "pub_date": "2025-09-18T00:44:00+08:00",
+          "updated_at": "2025-09-18T00:44:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "EasyFill v1.2 发布：黑名单功能上线",
+          "link": "https://blog.lhasa.icu/posts/technology/2025-09-16-easyfill-1-2-0",
+          "description": "",
+          "pub_date": "2025-09-16T03:21:00+08:00",
+          "updated_at": "2025-09-16T03:21:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "何为享受",
+          "link": "https://blog.lhasa.icu/posts/life/2025-08-30-what-is-enjoyment",
+          "description": "",
+          "pub_date": "2025-08-30T09:05:00+08:00",
+          "updated_at": "2025-08-30T09:05:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "热成铁板烧，又被暴雨淋成落汤鸡：西湖，我来了！",
+          "link": "https://blog.lhasa.icu/posts/outdoors/2025-07-19-from-yiwu-to-west-lake-in-heat-and-rain",
+          "description": "",
+          "pub_date": "2025-07-19T12:06:00+08:00",
+          "updated_at": "2025-07-19T12:06:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "这个 RSS 有意思",
+          "link": "https://blog.lhasa.icu/posts/technology/2025-07-10-beautify-rss",
+          "description": "",
+          "pub_date": "2025-07-09T18:26:00+08:00",
+          "updated_at": "2025-07-09T18:26:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "生日骑遇“死亡摇摆”，差点成忌日骑",
+          "link": "https://blog.lhasa.icu/posts/outdoors/2025-06-25-birthday-ride",
+          "description": "",
+          "pub_date": "2025-06-25T12:53:00+08:00",
+          "updated_at": "2025-06-25T12:53:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "雨骑枫赤线",
+          "link": "https://blog.lhasa.icu/posts/outdoors/2025-06-25-rain-ride-scarlet-maple",
+          "description": "",
+          "pub_date": "2025-06-25T12:53:00+08:00",
+          "updated_at": "2025-06-25T12:53:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "独立开发者创业了",
+          "link": "https://blog.lhasa.icu/posts/startup/2025-06-12-im-starting-up",
+          "description": "",
+          "pub_date": "2025-06-12T05:07:00+08:00",
+          "updated_at": "2025-06-12T05:07:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
+        },
+        {
+          "title": "二零二五 - 六七月读书随笔",
+          "link": "https://blog.lhasa.icu/posts/life/2025-06-07-reading-log",
+          "description": "",
+          "pub_date": "2025-06-07T08:16:00+08:00",
+          "updated_at": "2025-06-07T08:16:00+08:00",
+          "author": "",
+          "site_name": "游钓四方",
+          "site_url": "https://blog.lhasa.icu/",
+          "avatar": "https://blog.lhasa.icu/favicon.svg"
         }
       ]
     },
@@ -2592,6 +2592,65 @@
       ]
     },
     {
+      "name": "友人C",
+      "url": "https://www.ihewro.com",
+      "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg",
+      "feed_url": "https://www.ihewro.com/feed",
+      "posts": [
+        {
+          "title": "macOS 中 Chromium 中打开 Save File Dialog 后主进程cpu上涨到 20%+",
+          "link": "https://www.ihewro.com/archives/1390/",
+          "description": "摘要在macos 26上，chromium 中打开 Save File Dialog后主进程cpu上涨到20%+，在macOS 其他版本没有问题，只有chromium 存在问题，Firefox ...",
+          "pub_date": "2025-11-29T17:06:00+08:00",
+          "updated_at": "2025-11-29T17:06:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+        },
+        {
+          "title": "成为 Chromium Committer 我的个人经历",
+          "link": "https://www.ihewro.com/archives/1377/",
+          "description": "国庆后10月9号，非常开心收到了 Chromium Committer 提名成功的邮件，申请到 Chromium.org 后缀的邮箱。可能有不少人不了解 Chromium Committer是什...",
+          "pub_date": "2025-11-09T00:31:00+08:00",
+          "updated_at": "2025-11-09T00:31:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+        },
+        {
+          "title": "何以为我 - Being Leads Doing.",
+          "link": "https://www.ihewro.com/archives/1376/",
+          "description": "已经好久没有在博客上分享最新的动态，最近几个月似乎有些迷失在焦虑和痛苦里。以至于每年生日之后会写一篇的总结的文章也没有写，本文权当作为生日后的总结吧。[scode type=\"share\" si...",
+          "pub_date": "2025-10-21T00:36:00+08:00",
+          "updated_at": "2025-10-21T00:36:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+        },
+        {
+          "title": "LifeTimer - 记录生活、学习、工作",
+          "link": "https://www.ihewro.com/archives/1372/",
+          "description": "特色所有数据存储在你自己的服务器之上，非常适合有服务器的人macOS原生开发，体积小，性能好完美适配博客，支持在博客上显示小组件日/周/月视图轻松查阅自己的时间分配开源，随时可以自己继续开发隐藏...",
+          "pub_date": "2025-07-21T00:15:00+08:00",
+          "updated_at": "2025-07-21T00:15:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
+        }
+      ]
+    },
+    {
+      "name": "空白Koobai",
+      "url": "https://koobai.com/",
+      "avatar": "https://cdn.xiaoten.com/friends/koobai.webp",
+      "feed_url": "https://koobai.com/index.xml",
+      "posts": []
+    },
+    {
       "name": "旅行漫记",
       "url": "https://synyan.cn/",
       "avatar": "https://cravatar.cn/avatar/bae7710d5271fe63d4dfcf86965afbda",
@@ -2695,65 +2754,6 @@
           "site_name": "旅行漫记",
           "site_url": "https://synyan.cn/",
           "avatar": "https://cravatar.cn/avatar/bae7710d5271fe63d4dfcf86965afbda"
-        }
-      ]
-    },
-    {
-      "name": "空白Koobai",
-      "url": "https://koobai.com/",
-      "avatar": "https://cdn.xiaoten.com/friends/koobai.webp",
-      "feed_url": "https://koobai.com/index.xml",
-      "posts": []
-    },
-    {
-      "name": "友人C",
-      "url": "https://www.ihewro.com",
-      "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg",
-      "feed_url": "https://www.ihewro.com/feed",
-      "posts": [
-        {
-          "title": "macOS 中 Chromium 中打开 Save File Dialog 后主进程cpu上涨到 20%+",
-          "link": "https://www.ihewro.com/archives/1390/",
-          "description": "摘要在macos 26上，chromium 中打开 Save File Dialog后主进程cpu上涨到20%+，在macOS 其他版本没有问题，只有chromium 存在问题，Firefox ...",
-          "pub_date": "2025-11-29T17:06:00+08:00",
-          "updated_at": "2025-11-29T17:06:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
-        },
-        {
-          "title": "成为 Chromium Committer 我的个人经历",
-          "link": "https://www.ihewro.com/archives/1377/",
-          "description": "国庆后10月9号，非常开心收到了 Chromium Committer 提名成功的邮件，申请到 Chromium.org 后缀的邮箱。可能有不少人不了解 Chromium Committer是什...",
-          "pub_date": "2025-11-09T00:31:00+08:00",
-          "updated_at": "2025-11-09T00:31:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
-        },
-        {
-          "title": "何以为我 - Being Leads Doing.",
-          "link": "https://www.ihewro.com/archives/1376/",
-          "description": "已经好久没有在博客上分享最新的动态，最近几个月似乎有些迷失在焦虑和痛苦里。以至于每年生日之后会写一篇的总结的文章也没有写，本文权当作为生日后的总结吧。[scode type=\"share\" si...",
-          "pub_date": "2025-10-21T00:36:00+08:00",
-          "updated_at": "2025-10-21T00:36:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
-        },
-        {
-          "title": "LifeTimer - 记录生活、学习、工作",
-          "link": "https://www.ihewro.com/archives/1372/",
-          "description": "特色所有数据存储在你自己的服务器之上，非常适合有服务器的人macOS原生开发，体积小，性能好完美适配博客，支持在博客上显示小组件日/周/月视图轻松查阅自己的时间分配开源，随时可以自己继续开发隐藏...",
-          "pub_date": "2025-07-21T00:15:00+08:00",
-          "updated_at": "2025-07-21T00:15:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://www.ihewro.com/usr/uploads/time/67bad1fb8fe22.jpg"
         }
       ]
     },
@@ -3485,7 +3485,7 @@
     {
       "title": "物哀",
       "link": "https://jame.work/html/other/6r",
-      "description": "<h1>物哀</h1>\n<blockquote>糟糕的事物会使人悲伤，美好的事物也同样。</blockquote>\n<p>如果这篇文章是昨天晚上写的话，我会和你聊聊《雪国》，聊聊日本文学黏糊糊的感觉，聊聊中国和欧美有关物哀的文化、以及和日本的差异。聊聊转瞬即逝又无法挽留的纯洁、虚无之美，以及这种美为什么让人提心吊胆，又为什么物哀应当算作一种“奢侈品”。那时我思如泉涌，能挥挥洒洒几千字。但实际却是今天早上写的，昨晚的感觉烟消云散，一个字都憋不出来了。</p>\n<p>只好等到以后不定那天来感觉了再写，所以，我并不能和你聊什么是物哀了。</p>\n<br />\n<br />\n<p>又或者说——其实我已经和你聊过了什么是物哀了。</p>\n<p>\n</p>",
+      "description": "<h1>物哀</h1>\n<blockquote>糟糕的事物会使人悲伤，美好的事物也同样。</blockquote>\n<p>如果这篇文章是昨天晚上写的话，我会和你聊聊《雪国》，聊聊日本文学黏糊糊的感觉，聊聊中国和欧美有关物哀的文化、以及和日本的差异。聊聊转瞬即逝又无法挽留的纯洁、虚无之美，以及这种美为什么让人提心吊胆，又为什么物哀应当算作一种“奢侈品”。那时我思如泉涌，能挥挥洒洒几千字。但实际却是今天早上写的，昨晚的感觉烟消云散，一个字都憋不出来了。</p>\n<p>只好等到以后不定那天来感觉了再写，所以，我并不能和你聊什么是物哀了。</p>\n<br />\n<p>又或者说——其实我已经和你聊过了什么是物哀了。</p>\n<p>\n</p>",
       "pub_date": "2025-11-14T00:00:00+08:00",
       "updated_at": "2025-11-14T00:00:00+08:00",
       "author": "",
