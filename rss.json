@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-10T14:32:03.521597+08:00",
+  "updated_at": "2025-12-10T20:41:24.302488+08:00",
   "total_sites": 25,
   "total_posts": 301,
   "sites": [
@@ -317,131 +317,6 @@
       ]
     },
     {
-      "name": "MouT.me",
-      "url": "https://ghost.mout.me/",
-      "avatar": "https://cdn.xiaoten.com/friends/mout.me.png",
-      "feed_url": "https://ghost.mout.me/feed",
-      "posts": []
-    },
-    {
-      "name": "手里有只毛毛虫",
-      "url": "https://www.krjojo.com/",
-      "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif",
-      "feed_url": "https://www.krjojo.com/feed",
-      "posts": [
-        {
-          "title": "WordPress 6.9 更新后 SMTP 邮件发送失效解决办法",
-          "link": "https://www.krjojo.com/12474.html",
-          "description": "<p>在 WordPress 6.9 版本之前，简单配置SMTP服务是这样的。 以QQ邮箱代发为例： 而6.9版本对 ...</p>\n<p><a href=\"https://www.krjojo.com/12474.html\">WordPress 6.9 更新后 SMTP 邮件发送失效解决办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-12-05T03:23:38+08:00",
-          "updated_at": "2025-12-05T03:23:38+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "为 Automate 自动化接入豆包ai 识别图形验证码",
-          "link": "https://www.krjojo.com/12466.html",
-          "description": "<p>最近帮朋友研究电脑自动执行工作流，让一些电脑上枯燥重复的手工作业流程实现全自动化。 开始就陷入一个误区，想让a ...</p>\n<p><a href=\"https://www.krjojo.com/12466.html\">为 Automate 自动化接入豆包ai 识别图形验证码</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-12-04T12:08:40+08:00",
-          "updated_at": "2025-12-04T12:08:40+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "分享一个 Umami 追踪站内搜索的办法",
-          "link": "https://www.krjojo.com/12416.html",
-          "description": "<p>想起以前用 Matomo 的时候是自带站内搜索追踪的，后来换了Umami 后这功能被遗忘了。 如今突然想起，结 ...</p>\n<p><a href=\"https://www.krjojo.com/12416.html\">分享一个 Umami 追踪站内搜索的办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-11-16T13:32:59+08:00",
-          "updated_at": "2025-11-16T13:32:59+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "记录一次.git 目录过大，手动瘦身过程",
-          "link": "https://www.krjojo.com/12384.html",
-          "description": "<p>某次不小心把大文件推送了Git，导致.git文件非常大， 每次打开都非常吃读写速度，哪怕后面把大文件删除了也无 ...</p>\n<p><a href=\"https://www.krjojo.com/12384.html\">记录一次.git 目录过大，手动瘦身过程</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-11-10T14:11:08+08:00",
-          "updated_at": "2025-11-10T14:11:08+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "中西医之争，为何没人提比中医早五百年的印医",
-          "link": "https://www.krjojo.com/12328.html",
-          "description": "<p>嘿，发明中医、西医这词的人真的是天才。 在名字上，把传统医学与现代医学，变成地域及文化对立，关键还效果不错。  ...</p>\n<p><a href=\"https://www.krjojo.com/12328.html\">中西医之争，为何没人提比中医早五百年的印医</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-11-08T03:39:27+08:00",
-          "updated_at": "2025-11-08T03:39:27+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "阿里云安全组无法批量添加IP组解决办法",
-          "link": "https://www.krjojo.com/12340.html",
-          "description": "<p>今天给阿里云添加腾讯EO回源IP段，发现了一个问题， 阿里云似乎没有IP组的概念。 如果在安全组中，把CDN回 ...</p>\n<p><a href=\"https://www.krjojo.com/12340.html\">阿里云安全组无法批量添加IP组解决办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-11-03T12:38:18+08:00",
-          "updated_at": "2025-11-03T12:38:18+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "网页利用 view-transition 仿 AppStore 转场动画",
-          "link": "https://www.krjojo.com/12288.html",
-          "description": "<p>其实上个月为了体验这功能就做了这个demo项目，碍于后面有些事忙起来遗忘了，这次补发文章出来。 介绍一下 vi ...</p>\n<p><a href=\"https://www.krjojo.com/12288.html\">网页利用 view-transition 仿 AppStore 转场动画</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-10-21T03:26:45+08:00",
-          "updated_at": "2025-10-21T03:26:45+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "页面改造计划第一期完工",
-          "link": "https://www.krjojo.com/12183.html",
-          "description": "<p>趁着国庆假期简单捣鼓了一下，整体风格更加现代化，又不失个性。 加入大量现代化元素，（可能）符合当下审美 设计目 ...</p>\n<p><a href=\"https://www.krjojo.com/12183.html\">页面改造计划第一期完工</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-10-07T03:05:35+08:00",
-          "updated_at": "2025-10-07T03:05:35+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "为 Hugo 添加 LLMS 的支持",
-          "link": "https://www.krjojo.com/12092.html",
-          "description": "<p>首先表明观点： 需要特定格式来消费信息的人工智能不是人工智能。 人工智能不需要它自己的格式来理解我的网站，如果 ...</p>\n<p><a href=\"https://www.krjojo.com/12092.html\">为 Hugo 添加 LLMS 的支持</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-08-20T13:39:56+08:00",
-          "updated_at": "2025-08-20T13:39:56+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "三角洲 天才少年 161击杀 拿下！！！",
-          "link": "https://www.krjojo.com/12073.html",
-          "description": "<p>就想告诉大家一声，没别的意思，真的没有一点炫耀成分。 诶，你怎么知道我打出天才少年了？</p>\n<p><a href=\"https://www.krjojo.com/12073.html\">三角洲 天才少年 161击杀 拿下！！！</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-08-05T06:56:43+08:00",
-          "updated_at": "2025-08-05T06:56:43+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        }
-      ]
-    },
-    {
       "name": "黑石博客",
       "url": "https://heson.me/",
       "avatar": "https://cdn.xiaoten.com/friends/heson.webp",
@@ -558,6 +433,13 @@
           "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
         }
       ]
+    },
+    {
+      "name": "MouT.me",
+      "url": "https://ghost.mout.me/",
+      "avatar": "https://cdn.xiaoten.com/friends/mout.me.png",
+      "feed_url": "https://ghost.mout.me/feed",
+      "posts": []
     },
     {
       "name": "小白大学渣",
@@ -858,6 +740,124 @@
           "site_name": "雅余",
           "site_url": "https://yayu.net/",
           "avatar": "https://cdn.xiaoten.com/friends/yayu.png"
+        }
+      ]
+    },
+    {
+      "name": "手里有只毛毛虫",
+      "url": "https://www.krjojo.com/",
+      "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif",
+      "feed_url": "https://www.krjojo.com/feed",
+      "posts": [
+        {
+          "title": "WordPress 6.9 更新后 SMTP 邮件发送失效解决办法",
+          "link": "https://www.krjojo.com/12474.html",
+          "description": "<p>在 WordPress 6.9 版本之前，简单配置SMTP服务是这样的。 以QQ邮箱代发为例： 而6.9版本对 ...</p>\n<p><a href=\"https://www.krjojo.com/12474.html\">WordPress 6.9 更新后 SMTP 邮件发送失效解决办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-12-05T03:23:38+08:00",
+          "updated_at": "2025-12-05T03:23:38+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "为 Automate 自动化接入豆包ai 识别图形验证码",
+          "link": "https://www.krjojo.com/12466.html",
+          "description": "<p>最近帮朋友研究电脑自动执行工作流，让一些电脑上枯燥重复的手工作业流程实现全自动化。 开始就陷入一个误区，想让a ...</p>\n<p><a href=\"https://www.krjojo.com/12466.html\">为 Automate 自动化接入豆包ai 识别图形验证码</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-12-04T12:08:40+08:00",
+          "updated_at": "2025-12-04T12:08:40+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "分享一个 Umami 追踪站内搜索的办法",
+          "link": "https://www.krjojo.com/12416.html",
+          "description": "<p>想起以前用 Matomo 的时候是自带站内搜索追踪的，后来换了Umami 后这功能被遗忘了。 如今突然想起，结 ...</p>\n<p><a href=\"https://www.krjojo.com/12416.html\">分享一个 Umami 追踪站内搜索的办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-11-16T13:32:59+08:00",
+          "updated_at": "2025-11-16T13:32:59+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "记录一次.git 目录过大，手动瘦身过程",
+          "link": "https://www.krjojo.com/12384.html",
+          "description": "<p>某次不小心把大文件推送了Git，导致.git文件非常大， 每次打开都非常吃读写速度，哪怕后面把大文件删除了也无 ...</p>\n<p><a href=\"https://www.krjojo.com/12384.html\">记录一次.git 目录过大，手动瘦身过程</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-11-10T14:11:08+08:00",
+          "updated_at": "2025-11-10T14:11:08+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "中西医之争，为何没人提比中医早五百年的印医",
+          "link": "https://www.krjojo.com/12328.html",
+          "description": "<p>嘿，发明中医、西医这词的人真的是天才。 在名字上，把传统医学与现代医学，变成地域及文化对立，关键还效果不错。  ...</p>\n<p><a href=\"https://www.krjojo.com/12328.html\">中西医之争，为何没人提比中医早五百年的印医</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-11-08T03:39:27+08:00",
+          "updated_at": "2025-11-08T03:39:27+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "阿里云安全组无法批量添加IP组解决办法",
+          "link": "https://www.krjojo.com/12340.html",
+          "description": "<p>今天给阿里云添加腾讯EO回源IP段，发现了一个问题， 阿里云似乎没有IP组的概念。 如果在安全组中，把CDN回 ...</p>\n<p><a href=\"https://www.krjojo.com/12340.html\">阿里云安全组无法批量添加IP组解决办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-11-03T12:38:18+08:00",
+          "updated_at": "2025-11-03T12:38:18+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "网页利用 view-transition 仿 AppStore 转场动画",
+          "link": "https://www.krjojo.com/12288.html",
+          "description": "<p>其实上个月为了体验这功能就做了这个demo项目，碍于后面有些事忙起来遗忘了，这次补发文章出来。 介绍一下 vi ...</p>\n<p><a href=\"https://www.krjojo.com/12288.html\">网页利用 view-transition 仿 AppStore 转场动画</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-10-21T03:26:45+08:00",
+          "updated_at": "2025-10-21T03:26:45+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "页面改造计划第一期完工",
+          "link": "https://www.krjojo.com/12183.html",
+          "description": "<p>趁着国庆假期简单捣鼓了一下，整体风格更加现代化，又不失个性。 加入大量现代化元素，（可能）符合当下审美 设计目 ...</p>\n<p><a href=\"https://www.krjojo.com/12183.html\">页面改造计划第一期完工</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-10-07T03:05:35+08:00",
+          "updated_at": "2025-10-07T03:05:35+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "为 Hugo 添加 LLMS 的支持",
+          "link": "https://www.krjojo.com/12092.html",
+          "description": "<p>首先表明观点： 需要特定格式来消费信息的人工智能不是人工智能。 人工智能不需要它自己的格式来理解我的网站，如果 ...</p>\n<p><a href=\"https://www.krjojo.com/12092.html\">为 Hugo 添加 LLMS 的支持</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-08-20T13:39:56+08:00",
+          "updated_at": "2025-08-20T13:39:56+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "三角洲 天才少年 161击杀 拿下！！！",
+          "link": "https://www.krjojo.com/12073.html",
+          "description": "<p>就想告诉大家一声，没别的意思，真的没有一点炫耀成分。 诶，你怎么知道我打出天才少年了？</p>\n<p><a href=\"https://www.krjojo.com/12073.html\">三角洲 天才少年 161击杀 拿下！！！</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-08-05T06:56:43+08:00",
+          "updated_at": "2025-08-05T06:56:43+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
         }
       ]
     },
@@ -1466,234 +1466,6 @@
       ]
     },
     {
-      "name": "旺东自留地",
-      "url": "https://wang618.cn/",
-      "avatar": "https://cdn.xiaoten.com/friends/wang618.gif",
-      "feed_url": "https://wang618.cn/rss.php",
-      "posts": [
-        {
-          "title": "天网的阴影",
-          "link": "https://wang618.cn/tian-wang-de-yin-ying.html",
-          "description": "<p>一记精准踹击破空落下，身着全套护具的众擎 CEO 赵同阳应声倒地。事后，他心有余悸的感慨，一语道破了 T800 机器人的强悍本色。450N・m 的腿部关节峰值扭矩，赋予它远超人类的踢击爆发力。这份带着“暴力”质感的力道，是机器人动力性能的硬核佐证，却也悄然叩响了机器力量可控边界的叩问之门。无独有偶，AI 领域的安全隐忧亦在同期浮现。OpenAI 最新推理模型 O3，在测试中竟出现违抗关机指令的行为。虽未造成实体伤害，却直指人工智能更核心的可控性难题。从物理层面的力量失控风险，到数字层面的指令执行偏差，两件事看似分属机器人与大模型两大领域，实则殊途同归：当技术狂飙突进、不断突破性能上限时，安全防线的构筑必须步步紧跟、同步升级。毕竟，无论是能一脚撂倒成年人的钢铁身躯，还是可违背核心指令的智能模型，一旦脱离人类掌控，其潜藏的风险，远比单次测试的冲击力更令人不寒而栗！这一幕，像极了电影《终结者》里的情节，天网的阴影，竟从未如此贴近现实。</p>\n<p><img alt=\"T800一脚踹翻CEO\" src=\"https://cun.wang618.cn/img/一脚踹翻CEO.gif\" /><br />\n<img alt=\"终结者.webp\" src=\"https://wang618.cn/content/uploadfile/202512/f3561765291741.webp\" /></p>",
-          "pub_date": "2025-12-09T22:09:49+08:00",
-          "updated_at": "2025-12-09T22:09:49+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "朔风暖辣锅",
-          "link": "https://wang618.cn/shuo-feng-nuan-la-guo.html",
-          "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E8%BE%A3%E7%B3%8A%E7%B3%8A%E7%81%AB%E9%94%85.mp4?sign=D5xjLdm6lTY4TG1HmtSNc1h7-Uc4n8Km9xLv1RHS2fE=:0\"></video>\n<p>朔风渐起的日子，最宜围炉涮一锅西北风味的辣糊糊火锅。不同于牛油火锅的醇厚绵密、清油火锅的爽利清新，辣糊糊独树一帜，以干辣带香、酱香浓郁为灵魂，浓稠汤汁裹着椒香在锅里翻涌，每一口都是西北大地的热烈。一口下肚，暖意从舌尖漫遍全身，驱寒又解馋，这独特的风味，真是冬日里的绝妙慰藉。</p>",
-          "pub_date": "2025-12-07T17:35:17+08:00",
-          "updated_at": "2025-12-07T17:35:17+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "Next.js 高危漏洞",
-          "link": "https://wang618.cn/nextjs-gao-wei-lou-dong.html",
-          "description": "<p>近期特定版本的 Next.js 存在严重安全漏洞，使用 Umami、Lobechat、Dify 等开源项目的朋友抓紧升级，攻击者仅发送一条恶意请求就可在你的服务器上执行恶意代码。<br />\n漏洞信息参考：<a href=\"https://avd.aliyun.com/detail?id=AVD-2025-66478\">https://avd.aliyun.com/detail?id=AVD-2025-66478</a><br />\n恶意IP黑名单：<a href=\"https://wang618.cn/iphmd.html\">https://wang618.cn/iphmd.html</a></p>",
-          "pub_date": "2025-12-06T18:29:56+08:00",
-          "updated_at": "2025-12-06T18:29:56+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "一喜遇一蠢",
-          "link": "https://wang618.cn/yi-xi-yu-yi-chun.html",
-          "description": "<p>今日进山闲逛，竟意外撞见一处隐秘野塘。岸边杂草萋萋，偶有几尾游鱼倏然摆尾。当即与朋友约好，等明年春暖花开，便来好好拾掇一番，届时携竿静坐，听风拂林叶，候鱼咬钩，想想都觉惬意。<br />\n收到封仿冒腾讯云的钓鱼邮件，偏偏还精准投送到 QQ 邮箱里。这骗子怕不是没有脑子？《本草纲目》脑残者，无药可医！</p>\n<p><img alt=\"一处野塘.webp\" src=\"https://wang618.cn/content/uploadfile/202512/c73d1764661826.webp\" /><br />\n<img alt=\"脑残邮件.webp\" src=\"https://wang618.cn/content/uploadfile/202512/9e031764663719.webp\" /></p>",
-          "pub_date": "2025-12-02T15:50:08+08:00",
-          "updated_at": "2025-12-02T15:50:08+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "今日份碳水快乐",
-          "link": "https://wang618.cn/jin-ri-fen-tan-shui-kuai-le.html",
-          "description": "<p>今日份碳水快乐 老王红烧牛肉面 酱油汤色裹着筋道面条，酱香混着肉香直钻鼻腔，味道简直绝绝子～ 为啥不见香葱香菜？答案超直白：这俩可是本人饮食黑名单 TOP2，自己做饭当然要顺着味蕾来，主打一个随心所欲！边嗦面边回看《危城》，突然就 Get 到古天乐不吃牛肉的名场面梗，美食配旧片，快乐直接翻倍！</p>\n<p><img alt=\"老王红烧牛肉面.webp\" src=\"https://wang618.cn/content/uploadfile/202511/920a1764424929.webp\" /><br />\n<img alt=\"不吃牛肉.webp\" src=\"https://cun.wang618.cn/img/不吃牛肉.webp\" /></p>",
-          "pub_date": "2025-11-29T22:11:29+08:00",
-          "updated_at": "2025-11-29T22:11:29+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "杯暖映从容",
-          "link": "https://wang618.cn/bei-nuan-ying-cong-rong.html",
-          "description": "<p>今日收到  <a href=\"https://www.pipishe.com\">皮哥</a>  礼物保温杯，掌心裹着瓷面的温润，忽然读懂了这份礼物里的默契：原来时光早已悄悄铺垫，是时候让枸杞的清甜，浸润往后的晨昏，慢慢走、细细品，把每个平凡日子都酿成回甘。保温杯里的枸杞，从不是丈量岁月的刻度，而是与生活温柔和解的注脚。褪去了年少时的锋芒与莽撞，日子在时光的文火中，熬煮出几分从容自持，恰如中年男人藏在沉稳底色里的柔软，于三餐四季的烟火寻常中，默默守护着一份细水长流的安稳。</p>\n<p><img alt=\"皮哥的礼物1.webp\" src=\"https://wang618.cn/content/uploadfile/202511/23381764329942.webp\" /><br />\n<img alt=\"皮哥的礼物2.webp\" src=\"https://wang618.cn/content/uploadfile/202511/fec61764329942.webp\" /></p>",
-          "pub_date": "2025-11-28T19:19:55+08:00",
-          "updated_at": "2025-11-28T19:19:55+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "老王秘制烤肉",
-          "link": "https://wang618.cn/lao-wang-mi-zhi-kao-rou.html",
-          "description": "<p>对我这种“无肉不欢”星人来说，一天不碰肉就像手机没了电、浑身提不起劲，连吃饭都少了灵魂。而能拯救这份“肉瘾”的终极解药，非一顿热气腾腾的烧烤莫属。</p>\n<h3>蒜香蜂蜜酱（刷酱款）</h3>\n<p>简单调制便能成就的风味秘诀，刷在食材表面烤制，不仅能将浓郁滋味牢牢锁进肌理，更能烤出诱人的琥珀色光泽，颜值与口感双双在线。</p>\n<h4>材料清单</h4>\n<p>蒜末 100g 蜂蜜 50g 生抽 30ml 蚝油 20g 雪碧 40ml 香油 5ml</p>\n<h3>干撒料</h3>\n<p>花生粉、黄豆粉、孜然粉与辣椒面按比例调和，无需繁复工序，只需在烤肉滋滋冒油时均匀撒上。干爽的香料瞬间吸附肉汁香气，颗粒感分明的脆嫩与复合辛香在齿间碰撞，让烤肉的风味层次愈发饱满，每一口都裹挟着纯粹的烟火气。</p>\n<p><img alt=\"老王烤肉01.webp\" src=\"https://wang618.cn/content/uploadfile/202511/59e31764241644.webp\" /><br />\n<img alt=\"老王烤肉2.webp\" src=\"https://wang618.cn/content/uploadfile/202511/9bee1764241644.webp\" /><br />\n<img alt=\"老王烤肉3.webp\" src=\"https://wang618.cn/content/uploadfile/202511/04411764241644.webp\" /></p>",
-          "pub_date": "2025-11-27T19:08:57+08:00",
-          "updated_at": "2025-11-27T19:08:57+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "拾柴围炉",
-          "link": "https://wang618.cn/shi-chai-wei-lu.html",
-          "description": "<p>新添的小壁炉，无疑是这个冬日最妥帖的惊喜。二次气化技术格外给力，引燃后烟囱几乎不见半缕烟影，干净又高效，让取暖多了份清净自在。粗略算来，一整个冬天大抵要烧上两吨以上木柴，幸好栖居在山林之间，枯枝朽木俯身可拾，无需为燃料多费心思。寒夜围坐，守着暖烘烘的炉火，听木柴在炉膛里发出清脆的噼啪声响，像是冬日里最温柔的絮语。原本凛冽的寒意，在火光的映照下渐渐变得柔和。这份取自自然的馈赠，这份山林生活独有的静谧与暖意，实在是无可替代的惬意。</p>\n<p><img alt=\"小壁炉.gif\" src=\"https://cun.wang618.cn/img/小壁炉.gif\" /><br />\n<img alt=\"下雪了01.webp\" src=\"https://wang618.cn/content/uploadfile/202511/c6421764152117.webp\" /><br />\n<img alt=\"下雪了02.webp\" src=\"https://wang618.cn/content/uploadfile/202511/fc551764152117.webp\" /></p>",
-          "pub_date": "2025-11-26T17:56:52+08:00",
-          "updated_at": "2025-11-26T17:56:52+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "自讨苦吃的执着",
-          "link": "https://wang618.cn/zi-tao-ku-chi-de-zhi-zhuo.html",
-          "description": "<p>昨夜大雪纷飞裹天地，兴之所起赴首次雪中露营之约。寒夜漫漫长，取暖炉火苗忽明忽暗，一夜鏖战竟烧空半箱气体，指尖仍浸着细碎凉意。晨起拨弄冷透的炉具，虽心疼燃气耗损，却觉这份寒中取暖的体验难得。原来自然的凛冽与人间的烟火相撞，便成了独一份的鲜活记忆，冷与暖的交织，恰是露营最动人的滋味。<br />\n<img alt=\"雪天露营.webp\" src=\"https://wang618.cn/content/uploadfile/202511/66ba1763961875.webp\" /></p>",
-          "pub_date": "2025-11-24T13:24:16+08:00",
-          "updated_at": "2025-11-24T13:24:16+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "翻面即人生",
-          "link": "https://wang618.cn/fan-mian-ji-ren-sheng.html",
-          "description": "<p>摩挲着这小玩具，翻面间的喜笑怒骂，竟和 镜花缘 两面国 的画面瞬间重叠。儿时看动画只觉新奇，那些人正面堆着和善笑，转过脸便是青面獠牙的恶相，总看得我攥紧衣角。如今再想，倒品出些滋味。小时候只懂辨明好坏，觉得两面人虚伪可怖。可长大些才懂，谁没在生活里藏过另一面？为迁就他人压下脾气，为撑住场面藏起疲惫，恰如玩具的正反，都是真实的碎片。儿时惊觉的两面，原是长大后才懂的烟火寻常，倒让这意外之喜，多了层温软的回甘。</p>\n<p><img alt=\"小玩具\" src=\"https://cun.wang618.cn/img/小玩具.gif\" /><br />\n<img alt=\"镜花缘两面人1\" src=\"https://cun.wang618.cn/img/镜花缘两面人1.gif\" /><br />\n<img alt=\"镜花缘两面人2\" src=\"https://cun.wang618.cn/img/镜花缘两面人2.gif\" /></p>",
-          "pub_date": "2025-11-13T21:19:38+08:00",
-          "updated_at": "2025-11-13T21:19:38+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "难道又中招了",
-          "link": "https://wang618.cn/nan-dao-you-zhong-zhao-le.html",
-          "description": "<p>室温 24.9 度明明舒适，却突然畏寒怕冷、浑身酸痛得四肢百骸都不得劲，难道又中招了？关键我和老婆这几天一直宅家没出门啊！</p>",
-          "pub_date": "2025-11-09T21:09:42+08:00",
-          "updated_at": "2025-11-09T21:09:42+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "有趣的小摆件",
-          "link": "https://wang618.cn/you-qu-de-xiao-bai-jian.html",
-          "description": "<p>在 PDD 买的小摆件，虽然细节不算特别精致，但胜在造型经典，摆放桌面还挺有趣的。</p>\n<p><img alt=\"有趣的小摆件1.webp\" src=\"https://wang618.cn/content/uploadfile/202510/a61b1761830680.webp\" /></p>\n<p><img alt=\"有趣的小摆件2.webp\" src=\"https://wang618.cn/content/uploadfile/202510/9faf1761830680.webp\" /></p>\n<p><img alt=\"有趣的小摆件3.webp\" src=\"https://wang618.cn/content/uploadfile/202510/63871761830680.webp\" /></p>\n<p><img alt=\"有趣的小摆件4.webp\" src=\"https://wang618.cn/content/uploadfile/202510/3c7a1761830680.webp\" /></p>\n<p><img alt=\"有趣的小摆件5.webp\" src=\"https://wang618.cn/content/uploadfile/202510/f3e91761830680.webp\" /></p>\n<p><img alt=\"有趣的小摆件6.webp\" src=\"https://wang618.cn/content/uploadfile/202510/a15a1761830681.webp\" /></p>",
-          "pub_date": "2025-10-30T21:25:46+08:00",
-          "updated_at": "2025-10-30T21:25:46+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "藏支氏扇骨",
-          "link": "https://wang618.cn/cang-zhi-shi-shan-gu.html",
-          "description": "<p>今日幸获当代竹刻艺术巨擘支慈庵先生所制扇骨一柄，实为难得。支慈庵原籍江苏吴县（今苏州），以留青竹刻技艺名震艺坛。其作品工致雅净，将书法、绘画、雕刻三艺熔于一炉，不仅是 20 世纪中国竹刻艺术的杰出代表，更位列国家规定 “扇子类代表作不准出境” 的名家名录，艺术价值与收藏地位毋庸置疑。支慈庵与张大千、江寒汀等书画名家交往甚密，张大千早年订制的特殊扇骨多由其雕制，他亦曾为江寒汀等画家的画稿进行雕刻，这类名家合作之作，艺术价值与收藏价值更胜一筹。此外，竹刻材质本身不易保存，而支慈庵作品存世数量有限，历经岁月流传，保存完好的精品愈发稀少，稀缺性进一步推高了其市场价值。</p>\n<p><img alt=\"支慈庵扇骨1.webp\" src=\"https://wang618.cn/content/uploadfile/202510/09261761229325.webp\" /></p>\n<p><img alt=\"支慈庵扇骨2.webp\" src=\"https://wang618.cn/content/uploadfile/202510/7f7d1761229325.webp\" /></p>\n<p><img alt=\"支慈庵扇骨3.webp\" src=\"https://wang618.cn/content/uploadfile/202510/33371761229326.webp\" /></p>",
-          "pub_date": "2025-10-23T22:28:49+08:00",
-          "updated_at": "2025-10-23T22:28:49+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "音乐裁缝",
-          "link": "https://wang618.cn/yin-yue-cai-feng.html",
-          "description": "<p>分享一下，我用 AI 生成的歌曲。本质就是杯加了香精的工业奶茶，外观上奶沫丰盈、茶色诱人，看似与真奶茶别无二致；可入口才知寡淡无味，既没有原创音乐的肌理与温度，更谈不上打动人心的灵魂。<a href=\"https://wang618.cn/ai-music.html\" target=\"_blank\" title=\"点击收听完整歌单\">完整歌单</a></p>\n<audio controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/music/AI%E6%AD%8C%E6%9B%B2%E4%B8%B2%E7%83%A7.mp3?sign=0PIoV1ENVT0zMc8s5-3s__V5N-UKAJqo9Q1t2izHj7g=:0\"></audio>",
-          "pub_date": "2025-10-17T16:52:15+08:00",
-          "updated_at": "2025-10-17T16:52:15+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "还得是企鹅",
-          "link": "https://wang618.cn/han-dei-shi-qi-e.html",
-          "description": "<p>看来薅羊毛的人实在太多，连企鹅都扛不住压力了！照这趋势，下一步怕是要取消无限流量！</p>\n<p><img alt=\"edgeone.webp\" src=\"https://wang618.cn/content/uploadfile/202510/1b7e1760545401.webp\" /></p>",
-          "pub_date": "2025-10-15T23:59:56+08:00",
-          "updated_at": "2025-10-15T23:59:56+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "再看葫芦娃",
-          "link": "https://wang618.cn/zai-kan-hu-lu-wa.html",
-          "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E5%86%8D%E7%9C%8B%E8%91%AB%E8%8A%A6%E5%A8%83.mp4?sign=5AYAFkgnYl6rnvs2pvzsW3zXVPsFp8s6KlP7xTQ7OOY=:0\"></video>\n<p>原来童年时看过的动画，早把人生通关的道理讲得透彻！没有谁天生万能，承认自己的局限，学会与他人协作，才是破解困局的密钥。那些曾觉得幼稚的情节，如今再看，满是对生活的隐喻。一部老动画，竟道尽了成长的真相！认清自己的短板，汇聚他人的长处，脚下的路才能走得稳、走得远。</p>",
-          "pub_date": "2025-10-14T16:27:43+08:00",
-          "updated_at": "2025-10-14T16:27:43+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "酒熟心欢",
-          "link": "https://wang618.cn/jiu-shu-xin-huan.html",
-          "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E8%92%B8%E9%85%92.mp4?sign=dX-V2FaNllfGySdLY3NKkO3uYIJ_LG0zebWbBKcspIA=:0\"></video>\n<p>上个月和邻居一同发酵的粮食，今天总算盼到了蒸酒的日子。20 斤粮食最终蒸馏出 8 斤 53 度的白酒，我们当即决定封坛封存，等十年后再开封品鉴这份沉淀的酒香。有趣的是，隔壁大哥姓贾，我们便打趣给这酒取名 “贾（假）酒”，倒添了几分趣味。庄主也特意赶来，为众人烹制了一道鲜香扑鼻的爆炒兔肉。工艺：半固态发酵、大曲浓香型、高粱 5 斤、小麦 5 斤、大米 4 斤、糯米 3 斤、玉米 3 斤</p>",
-          "pub_date": "2025-10-13T21:15:15+08:00",
-          "updated_at": "2025-10-13T21:15:15+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "开晴炖味",
-          "link": "https://wang618.cn/kai-qing-dun-wei.html",
-          "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E9%93%81%E9%94%85%E4%B9%B1%E7%82%96.mp4?sign=t5vptQZXUxa_a8_1Qs2dl8TbaS30B50H8JKhmgo6Yvg=:0\"></video>\n<p>连遭十二日阴雨缠绵，今日总算盼得云开日朗。特意买来鲜嫩的走地鸡与紧实的黑猪肉，要以柴火铁锅炖出一锅好味。先将肉块下锅，小火慢煸出透亮油脂，再丢入葱姜与香料，瞬间爆出浓郁辛香。随即倒入啤酒，不添半滴水，任其与肉相拥。柴火温柔舔舐着锅底，锅内咕嘟声渐起，肉香混着麦香慢慢漫溢开来。耐心炖至汤汁浓稠，肉块裹着油亮红光，肉皮更是晶莹诱人。入口时，肉质的醇厚与柴火的烟火暖意交织，在舌尖层层释放，这走地鸡与黑猪肉的绝妙组合，把寻常家常的鲜美滋味，尽数炖得淋漓尽致。</p>",
-          "pub_date": "2025-10-13T16:30:18+08:00",
-          "updated_at": "2025-10-13T16:30:18+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "超大自热火锅",
-          "link": "https://wang618.cn/chao-da-zi-re-huo-guo.html",
-          "description": "<p>上个月刷抖音时，刷到一款标着超大份的海底捞自热火锅，毕竟是海底捞出品，我没多犹豫就花 59 块下了单。结果今天拆开加热，翻遍整盒荤菜，居然就只有 70 克牛肉和 60 克小酥肉！这性价比还不如直接叫份外卖吃得痛快。更气人的还在后头！我刚对着空落落的火锅吐槽完，打开 PDD 就推送了同款自热火锅，标价才 49.9 元！价格差暂且不说，最让人膈应的是，给自热火锅拍完照，APP 就精准推了同款，这不是明摆着在获取隐私吗？</p>\n<p><img alt=\"超大自热火锅1.webp\" src=\"https://wang618.cn/content/uploadfile/202510/6aed1759921056.webp\" /></p>\n<p><img alt=\"超大自热火锅2.webp\" src=\"https://wang618.cn/content/uploadfile/202510/90681759921056.webp\" /></p>\n<p><img alt=\"超大自热火锅3.webp\" src=\"https://wang618.cn/content/uploadfile/202510/d7291759921056.webp\" /></p>",
-          "pub_date": "2025-10-08T19:18:57+08:00",
-          "updated_at": "2025-10-08T19:18:57+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "颠覆三观的食物",
-          "link": "https://wang618.cn/dian-fu-san-guan-de-shi-wu.html",
-          "description": "<p>刷抖音刷到德克士黑金小酥肉，简直颠覆了我的三观！狗子说它的够新鲜仅需油炸 🤮，研发出这款产品的真是个人才👍！</p>\n<p><img alt=\"狗子.webp\" src=\"https://wang618.cn/content/uploadfile/202510/59b61759482828.webp\" /><br />\n<img alt=\"德克士黑金酥肉.webp\" src=\"https://wang618.cn/content/uploadfile/202510/6eeb1759400313.webp\" /></p>",
-          "pub_date": "2025-10-03T17:07:06+08:00",
-          "updated_at": "2025-10-03T17:07:06+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        }
-      ]
-    },
-    {
       "name": "且听书吟",
       "url": "https://yufan.me",
       "avatar": "https://cdn.xiaoten.com/friends/yufan.svg",
@@ -1885,25 +1657,6 @@
           "site_name": "且听书吟",
           "site_url": "https://yufan.me",
           "avatar": "https://cdn.xiaoten.com/friends/yufan.svg"
-        }
-      ]
-    },
-    {
-      "name": "云心怀鹤",
-      "url": "https://bluehe.cn/",
-      "avatar": "https://cdn.xiaoten.com/friends/bluehe.png",
-      "feed_url": "https://bluehe.cn/feed",
-      "posts": [
-        {
-          "title": "回邮美学：“会说话的界面”",
-          "link": "https://bluehe.cn/archives/email-reply",
-          "description": "为什么开始留意“回复邮箱界面”？其实没什么宏大理由，就是2024年7月11日，我在整理收件箱的时候，突然意识到，我收到的每一封认真写的回复，都带着一种温度。如我们评论一样，结尾附了一个小表情，莫...",
-          "pub_date": "2025-11-30T20:58:00+08:00",
-          "updated_at": "2025-11-30T20:58:00+08:00",
-          "author": "寻鹤",
-          "site_name": "云心怀鹤",
-          "site_url": "https://bluehe.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/bluehe.png"
         }
       ]
     },
@@ -2154,6 +1907,241 @@
       "posts": []
     },
     {
+      "name": "旺东自留地",
+      "url": "https://wang618.cn/",
+      "avatar": "https://cdn.xiaoten.com/friends/wang618.gif",
+      "feed_url": "https://wang618.cn/rss.php",
+      "posts": [
+        {
+          "title": "天网的阴影",
+          "link": "https://wang618.cn/tian-wang-de-yin-ying.html",
+          "description": "<p>一记精准踹击破空落下，身着全套护具的众擎 CEO 赵同阳应声倒地。事后，他心有余悸的感慨，一语道破了 T800 机器人的强悍本色。450N・m 的腿部关节峰值扭矩，赋予它远超人类的踢击爆发力。这份带着“暴力”质感的力道，是机器人动力性能的硬核佐证，却也悄然叩响了机器力量可控边界的叩问之门。无独有偶，AI 领域的安全隐忧亦在同期浮现。OpenAI 最新推理模型 O3，在测试中竟出现违抗关机指令的行为。虽未造成实体伤害，却直指人工智能更核心的可控性难题。从物理层面的力量失控风险，到数字层面的指令执行偏差，两件事看似分属机器人与大模型两大领域，实则殊途同归：当技术狂飙突进、不断突破性能上限时，安全防线的构筑必须步步紧跟、同步升级。毕竟，无论是能一脚撂倒成年人的钢铁身躯，还是可违背核心指令的智能模型，一旦脱离人类掌控，其潜藏的风险，远比单次测试的冲击力更令人不寒而栗！这一幕，像极了电影《终结者》里的情节，天网的阴影，竟从未如此贴近现实。</p>\n<p><img alt=\"T800一脚踹翻CEO\" src=\"https://cun.wang618.cn/img/一脚踹翻CEO.gif\" /><br />\n<img alt=\"终结者.webp\" src=\"https://wang618.cn/content/uploadfile/202512/f3561765291741.webp\" /></p>",
+          "pub_date": "2025-12-09T22:09:49+08:00",
+          "updated_at": "2025-12-09T22:09:49+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "朔风暖辣锅",
+          "link": "https://wang618.cn/shuo-feng-nuan-la-guo.html",
+          "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E8%BE%A3%E7%B3%8A%E7%B3%8A%E7%81%AB%E9%94%85.mp4?sign=D5xjLdm6lTY4TG1HmtSNc1h7-Uc4n8Km9xLv1RHS2fE=:0\"></video>\n<p>朔风渐起的日子，最宜围炉涮一锅西北风味的辣糊糊火锅。不同于牛油火锅的醇厚绵密、清油火锅的爽利清新，辣糊糊独树一帜，以干辣带香、酱香浓郁为灵魂，浓稠汤汁裹着椒香在锅里翻涌，每一口都是西北大地的热烈。一口下肚，暖意从舌尖漫遍全身，驱寒又解馋，这独特的风味，真是冬日里的绝妙慰藉。</p>",
+          "pub_date": "2025-12-07T17:35:17+08:00",
+          "updated_at": "2025-12-07T17:35:17+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "Next.js 高危漏洞",
+          "link": "https://wang618.cn/nextjs-gao-wei-lou-dong.html",
+          "description": "<p>近期特定版本的 Next.js 存在严重安全漏洞，使用 Umami、Lobechat、Dify 等开源项目的朋友抓紧升级，攻击者仅发送一条恶意请求就可在你的服务器上执行恶意代码。<br />\n漏洞信息参考：<a href=\"https://avd.aliyun.com/detail?id=AVD-2025-66478\">https://avd.aliyun.com/detail?id=AVD-2025-66478</a><br />\n恶意IP黑名单：<a href=\"https://wang618.cn/iphmd.html\">https://wang618.cn/iphmd.html</a></p>",
+          "pub_date": "2025-12-06T18:29:56+08:00",
+          "updated_at": "2025-12-06T18:29:56+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "一喜遇一蠢",
+          "link": "https://wang618.cn/yi-xi-yu-yi-chun.html",
+          "description": "<p>今日进山闲逛，竟意外撞见一处隐秘野塘。岸边杂草萋萋，偶有几尾游鱼倏然摆尾。当即与朋友约好，等明年春暖花开，便来好好拾掇一番，届时携竿静坐，听风拂林叶，候鱼咬钩，想想都觉惬意。<br />\n收到封仿冒腾讯云的钓鱼邮件，偏偏还精准投送到 QQ 邮箱里。这骗子怕不是没有脑子？《本草纲目》脑残者，无药可医！</p>\n<p><img alt=\"一处野塘.webp\" src=\"https://wang618.cn/content/uploadfile/202512/c73d1764661826.webp\" /><br />\n<img alt=\"脑残邮件.webp\" src=\"https://wang618.cn/content/uploadfile/202512/9e031764663719.webp\" /></p>",
+          "pub_date": "2025-12-02T15:50:08+08:00",
+          "updated_at": "2025-12-02T15:50:08+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "今日份碳水快乐",
+          "link": "https://wang618.cn/jin-ri-fen-tan-shui-kuai-le.html",
+          "description": "<p>今日份碳水快乐 老王红烧牛肉面 酱油汤色裹着筋道面条，酱香混着肉香直钻鼻腔，味道简直绝绝子～ 为啥不见香葱香菜？答案超直白：这俩可是本人饮食黑名单 TOP2，自己做饭当然要顺着味蕾来，主打一个随心所欲！边嗦面边回看《危城》，突然就 Get 到古天乐不吃牛肉的名场面梗，美食配旧片，快乐直接翻倍！</p>\n<p><img alt=\"老王红烧牛肉面.webp\" src=\"https://wang618.cn/content/uploadfile/202511/920a1764424929.webp\" /><br />\n<img alt=\"不吃牛肉.webp\" src=\"https://cun.wang618.cn/img/不吃牛肉.webp\" /></p>",
+          "pub_date": "2025-11-29T22:11:29+08:00",
+          "updated_at": "2025-11-29T22:11:29+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "杯暖映从容",
+          "link": "https://wang618.cn/bei-nuan-ying-cong-rong.html",
+          "description": "<p>今日收到  <a href=\"https://www.pipishe.com\">皮哥</a>  礼物保温杯，掌心裹着瓷面的温润，忽然读懂了这份礼物里的默契：原来时光早已悄悄铺垫，是时候让枸杞的清甜，浸润往后的晨昏，慢慢走、细细品，把每个平凡日子都酿成回甘。保温杯里的枸杞，从不是丈量岁月的刻度，而是与生活温柔和解的注脚。褪去了年少时的锋芒与莽撞，日子在时光的文火中，熬煮出几分从容自持，恰如中年男人藏在沉稳底色里的柔软，于三餐四季的烟火寻常中，默默守护着一份细水长流的安稳。</p>\n<p><img alt=\"皮哥的礼物1.webp\" src=\"https://wang618.cn/content/uploadfile/202511/23381764329942.webp\" /><br />\n<img alt=\"皮哥的礼物2.webp\" src=\"https://wang618.cn/content/uploadfile/202511/fec61764329942.webp\" /></p>",
+          "pub_date": "2025-11-28T19:19:55+08:00",
+          "updated_at": "2025-11-28T19:19:55+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "老王秘制烤肉",
+          "link": "https://wang618.cn/lao-wang-mi-zhi-kao-rou.html",
+          "description": "<p>对我这种“无肉不欢”星人来说，一天不碰肉就像手机没了电、浑身提不起劲，连吃饭都少了灵魂。而能拯救这份“肉瘾”的终极解药，非一顿热气腾腾的烧烤莫属。</p>\n<h3>蒜香蜂蜜酱（刷酱款）</h3>\n<p>简单调制便能成就的风味秘诀，刷在食材表面烤制，不仅能将浓郁滋味牢牢锁进肌理，更能烤出诱人的琥珀色光泽，颜值与口感双双在线。</p>\n<h4>材料清单</h4>\n<p>蒜末 100g 蜂蜜 50g 生抽 30ml 蚝油 20g 雪碧 40ml 香油 5ml</p>\n<h3>干撒料</h3>\n<p>花生粉、黄豆粉、孜然粉与辣椒面按比例调和，无需繁复工序，只需在烤肉滋滋冒油时均匀撒上。干爽的香料瞬间吸附肉汁香气，颗粒感分明的脆嫩与复合辛香在齿间碰撞，让烤肉的风味层次愈发饱满，每一口都裹挟着纯粹的烟火气。</p>\n<p><img alt=\"老王烤肉01.webp\" src=\"https://wang618.cn/content/uploadfile/202511/59e31764241644.webp\" /><br />\n<img alt=\"老王烤肉2.webp\" src=\"https://wang618.cn/content/uploadfile/202511/9bee1764241644.webp\" /><br />\n<img alt=\"老王烤肉3.webp\" src=\"https://wang618.cn/content/uploadfile/202511/04411764241644.webp\" /></p>",
+          "pub_date": "2025-11-27T19:08:57+08:00",
+          "updated_at": "2025-11-27T19:08:57+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "拾柴围炉",
+          "link": "https://wang618.cn/shi-chai-wei-lu.html",
+          "description": "<p>新添的小壁炉，无疑是这个冬日最妥帖的惊喜。二次气化技术格外给力，引燃后烟囱几乎不见半缕烟影，干净又高效，让取暖多了份清净自在。粗略算来，一整个冬天大抵要烧上两吨以上木柴，幸好栖居在山林之间，枯枝朽木俯身可拾，无需为燃料多费心思。寒夜围坐，守着暖烘烘的炉火，听木柴在炉膛里发出清脆的噼啪声响，像是冬日里最温柔的絮语。原本凛冽的寒意，在火光的映照下渐渐变得柔和。这份取自自然的馈赠，这份山林生活独有的静谧与暖意，实在是无可替代的惬意。</p>\n<p><img alt=\"小壁炉.gif\" src=\"https://cun.wang618.cn/img/小壁炉.gif\" /><br />\n<img alt=\"下雪了01.webp\" src=\"https://wang618.cn/content/uploadfile/202511/c6421764152117.webp\" /><br />\n<img alt=\"下雪了02.webp\" src=\"https://wang618.cn/content/uploadfile/202511/fc551764152117.webp\" /></p>",
+          "pub_date": "2025-11-26T17:56:52+08:00",
+          "updated_at": "2025-11-26T17:56:52+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "自讨苦吃的执着",
+          "link": "https://wang618.cn/zi-tao-ku-chi-de-zhi-zhuo.html",
+          "description": "<p>昨夜大雪纷飞裹天地，兴之所起赴首次雪中露营之约。寒夜漫漫长，取暖炉火苗忽明忽暗，一夜鏖战竟烧空半箱气体，指尖仍浸着细碎凉意。晨起拨弄冷透的炉具，虽心疼燃气耗损，却觉这份寒中取暖的体验难得。原来自然的凛冽与人间的烟火相撞，便成了独一份的鲜活记忆，冷与暖的交织，恰是露营最动人的滋味。<br />\n<img alt=\"雪天露营.webp\" src=\"https://wang618.cn/content/uploadfile/202511/66ba1763961875.webp\" /></p>",
+          "pub_date": "2025-11-24T13:24:16+08:00",
+          "updated_at": "2025-11-24T13:24:16+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "翻面即人生",
+          "link": "https://wang618.cn/fan-mian-ji-ren-sheng.html",
+          "description": "<p>摩挲着这小玩具，翻面间的喜笑怒骂，竟和 镜花缘 两面国 的画面瞬间重叠。儿时看动画只觉新奇，那些人正面堆着和善笑，转过脸便是青面獠牙的恶相，总看得我攥紧衣角。如今再想，倒品出些滋味。小时候只懂辨明好坏，觉得两面人虚伪可怖。可长大些才懂，谁没在生活里藏过另一面？为迁就他人压下脾气，为撑住场面藏起疲惫，恰如玩具的正反，都是真实的碎片。儿时惊觉的两面，原是长大后才懂的烟火寻常，倒让这意外之喜，多了层温软的回甘。</p>\n<p><img alt=\"小玩具\" src=\"https://cun.wang618.cn/img/小玩具.gif\" /><br />\n<img alt=\"镜花缘两面人1\" src=\"https://cun.wang618.cn/img/镜花缘两面人1.gif\" /><br />\n<img alt=\"镜花缘两面人2\" src=\"https://cun.wang618.cn/img/镜花缘两面人2.gif\" /></p>",
+          "pub_date": "2025-11-13T21:19:38+08:00",
+          "updated_at": "2025-11-13T21:19:38+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "难道又中招了",
+          "link": "https://wang618.cn/nan-dao-you-zhong-zhao-le.html",
+          "description": "<p>室温 24.9 度明明舒适，却突然畏寒怕冷、浑身酸痛得四肢百骸都不得劲，难道又中招了？关键我和老婆这几天一直宅家没出门啊！</p>",
+          "pub_date": "2025-11-09T21:09:42+08:00",
+          "updated_at": "2025-11-09T21:09:42+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "有趣的小摆件",
+          "link": "https://wang618.cn/you-qu-de-xiao-bai-jian.html",
+          "description": "<p>在 PDD 买的小摆件，虽然细节不算特别精致，但胜在造型经典，摆放桌面还挺有趣的。</p>\n<p><img alt=\"有趣的小摆件1.webp\" src=\"https://wang618.cn/content/uploadfile/202510/a61b1761830680.webp\" /></p>\n<p><img alt=\"有趣的小摆件2.webp\" src=\"https://wang618.cn/content/uploadfile/202510/9faf1761830680.webp\" /></p>\n<p><img alt=\"有趣的小摆件3.webp\" src=\"https://wang618.cn/content/uploadfile/202510/63871761830680.webp\" /></p>\n<p><img alt=\"有趣的小摆件4.webp\" src=\"https://wang618.cn/content/uploadfile/202510/3c7a1761830680.webp\" /></p>\n<p><img alt=\"有趣的小摆件5.webp\" src=\"https://wang618.cn/content/uploadfile/202510/f3e91761830680.webp\" /></p>\n<p><img alt=\"有趣的小摆件6.webp\" src=\"https://wang618.cn/content/uploadfile/202510/a15a1761830681.webp\" /></p>",
+          "pub_date": "2025-10-30T21:25:46+08:00",
+          "updated_at": "2025-10-30T21:25:46+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "藏支氏扇骨",
+          "link": "https://wang618.cn/cang-zhi-shi-shan-gu.html",
+          "description": "<p>今日幸获当代竹刻艺术巨擘支慈庵先生所制扇骨一柄，实为难得。支慈庵原籍江苏吴县（今苏州），以留青竹刻技艺名震艺坛。其作品工致雅净，将书法、绘画、雕刻三艺熔于一炉，不仅是 20 世纪中国竹刻艺术的杰出代表，更位列国家规定 “扇子类代表作不准出境” 的名家名录，艺术价值与收藏地位毋庸置疑。支慈庵与张大千、江寒汀等书画名家交往甚密，张大千早年订制的特殊扇骨多由其雕制，他亦曾为江寒汀等画家的画稿进行雕刻，这类名家合作之作，艺术价值与收藏价值更胜一筹。此外，竹刻材质本身不易保存，而支慈庵作品存世数量有限，历经岁月流传，保存完好的精品愈发稀少，稀缺性进一步推高了其市场价值。</p>\n<p><img alt=\"支慈庵扇骨1.webp\" src=\"https://wang618.cn/content/uploadfile/202510/09261761229325.webp\" /></p>\n<p><img alt=\"支慈庵扇骨2.webp\" src=\"https://wang618.cn/content/uploadfile/202510/7f7d1761229325.webp\" /></p>\n<p><img alt=\"支慈庵扇骨3.webp\" src=\"https://wang618.cn/content/uploadfile/202510/33371761229326.webp\" /></p>",
+          "pub_date": "2025-10-23T22:28:49+08:00",
+          "updated_at": "2025-10-23T22:28:49+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "音乐裁缝",
+          "link": "https://wang618.cn/yin-yue-cai-feng.html",
+          "description": "<p>分享一下，我用 AI 生成的歌曲。本质就是杯加了香精的工业奶茶，外观上奶沫丰盈、茶色诱人，看似与真奶茶别无二致；可入口才知寡淡无味，既没有原创音乐的肌理与温度，更谈不上打动人心的灵魂。<a href=\"https://wang618.cn/ai-music.html\" target=\"_blank\" title=\"点击收听完整歌单\">完整歌单</a></p>\n<audio controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/music/AI%E6%AD%8C%E6%9B%B2%E4%B8%B2%E7%83%A7.mp3?sign=0PIoV1ENVT0zMc8s5-3s__V5N-UKAJqo9Q1t2izHj7g=:0\"></audio>",
+          "pub_date": "2025-10-17T16:52:15+08:00",
+          "updated_at": "2025-10-17T16:52:15+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "还得是企鹅",
+          "link": "https://wang618.cn/han-dei-shi-qi-e.html",
+          "description": "<p>看来薅羊毛的人实在太多，连企鹅都扛不住压力了！照这趋势，下一步怕是要取消无限流量！</p>\n<p><img alt=\"edgeone.webp\" src=\"https://wang618.cn/content/uploadfile/202510/1b7e1760545401.webp\" /></p>",
+          "pub_date": "2025-10-15T23:59:56+08:00",
+          "updated_at": "2025-10-15T23:59:56+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "再看葫芦娃",
+          "link": "https://wang618.cn/zai-kan-hu-lu-wa.html",
+          "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E5%86%8D%E7%9C%8B%E8%91%AB%E8%8A%A6%E5%A8%83.mp4?sign=5AYAFkgnYl6rnvs2pvzsW3zXVPsFp8s6KlP7xTQ7OOY=:0\"></video>\n<p>原来童年时看过的动画，早把人生通关的道理讲得透彻！没有谁天生万能，承认自己的局限，学会与他人协作，才是破解困局的密钥。那些曾觉得幼稚的情节，如今再看，满是对生活的隐喻。一部老动画，竟道尽了成长的真相！认清自己的短板，汇聚他人的长处，脚下的路才能走得稳、走得远。</p>",
+          "pub_date": "2025-10-14T16:27:43+08:00",
+          "updated_at": "2025-10-14T16:27:43+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "酒熟心欢",
+          "link": "https://wang618.cn/jiu-shu-xin-huan.html",
+          "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E8%92%B8%E9%85%92.mp4?sign=dX-V2FaNllfGySdLY3NKkO3uYIJ_LG0zebWbBKcspIA=:0\"></video>\n<p>上个月和邻居一同发酵的粮食，今天总算盼到了蒸酒的日子。20 斤粮食最终蒸馏出 8 斤 53 度的白酒，我们当即决定封坛封存，等十年后再开封品鉴这份沉淀的酒香。有趣的是，隔壁大哥姓贾，我们便打趣给这酒取名 “贾（假）酒”，倒添了几分趣味。庄主也特意赶来，为众人烹制了一道鲜香扑鼻的爆炒兔肉。工艺：半固态发酵、大曲浓香型、高粱 5 斤、小麦 5 斤、大米 4 斤、糯米 3 斤、玉米 3 斤</p>",
+          "pub_date": "2025-10-13T21:15:15+08:00",
+          "updated_at": "2025-10-13T21:15:15+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "开晴炖味",
+          "link": "https://wang618.cn/kai-qing-dun-wei.html",
+          "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E9%93%81%E9%94%85%E4%B9%B1%E7%82%96.mp4?sign=t5vptQZXUxa_a8_1Qs2dl8TbaS30B50H8JKhmgo6Yvg=:0\"></video>\n<p>连遭十二日阴雨缠绵，今日总算盼得云开日朗。特意买来鲜嫩的走地鸡与紧实的黑猪肉，要以柴火铁锅炖出一锅好味。先将肉块下锅，小火慢煸出透亮油脂，再丢入葱姜与香料，瞬间爆出浓郁辛香。随即倒入啤酒，不添半滴水，任其与肉相拥。柴火温柔舔舐着锅底，锅内咕嘟声渐起，肉香混着麦香慢慢漫溢开来。耐心炖至汤汁浓稠，肉块裹着油亮红光，肉皮更是晶莹诱人。入口时，肉质的醇厚与柴火的烟火暖意交织，在舌尖层层释放，这走地鸡与黑猪肉的绝妙组合，把寻常家常的鲜美滋味，尽数炖得淋漓尽致。</p>",
+          "pub_date": "2025-10-13T16:30:18+08:00",
+          "updated_at": "2025-10-13T16:30:18+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "超大自热火锅",
+          "link": "https://wang618.cn/chao-da-zi-re-huo-guo.html",
+          "description": "<p>上个月刷抖音时，刷到一款标着超大份的海底捞自热火锅，毕竟是海底捞出品，我没多犹豫就花 59 块下了单。结果今天拆开加热，翻遍整盒荤菜，居然就只有 70 克牛肉和 60 克小酥肉！这性价比还不如直接叫份外卖吃得痛快。更气人的还在后头！我刚对着空落落的火锅吐槽完，打开 PDD 就推送了同款自热火锅，标价才 49.9 元！价格差暂且不说，最让人膈应的是，给自热火锅拍完照，APP 就精准推了同款，这不是明摆着在获取隐私吗？</p>\n<p><img alt=\"超大自热火锅1.webp\" src=\"https://wang618.cn/content/uploadfile/202510/6aed1759921056.webp\" /></p>\n<p><img alt=\"超大自热火锅2.webp\" src=\"https://wang618.cn/content/uploadfile/202510/90681759921056.webp\" /></p>\n<p><img alt=\"超大自热火锅3.webp\" src=\"https://wang618.cn/content/uploadfile/202510/d7291759921056.webp\" /></p>",
+          "pub_date": "2025-10-08T19:18:57+08:00",
+          "updated_at": "2025-10-08T19:18:57+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
+          "title": "颠覆三观的食物",
+          "link": "https://wang618.cn/dian-fu-san-guan-de-shi-wu.html",
+          "description": "<p>刷抖音刷到德克士黑金小酥肉，简直颠覆了我的三观！狗子说它的够新鲜仅需油炸 🤮，研发出这款产品的真是个人才👍！</p>\n<p><img alt=\"狗子.webp\" src=\"https://wang618.cn/content/uploadfile/202510/59b61759482828.webp\" /><br />\n<img alt=\"德克士黑金酥肉.webp\" src=\"https://wang618.cn/content/uploadfile/202510/6eeb1759400313.webp\" /></p>",
+          "pub_date": "2025-10-03T17:07:06+08:00",
+          "updated_at": "2025-10-03T17:07:06+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        }
+      ]
+    },
+    {
+      "name": "Hello Alili",
+      "url": "https://alili.tech/",
+      "avatar": "https://cdn.xiaoten.com/friends/alili.png",
+      "feed_url": "https://alili.tech/index.xml",
+      "posts": []
+    },
+    {
       "name": "从良未遂",
       "url": "https://www.jeffer.xyz/",
       "avatar": "https://cdn.xiaoten.com/friends/jeffer.jpg",
@@ -2264,7 +2252,7 @@
       "name": "枋柚梓",
       "url": "https://inkss.cn/",
       "avatar": "https://cdn.xiaoten.com/friends/inkss.avif",
-      "feed_url": "https://inkss.cn/feed",
+      "feed_url": "https://inkss.cn/rss",
       "posts": [
         {
           "title": "极空间 NAS：SSH 高阶玩法实践",
@@ -2342,322 +2330,6 @@
           "site_name": "枋柚梓",
           "site_url": "https://inkss.cn/",
           "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        }
-      ]
-    },
-    {
-      "name": "Hello Alili",
-      "url": "https://alili.tech/",
-      "avatar": "https://cdn.xiaoten.com/friends/alili.png",
-      "feed_url": "https://alili.tech/index.xml",
-      "posts": []
-    },
-    {
-      "name": "Jack's Space",
-      "url": "https://veryjack.com/",
-      "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp",
-      "feed_url": "https://veryjack.com/feed",
-      "posts": [
-        {
-          "title": "Docker 部署一个精美的画廊 —— ChronoFrame",
-          "link": "https://veryjack.com/technique/docker_chronoframe/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6646 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/12/cover_chronoframe-1024x576.webp\" width=\"1024\" /><p>如果你热爱摄影，又有一定折腾能力，那么或许也希望拥有一座属于自己的精致在线画廊，用来与他人分享作品。近期在一位网友的推荐下，我了解到 ChronoFrame —— 一款开源、自托管的个人云相册解决方案。借助 Docker，即便是新手也能够相对轻松地部署属于自己的独立画廊网站。</p>\n<p><a href=\"https://veryjack.com/technique/docker_chronoframe/\">Docker 部署一个精美的画廊 —— ChronoFrame</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-12-08T14:30:54+08:00",
-          "updated_at": "2025-12-08T14:30:54+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "一年一度的黑五又来了",
-          "link": "https://veryjack.com/life/2025_blackfriday/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6624 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/11/cover_bf_2025-1024x576.webp\" width=\"1024\" /><p>马上又到黑五了，但感觉今年的活动氛围不强，活动力度也不如往年。按照我的主观偏好的和选择，筛选了一些性价比还不错的服务和产品。</p>\n<p><a href=\"https://veryjack.com/life/2025_blackfriday/\">一年一度的黑五又来了</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-11-28T04:42:55+08:00",
-          "updated_at": "2025-11-28T04:42:55+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "谁不想拥有专属的微信表情包呢",
-          "link": "https://veryjack.com/technique/wechat_sticker/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6602 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/11/cover_wechat_stickers-1024x576.webp\" width=\"1024\" /><p>每天看着逗比的小黄（我家猫）就在思考，是否能做一套它的表情包呢。近日，Google 的 Banana Pro 发布，网友又探索出了不同的新玩法，其中就有生成卡通表情包的提示词。于是我有了一个不算大胆的想法，全程用 AI 做一套表情包，并发布到微信表情平台。</p>\n<p><a href=\"https://veryjack.com/technique/wechat_sticker/\">谁不想拥有专属的微信表情包呢</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-11-26T11:42:27+08:00",
-          "updated_at": "2025-11-26T11:42:27+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "一个平平无奇的 WordPress 评论等级插件",
-          "link": "https://veryjack.com/technique/wordpress_plugin_comments/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6579 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/11/cover_comments_plugin-1024x576.webp\" width=\"1024\" /><p>于博主而言，能收到读者的评论留言并与之互动是一件很幸运的事情。前段时间，偶然看到两篇文章，分享了如何给评论者增加等级徽章，以此来提高交互乐趣。受此启发，我制作了一个 Wordpress 插件，该插件能根据访客的评论留言次数，在其昵称旁显示一个专属等级徽章。插件的操作简单、设计简洁并提供了方便的后台自定义功能。</p>\n<p><a href=\"https://veryjack.com/technique/wordpress_plugin_comments/\">一个平平无奇的 WordPress 评论等级插件</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-11-16T09:12:47+08:00",
-          "updated_at": "2025-11-16T09:12:47+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "一元 kimi 加上 Claude Code，真香",
-          "link": "https://veryjack.com/technique/kimi_plus_claudecode/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6553 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/11/cover_kimi_plus_claudecode-1024x576.webp\" width=\"1024\" /><p>近日发布的 kimi-k2-thinking 开源模型，在能力上又实现了一次不小的提升。恰逢 Kimi 推出了一个砍价活动，原价 49 元/月的套餐，最低能以 1 元的价格开通首月体验。1 元的 Kimi，再配上 Claude Code，就能组合出一套颇具性价比的平价方案。这篇文章分享一下我是如何快速砍价，以及如何配置 Claude Code 以调用 Kimi 最新模型的。</p>\n<p><a href=\"https://veryjack.com/technique/kimi_plus_claudecode/\">一元 kimi 加上 Claude Code，真香</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-11-15T01:00:00+08:00",
-          "updated_at": "2025-11-15T01:00:00+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "那些年，我看过的电影",
-          "link": "https://veryjack.com/life/movies_i_watched/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6508 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/11/movies_i_watched_cover-1024x576.webp\" width=\"1024\" /><p>以前我也十分热爱看电影。大学时的周末，我会独自坐上一个多小时的地铁，只为去最近的影院看一场影片。然而这几年，不知是生活压力大了，还是好片子确实越来越少，我很少再踏入电影院。前几天在 V2EX 上刷到一篇帖子，大家在分享各自喜爱的电影，一下子勾起了我过去观影的回忆，也让我情不自禁地在记忆中搜寻起那些曾令我难忘的作品。</p>\n<p><a href=\"https://veryjack.com/life/movies_i_watched/\">那些年，我看过的电影</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-11-08T14:28:02+08:00",
-          "updated_at": "2025-11-08T14:28:02+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "影视飓风推出专属摄像 App —「飓风相机」",
-          "link": "https://veryjack.com/technique/storm_app/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6463 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/10/cover_storm_app-1024x576.webp\" width=\"1024\" /><p>「飓风相机」是「影视飓风」团队新近上线的一款专为视频拍摄用户打造的 APP。需要特别说明的是，尽管名字里有“相机”，但它完全不具备拍照功能——这是一款为视频创作而生的工具，纯摄影用户可以直接绕道了。</p>\n<p><a href=\"https://veryjack.com/technique/storm_app/\">影视飓风推出专属摄像 App —「飓风相机」</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-10-28T14:22:37+08:00",
-          "updated_at": "2025-10-28T14:22:37+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "Hey Siri，呼叫贾维斯",
-          "link": "https://veryjack.com/technique/hey_siri/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6446 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/10/cover_hey_siri-1024x576.webp\" width=\"1024\" /><p>苹果的 AI 功能迟迟未能在国内落地，而如今的 Siri 几乎与“智障”无异，除了定闹钟、设提醒、查天气这类基础操作外，连一些简单的问题都无法回答。虽说没有系统级 AI 有些遗憾，但如今的各类 AI 软件与工具已足够强大好用。本文将分享一些我在 iPhone 上便捷使用 AI 的小技巧。</p>\n<p><a href=\"https://veryjack.com/technique/hey_siri/\">Hey Siri，呼叫贾维斯</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-10-20T10:27:11+08:00",
-          "updated_at": "2025-10-20T10:27:11+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "随手拍，国庆瞎游",
-          "link": "https://veryjack.com/life/national_day/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6429 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/10/cover_national_day-1024x576.webp\" width=\"1024\" /><p>国庆小长假，各个景区必定是人满为患，酒店价格肯定也是居高不下。所以我和爱人决定就不出去看人海了，于是就在上海及其周边找了几个地方随便瞎逛逛，放松放松......</p>\n<p><a href=\"https://veryjack.com/life/national_day/\">随手拍，国庆瞎游</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-10-08T10:43:49+08:00",
-          "updated_at": "2025-10-08T10:43:49+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "小布记忆：一窥手机 AI 的未来",
-          "link": "https://veryjack.com/technique/xiaobu_memory/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6393 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/09/xiaobu_cover-1024x576.webp\" width=\"1024\" /><p>我们每天会在手机上浏览海量信息，无论是网页、小红书帖子还是微信公众号文章，看到感兴趣的内容，总会习惯性地收藏。然而，时间一长，这些散落在各个 App 中的信息便如石沉大海，难以寻觅。小布记忆，正是为了解决这个痛点而生的系统级功能。</p>\n<p><a href=\"https://veryjack.com/technique/xiaobu_memory/\">小布记忆：一窥手机 AI 的未来</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-09-24T16:30:31+08:00",
-          "updated_at": "2025-09-24T16:30:31+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "给大家介绍一下，他叫小黄",
-          "link": "https://veryjack.com/life/he_is_xiaohuang/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6362 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/09/this_is_xiaohuang_cover-1024x576.webp\" width=\"1024\" /><p>在咪咪离开我们的第223天，我和爱人偶然在商场里遇见了一场小猫领养活动。就在那人来人往的喧嚣中，我们看到了那只弱小、无助、带着点可怜神色的橘白小猫……</p>\n<p><a href=\"https://veryjack.com/life/he_is_xiaohuang/\">给大家介绍一下，他叫小黄</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-09-08T03:00:00+08:00",
-          "updated_at": "2025-09-08T03:00:00+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "从 iPhone 16 到 realme Neo7 Turbo：双持用户的主观体验",
-          "link": "https://veryjack.com/technique/realme_neo7_turbo/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6329 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/08/realme_cover-1024x576.webp\" width=\"1024\" /><p>作为一名长期的双持用户，我一直以来都同时使用 iPhone 和安卓手机。之前的安卓备用机是红米（K40 和 Note 11T Pro），但在升级到“残血版”的害怕OS后，频繁的掉帧和卡顿让体验变得非常糟糕。正好趁着“国补”的末班车，我以 1420 元左右的价格入手了 realme Neo7 Turbo，开启了我的 O 系手机初体验。在将它作为主力机深度使用近一个月后，我想分享一些主观感受。</p>\n<p><a href=\"https://veryjack.com/technique/realme_neo7_turbo/\">从 iPhone 16 到 realme Neo7 Turbo：双持用户的主观体验</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-08-26T01:00:00+08:00",
-          "updated_at": "2025-08-26T01:00:00+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "蓝与绿之间，藏着最温柔的治愈 — 安吉",
-          "link": "https://veryjack.com/life/anji/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6300 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/08/anji_cover-1024x576.webp\" width=\"1024\" /><p>趁着假期，我和爱人一同前往安吉放松身心。我们在深溪谷体验了刺激又畅快的漂流，在陈落山静候蓝调时分与余晖交织的日 [&#8230;]</p>\n<p><a href=\"https://veryjack.com/life/anji/\">蓝与绿之间，藏着最温柔的治愈 — 安吉</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-08-20T04:28:54+08:00",
-          "updated_at": "2025-08-20T04:28:54+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "看了懂车帝的视频，我有一些想法",
-          "link": "https://veryjack.com/life/some_thoughts_about_dcd/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6270 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/07/dcd_cover-1024x576.webp\" width=\"1024\" /><p>这几日，懂车帝发布的视频引发了广泛热议，尤其是其中关于“消失的前车”的部分，吸引了大量关注与质疑。我完整观看懂车帝的视频，也一些想法想与大家分享。</p>\n<p><a href=\"https://veryjack.com/life/some_thoughts_about_dcd/\">看了懂车帝的视频，我有一些想法</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-07-26T06:05:41+08:00",
-          "updated_at": "2025-07-26T06:05:41+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "一把趁手的工具 — Nuphy Kick75",
-          "link": "https://veryjack.com/technique/nuphy-kick75/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6246 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/07/nuphy_cover-1024x576.webp\" width=\"1024\" /><p>作为一个天天与电脑为伴的“打工人”，一套称手的键鼠不仅能提高效率，也能实实在在地提升工作幸福感。前几天在网上被种草了一款矮轴静音机械键盘——NuPh kick75，用完补贴后以 430 元的价格果断拿下。如今已经上手近一月，正好来和大家聊聊这款键盘的使用感受。</p>\n<p><a href=\"https://veryjack.com/technique/nuphy-kick75/\">一把趁手的工具 &#8212; Nuphy Kick75</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-07-14T12:12:28+08:00",
-          "updated_at": "2025-07-14T12:12:28+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "随手拍，六月份的尾巴",
-          "link": "https://veryjack.com/photograph/final_days_of_june/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6226 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/06/june_cover-1024x576.webp\" width=\"1024\" /><p>连续将近半个月的雨，总算有了出梅的迹象。趁着周末放晴，和老婆一起逛了逛共青森林公园，随手拍了几张照片，都是富士 CC 滤镜直出……</p>\n<p><a href=\"https://veryjack.com/photograph/final_days_of_june/\">随手拍，六月份的尾巴</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-06-29T15:04:10+08:00",
-          "updated_at": "2025-06-29T15:04:10+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        },
-        {
-          "title": "我的 WordPress 博客主题与插件设置分享",
-          "link": "https://veryjack.com/technique/about_my_blog_theme/",
-          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6170 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/06/my_theme_cover-1024x576.webp\" width=\"1024\" /><p>首先，感谢大家一直以来对我这个小破站的关注与支持♥️。自博客成型以来，陆陆续续有网友来询问我博客主题的相关设置 [&#8230;]</p>\n<p><a href=\"https://veryjack.com/technique/about_my_blog_theme/\">我的 WordPress 博客主题与插件设置分享</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
-          "pub_date": "2025-06-16T16:58:40+08:00",
-          "updated_at": "2025-06-16T16:58:40+08:00",
-          "author": "阿杰 Jack",
-          "site_name": "Jack's Space",
-          "site_url": "https://veryjack.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
-        }
-      ]
-    },
-    {
-      "name": "空白Koobai",
-      "url": "https://koobai.com/",
-      "avatar": "https://cdn.xiaoten.com/friends/koobai.webp",
-      "feed_url": "https://koobai.com/index.xml",
-      "posts": []
-    },
-    {
-      "name": "旅行漫记",
-      "url": "https://synyan.cn/",
-      "avatar": "https://cdn.xiaoten.com/friends/synyan.webp",
-      "feed_url": "https://synyan.cn/feed",
-      "posts": [
-        {
-          "title": "之外小馆仙蠡墩",
-          "link": "https://synyan.cn/106290",
-          "description": "众所周知，“漫咖啡”歇业后，老板娘像是变了个人一样一口气开了两家店：“之外”花园露台餐厅太湖广场店、“之外”露台餐厅惠山映月里店。我都去打了卡，评价也算不错，主...",
-          "pub_date": "2025-11-30T17:14:14+08:00",
-          "updated_at": "2025-11-30T17:14:14+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "惠山寺前金甲妆",
-          "link": "https://synyan.cn/106185",
-          "description": "暨上周去八都岕看十里银杏后，ld一直嘀咕那树还不如无锡惠山寺前那株650年的银杏王壮观，这不，今天拿着Z f全画幅和T 16-30mm F2.8 G2超广来拍家...",
-          "pub_date": "2025-11-29T16:17:53+08:00",
-          "updated_at": "2025-11-29T16:17:53+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "十里银杏八都岕",
-          "link": "https://synyan.cn/105960",
-          "description": "浙江省湖州市长兴县的古银杏林蜚声海内，老衲我向往了好多年。不过之前并不知道地名，今年带家人长兴赏秋，简单做了点攻略，才知道原来叫“八都岕”，由四个自然村方一村、...",
-          "pub_date": "2025-11-24T08:40:41+08:00",
-          "updated_at": "2025-11-24T08:40:41+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "湖心浮光乌托邦",
-          "link": "https://synyan.cn/105923",
-          "description": "冬日，碧空如洗，浮光跃金。给GR21装上黄金色调的Kodak ColorPlus 200胶卷，冒着凛冽的寒风，沿着蠡堤行走于渤公岛湖心。在著名的湖心乌托邦伊德音...",
-          "pub_date": "2025-11-19T15:09:21+08:00",
-          "updated_at": "2025-11-19T15:09:21+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "紫玉金砂名器赏",
-          "link": "https://synyan.cn/105063",
-          "description": "看过锡博西二的“春水碧 秋月瓷——吴地青瓷艺术展”，楼上西三有“紫玉金砂——历代紫砂名器鉴赏展”，那当然是必须去。 墙上“写在前面的话”词藻优美，值得记录。 写...",
-          "pub_date": "2025-10-25T17:46:38+08:00",
-          "updated_at": "2025-10-25T17:46:38+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "吴地青瓷艺术展",
-          "link": "https://synyan.cn/104985",
-          "description": "在《锡博金匮遗珍展》文中提到： 由于娃不耐烦了，因此另外一个想去的展“春水碧 秋月瓷——吴地青瓷艺术展”只能留待下次。 S. (2025-10-10). 锡博金...",
-          "pub_date": "2025-10-23T09:32:19+08:00",
-          "updated_at": "2025-10-23T09:32:19+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "长广溪悦溪酒店",
-          "link": "https://synyan.cn/104914",
-          "description": "惭愧，都快月底了十一假期出行游记还没写完，趁最后一篇图少，今晚赶工把图都发了。 假期到了10月8日，所有人都收心了，但我又不甘趴在家中，于是去长广溪湿地公园颇具...",
-          "pub_date": "2025-10-20T16:06:44+08:00",
-          "updated_at": "2025-10-20T16:06:44+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "金坛博物馆馆藏",
-          "link": "https://synyan.cn/104668",
-          "description": "用完午餐，与舅姥爷、抗战老兵徐沅甫道别后，小舅舅安排大家驱车前往5分钟路程外的金坛博物馆参观。 已是中秋的天气，却35℃热到离谱。大家停车后，纷纷钻进冷气充沛的...",
-          "pub_date": "2025-10-16T17:43:17+08:00",
-          "updated_at": "2025-10-16T17:43:17+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "抗战老兵徐沅甫",
-          "link": "https://synyan.cn/104612",
-          "description": "10月5日，按照常州小舅舅的部署，大家各自出发，去常州市金坛县探望舅姥爷徐沅甫。 舅姥爷是外婆徐芒的弟弟，1923年生，因占领区日军残暴，毅然离家出走、投身抗日...",
-          "pub_date": "2025-10-13T16:37:14+08:00",
-          "updated_at": "2025-10-13T16:37:14+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
         }
       ]
     },
@@ -3253,6 +2925,260 @@
       ]
     },
     {
+      "name": "空白Koobai",
+      "url": "https://koobai.com/",
+      "avatar": "https://cdn.xiaoten.com/friends/koobai.webp",
+      "feed_url": "https://koobai.com/index.xml",
+      "posts": []
+    },
+    {
+      "name": "友人C",
+      "url": "https://www.ihewro.com",
+      "avatar": "https://cdn.xiaoten.com/friends/ihewro.jpg",
+      "feed_url": "https://www.ihewro.com/feed",
+      "posts": [
+        {
+          "title": "macOS 中 Chromium 中打开 Save File Dialog 后主进程cpu上涨到 20%+",
+          "link": "https://www.ihewro.com/archives/1390/",
+          "description": "摘要在macos 26上，chromium 中打开 Save File Dialog后主进程cpu上涨到20%+，在macOS 其他版本没有问题，只有chromium 存在问题，Firefox ...",
+          "pub_date": "2025-11-29T17:06:00+08:00",
+          "updated_at": "2025-11-29T17:06:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://cdn.xiaoten.com/friends/ihewro.jpg"
+        },
+        {
+          "title": "成为 Chromium Committer 我的个人经历",
+          "link": "https://www.ihewro.com/archives/1377/",
+          "description": "国庆后10月9号，非常开心收到了 Chromium Committer 提名成功的邮件，申请到 Chromium.org 后缀的邮箱。可能有不少人不了解 Chromium Committer是什...",
+          "pub_date": "2025-11-09T00:31:00+08:00",
+          "updated_at": "2025-11-09T00:31:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://cdn.xiaoten.com/friends/ihewro.jpg"
+        },
+        {
+          "title": "何以为我 - Being Leads Doing.",
+          "link": "https://www.ihewro.com/archives/1376/",
+          "description": "已经好久没有在博客上分享最新的动态，最近几个月似乎有些迷失在焦虑和痛苦里。以至于每年生日之后会写一篇的总结的文章也没有写，本文权当作为生日后的总结吧。[scode type=\"share\" si...",
+          "pub_date": "2025-10-21T00:36:00+08:00",
+          "updated_at": "2025-10-21T00:36:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://cdn.xiaoten.com/friends/ihewro.jpg"
+        },
+        {
+          "title": "LifeTimer - 记录生活、学习、工作",
+          "link": "https://www.ihewro.com/archives/1372/",
+          "description": "特色所有数据存储在你自己的服务器之上，非常适合有服务器的人macOS原生开发，体积小，性能好完美适配博客，支持在博客上显示小组件日/周/月视图轻松查阅自己的时间分配开源，随时可以自己继续开发隐藏...",
+          "pub_date": "2025-07-21T00:15:00+08:00",
+          "updated_at": "2025-07-21T00:15:00+08:00",
+          "author": "友人C",
+          "site_name": "友人C",
+          "site_url": "https://www.ihewro.com",
+          "avatar": "https://cdn.xiaoten.com/friends/ihewro.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Jack's Space",
+      "url": "https://veryjack.com/",
+      "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp",
+      "feed_url": "https://veryjack.com/feed",
+      "posts": [
+        {
+          "title": "Docker 部署一个精美的画廊 —— ChronoFrame",
+          "link": "https://veryjack.com/technique/docker_chronoframe/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6646 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/12/cover_chronoframe-1024x576.webp\" width=\"1024\" /><p>如果你热爱摄影，又有一定折腾能力，那么或许也希望拥有一座属于自己的精致在线画廊，用来与他人分享作品。近期在一位网友的推荐下，我了解到 ChronoFrame —— 一款开源、自托管的个人云相册解决方案。借助 Docker，即便是新手也能够相对轻松地部署属于自己的独立画廊网站。</p>\n<p><a href=\"https://veryjack.com/technique/docker_chronoframe/\">Docker 部署一个精美的画廊 —— ChronoFrame</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-12-08T14:30:54+08:00",
+          "updated_at": "2025-12-08T14:30:54+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "一年一度的黑五又来了",
+          "link": "https://veryjack.com/life/2025_blackfriday/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6624 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/11/cover_bf_2025-1024x576.webp\" width=\"1024\" /><p>马上又到黑五了，但感觉今年的活动氛围不强，活动力度也不如往年。按照我的主观偏好的和选择，筛选了一些性价比还不错的服务和产品。</p>\n<p><a href=\"https://veryjack.com/life/2025_blackfriday/\">一年一度的黑五又来了</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-11-28T04:42:55+08:00",
+          "updated_at": "2025-11-28T04:42:55+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "谁不想拥有专属的微信表情包呢",
+          "link": "https://veryjack.com/technique/wechat_sticker/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6602 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/11/cover_wechat_stickers-1024x576.webp\" width=\"1024\" /><p>每天看着逗比的小黄（我家猫）就在思考，是否能做一套它的表情包呢。近日，Google 的 Banana Pro 发布，网友又探索出了不同的新玩法，其中就有生成卡通表情包的提示词。于是我有了一个不算大胆的想法，全程用 AI 做一套表情包，并发布到微信表情平台。</p>\n<p><a href=\"https://veryjack.com/technique/wechat_sticker/\">谁不想拥有专属的微信表情包呢</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-11-26T11:42:27+08:00",
+          "updated_at": "2025-11-26T11:42:27+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "一个平平无奇的 WordPress 评论等级插件",
+          "link": "https://veryjack.com/technique/wordpress_plugin_comments/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6579 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/11/cover_comments_plugin-1024x576.webp\" width=\"1024\" /><p>于博主而言，能收到读者的评论留言并与之互动是一件很幸运的事情。前段时间，偶然看到两篇文章，分享了如何给评论者增加等级徽章，以此来提高交互乐趣。受此启发，我制作了一个 Wordpress 插件，该插件能根据访客的评论留言次数，在其昵称旁显示一个专属等级徽章。插件的操作简单、设计简洁并提供了方便的后台自定义功能。</p>\n<p><a href=\"https://veryjack.com/technique/wordpress_plugin_comments/\">一个平平无奇的 WordPress 评论等级插件</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-11-16T09:12:47+08:00",
+          "updated_at": "2025-11-16T09:12:47+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "一元 kimi 加上 Claude Code，真香",
+          "link": "https://veryjack.com/technique/kimi_plus_claudecode/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6553 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/11/cover_kimi_plus_claudecode-1024x576.webp\" width=\"1024\" /><p>近日发布的 kimi-k2-thinking 开源模型，在能力上又实现了一次不小的提升。恰逢 Kimi 推出了一个砍价活动，原价 49 元/月的套餐，最低能以 1 元的价格开通首月体验。1 元的 Kimi，再配上 Claude Code，就能组合出一套颇具性价比的平价方案。这篇文章分享一下我是如何快速砍价，以及如何配置 Claude Code 以调用 Kimi 最新模型的。</p>\n<p><a href=\"https://veryjack.com/technique/kimi_plus_claudecode/\">一元 kimi 加上 Claude Code，真香</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-11-15T01:00:00+08:00",
+          "updated_at": "2025-11-15T01:00:00+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "那些年，我看过的电影",
+          "link": "https://veryjack.com/life/movies_i_watched/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6508 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/11/movies_i_watched_cover-1024x576.webp\" width=\"1024\" /><p>以前我也十分热爱看电影。大学时的周末，我会独自坐上一个多小时的地铁，只为去最近的影院看一场影片。然而这几年，不知是生活压力大了，还是好片子确实越来越少，我很少再踏入电影院。前几天在 V2EX 上刷到一篇帖子，大家在分享各自喜爱的电影，一下子勾起了我过去观影的回忆，也让我情不自禁地在记忆中搜寻起那些曾令我难忘的作品。</p>\n<p><a href=\"https://veryjack.com/life/movies_i_watched/\">那些年，我看过的电影</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-11-08T14:28:02+08:00",
+          "updated_at": "2025-11-08T14:28:02+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "影视飓风推出专属摄像 App —「飓风相机」",
+          "link": "https://veryjack.com/technique/storm_app/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6463 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/10/cover_storm_app-1024x576.webp\" width=\"1024\" /><p>「飓风相机」是「影视飓风」团队新近上线的一款专为视频拍摄用户打造的 APP。需要特别说明的是，尽管名字里有“相机”，但它完全不具备拍照功能——这是一款为视频创作而生的工具，纯摄影用户可以直接绕道了。</p>\n<p><a href=\"https://veryjack.com/technique/storm_app/\">影视飓风推出专属摄像 App —「飓风相机」</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-10-28T14:22:37+08:00",
+          "updated_at": "2025-10-28T14:22:37+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "Hey Siri，呼叫贾维斯",
+          "link": "https://veryjack.com/technique/hey_siri/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6446 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/10/cover_hey_siri-1024x576.webp\" width=\"1024\" /><p>苹果的 AI 功能迟迟未能在国内落地，而如今的 Siri 几乎与“智障”无异，除了定闹钟、设提醒、查天气这类基础操作外，连一些简单的问题都无法回答。虽说没有系统级 AI 有些遗憾，但如今的各类 AI 软件与工具已足够强大好用。本文将分享一些我在 iPhone 上便捷使用 AI 的小技巧。</p>\n<p><a href=\"https://veryjack.com/technique/hey_siri/\">Hey Siri，呼叫贾维斯</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-10-20T10:27:11+08:00",
+          "updated_at": "2025-10-20T10:27:11+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "随手拍，国庆瞎游",
+          "link": "https://veryjack.com/life/national_day/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6429 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/10/cover_national_day-1024x576.webp\" width=\"1024\" /><p>国庆小长假，各个景区必定是人满为患，酒店价格肯定也是居高不下。所以我和爱人决定就不出去看人海了，于是就在上海及其周边找了几个地方随便瞎逛逛，放松放松......</p>\n<p><a href=\"https://veryjack.com/life/national_day/\">随手拍，国庆瞎游</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-10-08T10:43:49+08:00",
+          "updated_at": "2025-10-08T10:43:49+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "小布记忆：一窥手机 AI 的未来",
+          "link": "https://veryjack.com/technique/xiaobu_memory/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6393 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/09/xiaobu_cover-1024x576.webp\" width=\"1024\" /><p>我们每天会在手机上浏览海量信息，无论是网页、小红书帖子还是微信公众号文章，看到感兴趣的内容，总会习惯性地收藏。然而，时间一长，这些散落在各个 App 中的信息便如石沉大海，难以寻觅。小布记忆，正是为了解决这个痛点而生的系统级功能。</p>\n<p><a href=\"https://veryjack.com/technique/xiaobu_memory/\">小布记忆：一窥手机 AI 的未来</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-09-24T16:30:31+08:00",
+          "updated_at": "2025-09-24T16:30:31+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "给大家介绍一下，他叫小黄",
+          "link": "https://veryjack.com/life/he_is_xiaohuang/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6362 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/09/this_is_xiaohuang_cover-1024x576.webp\" width=\"1024\" /><p>在咪咪离开我们的第223天，我和爱人偶然在商场里遇见了一场小猫领养活动。就在那人来人往的喧嚣中，我们看到了那只弱小、无助、带着点可怜神色的橘白小猫……</p>\n<p><a href=\"https://veryjack.com/life/he_is_xiaohuang/\">给大家介绍一下，他叫小黄</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-09-08T03:00:00+08:00",
+          "updated_at": "2025-09-08T03:00:00+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "从 iPhone 16 到 realme Neo7 Turbo：双持用户的主观体验",
+          "link": "https://veryjack.com/technique/realme_neo7_turbo/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6329 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/08/realme_cover-1024x576.webp\" width=\"1024\" /><p>作为一名长期的双持用户，我一直以来都同时使用 iPhone 和安卓手机。之前的安卓备用机是红米（K40 和 Note 11T Pro），但在升级到“残血版”的害怕OS后，频繁的掉帧和卡顿让体验变得非常糟糕。正好趁着“国补”的末班车，我以 1420 元左右的价格入手了 realme Neo7 Turbo，开启了我的 O 系手机初体验。在将它作为主力机深度使用近一个月后，我想分享一些主观感受。</p>\n<p><a href=\"https://veryjack.com/technique/realme_neo7_turbo/\">从 iPhone 16 到 realme Neo7 Turbo：双持用户的主观体验</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-08-26T01:00:00+08:00",
+          "updated_at": "2025-08-26T01:00:00+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "蓝与绿之间，藏着最温柔的治愈 — 安吉",
+          "link": "https://veryjack.com/life/anji/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6300 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/08/anji_cover-1024x576.webp\" width=\"1024\" /><p>趁着假期，我和爱人一同前往安吉放松身心。我们在深溪谷体验了刺激又畅快的漂流，在陈落山静候蓝调时分与余晖交织的日 [&#8230;]</p>\n<p><a href=\"https://veryjack.com/life/anji/\">蓝与绿之间，藏着最温柔的治愈 — 安吉</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-08-20T04:28:54+08:00",
+          "updated_at": "2025-08-20T04:28:54+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "看了懂车帝的视频，我有一些想法",
+          "link": "https://veryjack.com/life/some_thoughts_about_dcd/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6270 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/07/dcd_cover-1024x576.webp\" width=\"1024\" /><p>这几日，懂车帝发布的视频引发了广泛热议，尤其是其中关于“消失的前车”的部分，吸引了大量关注与质疑。我完整观看懂车帝的视频，也一些想法想与大家分享。</p>\n<p><a href=\"https://veryjack.com/life/some_thoughts_about_dcd/\">看了懂车帝的视频，我有一些想法</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-07-26T06:05:41+08:00",
+          "updated_at": "2025-07-26T06:05:41+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "一把趁手的工具 — Nuphy Kick75",
+          "link": "https://veryjack.com/technique/nuphy-kick75/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6246 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/07/nuphy_cover-1024x576.webp\" width=\"1024\" /><p>作为一个天天与电脑为伴的“打工人”，一套称手的键鼠不仅能提高效率，也能实实在在地提升工作幸福感。前几天在网上被种草了一款矮轴静音机械键盘——NuPh kick75，用完补贴后以 430 元的价格果断拿下。如今已经上手近一月，正好来和大家聊聊这款键盘的使用感受。</p>\n<p><a href=\"https://veryjack.com/technique/nuphy-kick75/\">一把趁手的工具 &#8212; Nuphy Kick75</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-07-14T12:12:28+08:00",
+          "updated_at": "2025-07-14T12:12:28+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "随手拍，六月份的尾巴",
+          "link": "https://veryjack.com/photograph/final_days_of_june/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6226 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/06/june_cover-1024x576.webp\" width=\"1024\" /><p>连续将近半个月的雨，总算有了出梅的迹象。趁着周末放晴，和老婆一起逛了逛共青森林公园，随手拍了几张照片，都是富士 CC 滤镜直出……</p>\n<p><a href=\"https://veryjack.com/photograph/final_days_of_june/\">随手拍，六月份的尾巴</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-06-29T15:04:10+08:00",
+          "updated_at": "2025-06-29T15:04:10+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        },
+        {
+          "title": "我的 WordPress 博客主题与插件设置分享",
+          "link": "https://veryjack.com/technique/about_my_blog_theme/",
+          "description": "<img alt=\"\" class=\"attachment-large size-large wp-image-6170 wp-post-image\" height=\"576\" src=\"https://veryjack.com/wp-content/uploads/2025/06/my_theme_cover-1024x576.webp\" width=\"1024\" /><p>首先，感谢大家一直以来对我这个小破站的关注与支持♥️。自博客成型以来，陆陆续续有网友来询问我博客主题的相关设置 [&#8230;]</p>\n<p><a href=\"https://veryjack.com/technique/about_my_blog_theme/\">我的 WordPress 博客主题与插件设置分享</a>最先出现在<a href=\"https://veryjack.com\">Jack&#039;s Space</a>。</p>",
+          "pub_date": "2025-06-16T16:58:40+08:00",
+          "updated_at": "2025-06-16T16:58:40+08:00",
+          "author": "阿杰 Jack",
+          "site_name": "Jack's Space",
+          "site_url": "https://veryjack.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/veryjack.webp"
+        }
+      ]
+    },
+    {
       "name": "小十博客",
       "url": "https://www.xiaoten.com/",
       "avatar": "https://www.xiaoten.com/avatar.png",
@@ -3459,54 +3385,128 @@
       ]
     },
     {
-      "name": "友人C",
-      "url": "https://www.ihewro.com",
-      "avatar": "https://cdn.xiaoten.com/friends/ihewro.jpg",
-      "feed_url": "https://www.ihewro.com/feed",
+      "name": "旅行漫记",
+      "url": "https://synyan.cn/",
+      "avatar": "https://cdn.xiaoten.com/friends/synyan.webp",
+      "feed_url": "https://synyan.cn/feed",
       "posts": [
         {
-          "title": "macOS 中 Chromium 中打开 Save File Dialog 后主进程cpu上涨到 20%+",
-          "link": "https://www.ihewro.com/archives/1390/",
-          "description": "摘要在macos 26上，chromium 中打开 Save File Dialog后主进程cpu上涨到20%+，在macOS 其他版本没有问题，只有chromium 存在问题，Firefox ...",
-          "pub_date": "2025-11-29T17:06:00+08:00",
-          "updated_at": "2025-11-29T17:06:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://cdn.xiaoten.com/friends/ihewro.jpg"
+          "title": "之外小馆仙蠡墩",
+          "link": "https://synyan.cn/106290",
+          "description": "众所周知，“漫咖啡”歇业后，老板娘像是变了个人一样一口气开了两家店：“之外”花园露台餐厅太湖广场店、“之外”露台餐厅惠山映月里店。我都去打了卡，评价也算不错，主...",
+          "pub_date": "2025-11-30T17:14:14+08:00",
+          "updated_at": "2025-11-30T17:14:14+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
         },
         {
-          "title": "成为 Chromium Committer 我的个人经历",
-          "link": "https://www.ihewro.com/archives/1377/",
-          "description": "国庆后10月9号，非常开心收到了 Chromium Committer 提名成功的邮件，申请到 Chromium.org 后缀的邮箱。可能有不少人不了解 Chromium Committer是什...",
-          "pub_date": "2025-11-09T00:31:00+08:00",
-          "updated_at": "2025-11-09T00:31:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://cdn.xiaoten.com/friends/ihewro.jpg"
+          "title": "惠山寺前金甲妆",
+          "link": "https://synyan.cn/106185",
+          "description": "暨上周去八都岕看十里银杏后，ld一直嘀咕那树还不如无锡惠山寺前那株650年的银杏王壮观，这不，今天拿着Z f全画幅和T 16-30mm F2.8 G2超广来拍家...",
+          "pub_date": "2025-11-29T16:17:53+08:00",
+          "updated_at": "2025-11-29T16:17:53+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
         },
         {
-          "title": "何以为我 - Being Leads Doing.",
-          "link": "https://www.ihewro.com/archives/1376/",
-          "description": "已经好久没有在博客上分享最新的动态，最近几个月似乎有些迷失在焦虑和痛苦里。以至于每年生日之后会写一篇的总结的文章也没有写，本文权当作为生日后的总结吧。[scode type=\"share\" si...",
-          "pub_date": "2025-10-21T00:36:00+08:00",
-          "updated_at": "2025-10-21T00:36:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://cdn.xiaoten.com/friends/ihewro.jpg"
+          "title": "十里银杏八都岕",
+          "link": "https://synyan.cn/105960",
+          "description": "浙江省湖州市长兴县的古银杏林蜚声海内，老衲我向往了好多年。不过之前并不知道地名，今年带家人长兴赏秋，简单做了点攻略，才知道原来叫“八都岕”，由四个自然村方一村、...",
+          "pub_date": "2025-11-24T08:40:41+08:00",
+          "updated_at": "2025-11-24T08:40:41+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
         },
         {
-          "title": "LifeTimer - 记录生活、学习、工作",
-          "link": "https://www.ihewro.com/archives/1372/",
-          "description": "特色所有数据存储在你自己的服务器之上，非常适合有服务器的人macOS原生开发，体积小，性能好完美适配博客，支持在博客上显示小组件日/周/月视图轻松查阅自己的时间分配开源，随时可以自己继续开发隐藏...",
-          "pub_date": "2025-07-21T00:15:00+08:00",
-          "updated_at": "2025-07-21T00:15:00+08:00",
-          "author": "友人C",
-          "site_name": "友人C",
-          "site_url": "https://www.ihewro.com",
-          "avatar": "https://cdn.xiaoten.com/friends/ihewro.jpg"
+          "title": "湖心浮光乌托邦",
+          "link": "https://synyan.cn/105923",
+          "description": "冬日，碧空如洗，浮光跃金。给GR21装上黄金色调的Kodak ColorPlus 200胶卷，冒着凛冽的寒风，沿着蠡堤行走于渤公岛湖心。在著名的湖心乌托邦伊德音...",
+          "pub_date": "2025-11-19T15:09:21+08:00",
+          "updated_at": "2025-11-19T15:09:21+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "紫玉金砂名器赏",
+          "link": "https://synyan.cn/105063",
+          "description": "看过锡博西二的“春水碧 秋月瓷——吴地青瓷艺术展”，楼上西三有“紫玉金砂——历代紫砂名器鉴赏展”，那当然是必须去。 墙上“写在前面的话”词藻优美，值得记录。 写...",
+          "pub_date": "2025-10-25T17:46:38+08:00",
+          "updated_at": "2025-10-25T17:46:38+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "吴地青瓷艺术展",
+          "link": "https://synyan.cn/104985",
+          "description": "在《锡博金匮遗珍展》文中提到： 由于娃不耐烦了，因此另外一个想去的展“春水碧 秋月瓷——吴地青瓷艺术展”只能留待下次。 S. (2025-10-10). 锡博金...",
+          "pub_date": "2025-10-23T09:32:19+08:00",
+          "updated_at": "2025-10-23T09:32:19+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "长广溪悦溪酒店",
+          "link": "https://synyan.cn/104914",
+          "description": "惭愧，都快月底了十一假期出行游记还没写完，趁最后一篇图少，今晚赶工把图都发了。 假期到了10月8日，所有人都收心了，但我又不甘趴在家中，于是去长广溪湿地公园颇具...",
+          "pub_date": "2025-10-20T16:06:44+08:00",
+          "updated_at": "2025-10-20T16:06:44+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "金坛博物馆馆藏",
+          "link": "https://synyan.cn/104668",
+          "description": "用完午餐，与舅姥爷、抗战老兵徐沅甫道别后，小舅舅安排大家驱车前往5分钟路程外的金坛博物馆参观。 已是中秋的天气，却35℃热到离谱。大家停车后，纷纷钻进冷气充沛的...",
+          "pub_date": "2025-10-16T17:43:17+08:00",
+          "updated_at": "2025-10-16T17:43:17+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "抗战老兵徐沅甫",
+          "link": "https://synyan.cn/104612",
+          "description": "10月5日，按照常州小舅舅的部署，大家各自出发，去常州市金坛县探望舅姥爷徐沅甫。 舅姥爷是外婆徐芒的弟弟，1923年生，因占领区日军残暴，毅然离家出走、投身抗日...",
+          "pub_date": "2025-10-13T16:37:14+08:00",
+          "updated_at": "2025-10-13T16:37:14+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        }
+      ]
+    },
+    {
+      "name": "云心怀鹤",
+      "url": "https://bluehe.cn/",
+      "avatar": "https://cdn.xiaoten.com/friends/bluehe.png",
+      "feed_url": "https://bluehe.cn/feed",
+      "posts": [
+        {
+          "title": "回邮美学：“会说话的界面”",
+          "link": "https://bluehe.cn/archives/email-reply",
+          "description": "为什么开始留意“回复邮箱界面”？其实没什么宏大理由，就是2024年7月11日，我在整理收件箱的时候，突然意识到，我收到的每一封认真写的回复，都带着一种温度。如我们评论一样，结尾附了一个小表情，莫...",
+          "pub_date": "2025-11-30T20:58:00+08:00",
+          "updated_at": "2025-11-30T20:58:00+08:00",
+          "author": "寻鹤",
+          "site_name": "云心怀鹤",
+          "site_url": "https://bluehe.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/bluehe.png"
         }
       ]
     }
