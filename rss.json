@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-11T20:42:54.278003+08:00",
+  "updated_at": "2025-12-12T02:28:41.606296+08:00",
   "total_sites": 25,
   "total_posts": 278,
   "sites": [
@@ -317,131 +317,6 @@
       ]
     },
     {
-      "name": "手里有只毛毛虫",
-      "url": "https://www.krjojo.com/",
-      "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif",
-      "feed_url": "https://www.krjojo.com/feed",
-      "posts": [
-        {
-          "title": "WordPress 6.9 更新后 SMTP 邮件发送失效解决办法",
-          "link": "https://www.krjojo.com/12474.html",
-          "description": "<p>在 WordPress 6.9 版本之前，简单配置SMTP服务是这样的。 以QQ邮箱代发为例： 而6.9版本对 ...</p>\n<p><a href=\"https://www.krjojo.com/12474.html\">WordPress 6.9 更新后 SMTP 邮件发送失效解决办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-12-05T03:23:38+08:00",
-          "updated_at": "2025-12-05T03:23:38+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "为 Automate 自动化接入豆包ai 识别图形验证码",
-          "link": "https://www.krjojo.com/12466.html",
-          "description": "<p>最近帮朋友研究电脑自动执行工作流，让一些电脑上枯燥重复的手工作业流程实现全自动化。 开始就陷入一个误区，想让a ...</p>\n<p><a href=\"https://www.krjojo.com/12466.html\">为 Automate 自动化接入豆包ai 识别图形验证码</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-12-04T12:08:40+08:00",
-          "updated_at": "2025-12-04T12:08:40+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "分享一个 Umami 追踪站内搜索的办法",
-          "link": "https://www.krjojo.com/12416.html",
-          "description": "<p>想起以前用 Matomo 的时候是自带站内搜索追踪的，后来换了Umami 后这功能被遗忘了。 如今突然想起，结 ...</p>\n<p><a href=\"https://www.krjojo.com/12416.html\">分享一个 Umami 追踪站内搜索的办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-11-16T13:32:59+08:00",
-          "updated_at": "2025-11-16T13:32:59+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "记录一次.git 目录过大，手动瘦身过程",
-          "link": "https://www.krjojo.com/12384.html",
-          "description": "<p>某次不小心把大文件推送了Git，导致.git文件非常大， 每次打开都非常吃读写速度，哪怕后面把大文件删除了也无 ...</p>\n<p><a href=\"https://www.krjojo.com/12384.html\">记录一次.git 目录过大，手动瘦身过程</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-11-10T14:11:08+08:00",
-          "updated_at": "2025-11-10T14:11:08+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "中西医之争，为何没人提比中医早五百年的印医",
-          "link": "https://www.krjojo.com/12328.html",
-          "description": "<p>嘿，发明中医、西医这词的人真的是天才。 在名字上，把传统医学与现代医学，变成地域及文化对立，关键还效果不错。  ...</p>\n<p><a href=\"https://www.krjojo.com/12328.html\">中西医之争，为何没人提比中医早五百年的印医</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-11-08T03:39:27+08:00",
-          "updated_at": "2025-11-08T03:39:27+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "阿里云安全组无法批量添加IP组解决办法",
-          "link": "https://www.krjojo.com/12340.html",
-          "description": "<p>今天给阿里云添加腾讯EO回源IP段，发现了一个问题， 阿里云似乎没有IP组的概念。 如果在安全组中，把CDN回 ...</p>\n<p><a href=\"https://www.krjojo.com/12340.html\">阿里云安全组无法批量添加IP组解决办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-11-03T12:38:18+08:00",
-          "updated_at": "2025-11-03T12:38:18+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "网页利用 view-transition 仿 AppStore 转场动画",
-          "link": "https://www.krjojo.com/12288.html",
-          "description": "<p>其实上个月为了体验这功能就做了这个demo项目，碍于后面有些事忙起来遗忘了，这次补发文章出来。 介绍一下 vi ...</p>\n<p><a href=\"https://www.krjojo.com/12288.html\">网页利用 view-transition 仿 AppStore 转场动画</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-10-21T03:26:45+08:00",
-          "updated_at": "2025-10-21T03:26:45+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "页面改造计划第一期完工",
-          "link": "https://www.krjojo.com/12183.html",
-          "description": "<p>趁着国庆假期简单捣鼓了一下，整体风格更加现代化，又不失个性。 加入大量现代化元素，（可能）符合当下审美 设计目 ...</p>\n<p><a href=\"https://www.krjojo.com/12183.html\">页面改造计划第一期完工</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-10-07T03:05:35+08:00",
-          "updated_at": "2025-10-07T03:05:35+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "为 Hugo 添加 LLMS 的支持",
-          "link": "https://www.krjojo.com/12092.html",
-          "description": "<p>首先表明观点： 需要特定格式来消费信息的人工智能不是人工智能。 人工智能不需要它自己的格式来理解我的网站，如果 ...</p>\n<p><a href=\"https://www.krjojo.com/12092.html\">为 Hugo 添加 LLMS 的支持</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-08-20T13:39:56+08:00",
-          "updated_at": "2025-08-20T13:39:56+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "三角洲 天才少年 161击杀 拿下！！！",
-          "link": "https://www.krjojo.com/12073.html",
-          "description": "<p>就想告诉大家一声，没别的意思，真的没有一点炫耀成分。 诶，你怎么知道我打出天才少年了？</p>\n<p><a href=\"https://www.krjojo.com/12073.html\">三角洲 天才少年 161击杀 拿下！！！</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-08-05T06:56:43+08:00",
-          "updated_at": "2025-08-05T06:56:43+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        }
-      ]
-    },
-    {
-      "name": "MouT.me",
-      "url": "https://ghost.mout.me/",
-      "avatar": "https://cdn.xiaoten.com/friends/mout.me.png",
-      "feed_url": "https://ghost.mout.me/feed",
-      "posts": []
-    },
-    {
       "name": "黑石博客",
       "url": "https://heson.me/",
       "avatar": "https://cdn.xiaoten.com/friends/heson.webp",
@@ -556,6 +431,131 @@
           "site_name": "黑石博客",
           "site_url": "https://heson.me/",
           "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
+        }
+      ]
+    },
+    {
+      "name": "MouT.me",
+      "url": "https://ghost.mout.me/",
+      "avatar": "https://cdn.xiaoten.com/friends/mout.me.png",
+      "feed_url": "https://ghost.mout.me/feed",
+      "posts": []
+    },
+    {
+      "name": "手里有只毛毛虫",
+      "url": "https://www.krjojo.com/",
+      "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif",
+      "feed_url": "https://www.krjojo.com/feed",
+      "posts": [
+        {
+          "title": "WordPress 6.9 更新后 SMTP 邮件发送失效解决办法",
+          "link": "https://www.krjojo.com/12474.html",
+          "description": "<p>在 WordPress 6.9 版本之前，简单配置SMTP服务是这样的。 以QQ邮箱代发为例： 而6.9版本对 ...</p>\n<p><a href=\"https://www.krjojo.com/12474.html\">WordPress 6.9 更新后 SMTP 邮件发送失效解决办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-12-05T03:23:38+08:00",
+          "updated_at": "2025-12-05T03:23:38+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "为 Automate 自动化接入豆包ai 识别图形验证码",
+          "link": "https://www.krjojo.com/12466.html",
+          "description": "<p>最近帮朋友研究电脑自动执行工作流，让一些电脑上枯燥重复的手工作业流程实现全自动化。 开始就陷入一个误区，想让a ...</p>\n<p><a href=\"https://www.krjojo.com/12466.html\">为 Automate 自动化接入豆包ai 识别图形验证码</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-12-04T12:08:40+08:00",
+          "updated_at": "2025-12-04T12:08:40+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "分享一个 Umami 追踪站内搜索的办法",
+          "link": "https://www.krjojo.com/12416.html",
+          "description": "<p>想起以前用 Matomo 的时候是自带站内搜索追踪的，后来换了Umami 后这功能被遗忘了。 如今突然想起，结 ...</p>\n<p><a href=\"https://www.krjojo.com/12416.html\">分享一个 Umami 追踪站内搜索的办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-11-16T13:32:59+08:00",
+          "updated_at": "2025-11-16T13:32:59+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "记录一次.git 目录过大，手动瘦身过程",
+          "link": "https://www.krjojo.com/12384.html",
+          "description": "<p>某次不小心把大文件推送了Git，导致.git文件非常大， 每次打开都非常吃读写速度，哪怕后面把大文件删除了也无 ...</p>\n<p><a href=\"https://www.krjojo.com/12384.html\">记录一次.git 目录过大，手动瘦身过程</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-11-10T14:11:08+08:00",
+          "updated_at": "2025-11-10T14:11:08+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "中西医之争，为何没人提比中医早五百年的印医",
+          "link": "https://www.krjojo.com/12328.html",
+          "description": "<p>嘿，发明中医、西医这词的人真的是天才。 在名字上，把传统医学与现代医学，变成地域及文化对立，关键还效果不错。  ...</p>\n<p><a href=\"https://www.krjojo.com/12328.html\">中西医之争，为何没人提比中医早五百年的印医</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-11-08T03:39:27+08:00",
+          "updated_at": "2025-11-08T03:39:27+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "阿里云安全组无法批量添加IP组解决办法",
+          "link": "https://www.krjojo.com/12340.html",
+          "description": "<p>今天给阿里云添加腾讯EO回源IP段，发现了一个问题， 阿里云似乎没有IP组的概念。 如果在安全组中，把CDN回 ...</p>\n<p><a href=\"https://www.krjojo.com/12340.html\">阿里云安全组无法批量添加IP组解决办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-11-03T12:38:18+08:00",
+          "updated_at": "2025-11-03T12:38:18+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "网页利用 view-transition 仿 AppStore 转场动画",
+          "link": "https://www.krjojo.com/12288.html",
+          "description": "<p>其实上个月为了体验这功能就做了这个demo项目，碍于后面有些事忙起来遗忘了，这次补发文章出来。 介绍一下 vi ...</p>\n<p><a href=\"https://www.krjojo.com/12288.html\">网页利用 view-transition 仿 AppStore 转场动画</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-10-21T03:26:45+08:00",
+          "updated_at": "2025-10-21T03:26:45+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "页面改造计划第一期完工",
+          "link": "https://www.krjojo.com/12183.html",
+          "description": "<p>趁着国庆假期简单捣鼓了一下，整体风格更加现代化，又不失个性。 加入大量现代化元素，（可能）符合当下审美 设计目 ...</p>\n<p><a href=\"https://www.krjojo.com/12183.html\">页面改造计划第一期完工</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-10-07T03:05:35+08:00",
+          "updated_at": "2025-10-07T03:05:35+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "为 Hugo 添加 LLMS 的支持",
+          "link": "https://www.krjojo.com/12092.html",
+          "description": "<p>首先表明观点： 需要特定格式来消费信息的人工智能不是人工智能。 人工智能不需要它自己的格式来理解我的网站，如果 ...</p>\n<p><a href=\"https://www.krjojo.com/12092.html\">为 Hugo 添加 LLMS 的支持</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-08-20T13:39:56+08:00",
+          "updated_at": "2025-08-20T13:39:56+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "三角洲 天才少年 161击杀 拿下！！！",
+          "link": "https://www.krjojo.com/12073.html",
+          "description": "<p>就想告诉大家一声，没别的意思，真的没有一点炫耀成分。 诶，你怎么知道我打出天才少年了？</p>\n<p><a href=\"https://www.krjojo.com/12073.html\">三角洲 天才少年 161击杀 拿下！！！</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-08-05T06:56:43+08:00",
+          "updated_at": "2025-08-05T06:56:43+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
         }
       ]
     },
@@ -980,6 +980,124 @@
       ]
     },
     {
+      "name": "故事的程序猿",
+      "url": "https://blog.lichenghao.cn",
+      "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg",
+      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
+      "posts": [
+        {
+          "title": "我为开心消消乐怒冲一块钱！",
+          "link": "https://blog.lichenghao.cn/article/loqvgppo5q9y",
+          "description": "我玩开心消消乐有七八年了，这几天的 11159 关也太难了吧！！！",
+          "pub_date": "2025-11-15T14:41:01+08:00",
+          "updated_at": "2025-11-15T14:41:01+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
+        },
+        {
+          "title": "一个悠闲的周六",
+          "link": "https://blog.lichenghao.cn/article/pull9dpvsxtf",
+          "description": "对我来说，悠闲双休的周末“可不多了”。李老师这个月底就要生了，顺利的话我们还能再有两个二人世界的周末。",
+          "pub_date": "2025-11-08T21:22:20+08:00",
+          "updated_at": "2025-11-08T21:22:20+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
+        },
+        {
+          "title": "十月-忙碌、期望、激动\\(≧▽≦)/",
+          "link": "https://blog.lichenghao.cn/article/uowqqituzesr",
+          "description": "忙忙碌碌的，到了今天才有时间总结下十月发生的点点滴滴~",
+          "pub_date": "2025-11-07T20:59:02+08:00",
+          "updated_at": "2025-11-07T20:59:02+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
+        },
+        {
+          "title": "Islands 主题：JetBrains IDE 迎来全新外观",
+          "link": "https://blog.lichenghao.cn/article/g8ja27idsfz9",
+          "description": "Islands 主题：JetBrains IDE 迎来全新外观",
+          "pub_date": "2025-11-04T14:21:57+08:00",
+          "updated_at": "2025-11-04T14:21:57+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
+        },
+        {
+          "title": "腾讯云EdgeOne取消免费套餐中的源站防护功能",
+          "link": "https://blog.lichenghao.cn/article/vgwpskyaixpb",
+          "description": "不久前也被免费套餐吸引，最近提示取消了免费套餐中的源站防护功能。",
+          "pub_date": "2025-10-22T13:48:08+08:00",
+          "updated_at": "2025-10-22T13:48:08+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
+        },
+        {
+          "title": "我的小橘猫三岁了哦~",
+          "link": "https://blog.lichenghao.cn/article/6safj6n0uz03",
+          "description": "我的小橘猫三岁多了，比姐姐大一岁，即将跟我们一起迎接弟弟的到来。",
+          "pub_date": "2025-10-20T20:12:22+08:00",
+          "updated_at": "2025-10-20T20:12:22+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
+        },
+        {
+          "title": "八九月小结【二五年】",
+          "link": "https://blog.lichenghao.cn/article/8lk32ehxa41f",
+          "description": "这两个月实在是太忙了，除了要上班以外，家里的房子装修的设计相关的东西，照顾怀孕的媳妇儿，去沈阳办理过户...",
+          "pub_date": "2025-10-09T15:07:02+08:00",
+          "updated_at": "2025-10-09T15:07:02+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
+        },
+        {
+          "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵式",
+          "link": "https://blog.lichenghao.cn/article/0omloraxbim9",
+          "description": "今天的中国 🇨🇳，江山壮丽、人民豪迈，更无惧任何风浪！让我们一起铭记历史，从伟大胜利走向伟大复兴！",
+          "pub_date": "2025-09-03T15:34:53+08:00",
+          "updated_at": "2025-09-03T15:34:53+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
+        },
+        {
+          "title": "买房五年卖掉后，怒亏四十万！含泪总结！",
+          "link": "https://blog.lichenghao.cn/article/omvn6uy69a3l",
+          "description": "新婚买房",
+          "pub_date": "2025-09-02T15:28:33+08:00",
+          "updated_at": "2025-09-02T15:28:33+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
+        },
+        {
+          "title": "Android 和 ios 利用企业微信实现手机验证码共享🎉",
+          "link": "https://blog.lichenghao.cn/article/od5noe30udw6",
+          "description": "之前分享过，利用 Bark 来实现 使用 Bark 和小伙伴共享验证码！ | 故事的程序猿 ，但是最近李老师换 Android 手机了，那么 Bark 只能用在 IOS 客户端上。所以就有了这次分享。",
+          "pub_date": "2025-08-22T22:00:08+08:00",
+          "updated_at": "2025-08-22T22:00:08+08:00",
+          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
+          "site_name": "故事的程序猿",
+          "site_url": "https://blog.lichenghao.cn",
+          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
+        }
+      ]
+    },
+    {
       "name": "游钓四方",
       "url": "https://blog.lhasa.icu/",
       "avatar": "https://cdn.xiaoten.com/friends/lhasa.svg",
@@ -1285,124 +1403,6 @@
       ]
     },
     {
-      "name": "故事的程序猿",
-      "url": "https://blog.lichenghao.cn",
-      "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg",
-      "feed_url": "https://blog.lichenghao.cn/article/rss.xml",
-      "posts": [
-        {
-          "title": "我为开心消消乐怒冲一块钱！",
-          "link": "https://blog.lichenghao.cn/article/loqvgppo5q9y",
-          "description": "我玩开心消消乐有七八年了，这几天的 11159 关也太难了吧！！！",
-          "pub_date": "2025-11-15T14:41:01+08:00",
-          "updated_at": "2025-11-15T14:41:01+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
-        },
-        {
-          "title": "一个悠闲的周六",
-          "link": "https://blog.lichenghao.cn/article/pull9dpvsxtf",
-          "description": "对我来说，悠闲双休的周末“可不多了”。李老师这个月底就要生了，顺利的话我们还能再有两个二人世界的周末。",
-          "pub_date": "2025-11-08T21:22:20+08:00",
-          "updated_at": "2025-11-08T21:22:20+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
-        },
-        {
-          "title": "十月-忙碌、期望、激动\\(≧▽≦)/",
-          "link": "https://blog.lichenghao.cn/article/uowqqituzesr",
-          "description": "忙忙碌碌的，到了今天才有时间总结下十月发生的点点滴滴~",
-          "pub_date": "2025-11-07T20:59:02+08:00",
-          "updated_at": "2025-11-07T20:59:02+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
-        },
-        {
-          "title": "Islands 主题：JetBrains IDE 迎来全新外观",
-          "link": "https://blog.lichenghao.cn/article/g8ja27idsfz9",
-          "description": "Islands 主题：JetBrains IDE 迎来全新外观",
-          "pub_date": "2025-11-04T14:21:57+08:00",
-          "updated_at": "2025-11-04T14:21:57+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
-        },
-        {
-          "title": "腾讯云EdgeOne取消免费套餐中的源站防护功能",
-          "link": "https://blog.lichenghao.cn/article/vgwpskyaixpb",
-          "description": "不久前也被免费套餐吸引，最近提示取消了免费套餐中的源站防护功能。",
-          "pub_date": "2025-10-22T13:48:08+08:00",
-          "updated_at": "2025-10-22T13:48:08+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
-        },
-        {
-          "title": "我的小橘猫三岁了哦~",
-          "link": "https://blog.lichenghao.cn/article/6safj6n0uz03",
-          "description": "我的小橘猫三岁多了，比姐姐大一岁，即将跟我们一起迎接弟弟的到来。",
-          "pub_date": "2025-10-20T20:12:22+08:00",
-          "updated_at": "2025-10-20T20:12:22+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
-        },
-        {
-          "title": "八九月小结【二五年】",
-          "link": "https://blog.lichenghao.cn/article/8lk32ehxa41f",
-          "description": "这两个月实在是太忙了，除了要上班以外，家里的房子装修的设计相关的东西，照顾怀孕的媳妇儿，去沈阳办理过户...",
-          "pub_date": "2025-10-09T15:07:02+08:00",
-          "updated_at": "2025-10-09T15:07:02+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
-        },
-        {
-          "title": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵式",
-          "link": "https://blog.lichenghao.cn/article/0omloraxbim9",
-          "description": "今天的中国 🇨🇳，江山壮丽、人民豪迈，更无惧任何风浪！让我们一起铭记历史，从伟大胜利走向伟大复兴！",
-          "pub_date": "2025-09-03T15:34:53+08:00",
-          "updated_at": "2025-09-03T15:34:53+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
-        },
-        {
-          "title": "买房五年卖掉后，怒亏四十万！含泪总结！",
-          "link": "https://blog.lichenghao.cn/article/omvn6uy69a3l",
-          "description": "新婚买房",
-          "pub_date": "2025-09-02T15:28:33+08:00",
-          "updated_at": "2025-09-02T15:28:33+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
-        },
-        {
-          "title": "Android 和 ios 利用企业微信实现手机验证码共享🎉",
-          "link": "https://blog.lichenghao.cn/article/od5noe30udw6",
-          "description": "之前分享过，利用 Bark 来实现 使用 Bark 和小伙伴共享验证码！ | 故事的程序猿 ，但是最近李老师换 Android 手机了，那么 Bark 只能用在 IOS 客户端上。所以就有了这次分享。",
-          "pub_date": "2025-08-22T22:00:08+08:00",
-          "updated_at": "2025-08-22T22:00:08+08:00",
-          "author": "lichlaughing@lichenghao.cn (猿1993👨🏻‍💻)",
-          "site_name": "故事的程序猿",
-          "site_url": "https://blog.lichenghao.cn",
-          "avatar": "https://cdn.xiaoten.com/friends/lichenghao.svg"
-        }
-      ]
-    },
-    {
       "name": "安静角落",
       "url": "https://wuziya.com/",
       "avatar": "https://cdn.xiaoten.com/friends/wuziya.webp",
@@ -1471,6 +1471,17 @@
       "avatar": "https://cdn.xiaoten.com/friends/wang618.gif",
       "feed_url": "https://wang618.cn/rss.php",
       "posts": [
+        {
+          "title": "阿里云ESA免费CDN",
+          "link": "https://wang618.cn/aliyun-mianfei-cdn.html",
+          "description": "<p>阿里云边缘安全加速ESA 可为您的网站提供全球CDN加速、API加速、Web和DDoS防护等一站式安全加速服务。免费版无限流量、支持全球加速、平台 DDoS 防护、免费证书、免费边缘计算等。请按照下图操作，选择 免费版 时长为一年 勾选 到期自动续费（可重复0元续费）。申请地址：<a href=\"https://tianchi.aliyun.com/specials/promotion/freetier/esa?taskCode=25254&amp;recordId=cec37c80d879f45e191cf369fc34d763\">https://tianchi.aliyun.com/specials/promotion/freetier/esa?taskCode=25254&amp;recordId=cec37c80d879f45e191cf369fc34d763</a></p>\n<p><img alt=\"阿里云ESA免费CDN1.webp\" src=\"https://wang618.cn/content/uploadfile/202512/36b61765463043.webp\" /><br />\n<img alt=\"阿里云ESA免费CDN2.webp\" src=\"https://wang618.cn/content/uploadfile/202512/031f1765463787.webp\" /><br />\n<img alt=\"阿里云ESA免费CDN3.webp\" src=\"https://wang618.cn/content/uploadfile/202512/1b861765463787.webp\" /></p>",
+          "pub_date": "2025-12-11T22:28:37+08:00",
+          "updated_at": "2025-12-11T22:28:37+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
         {
           "title": "天网的阴影",
           "link": "https://wang618.cn/tian-wang-de-yin-ying.html",
@@ -1679,17 +1690,6 @@
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
           "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "颠覆三观的食物",
-          "link": "https://wang618.cn/dian-fu-san-guan-de-shi-wu.html",
-          "description": "<p>刷抖音刷到德克士黑金小酥肉，简直颠覆了我的三观！狗子说它的够新鲜仅需油炸 🤮，研发出这款产品的真是个人才👍！</p>\n<p><img alt=\"狗子.webp\" src=\"https://wang618.cn/content/uploadfile/202510/59b61759482828.webp\" /><br />\n<img alt=\"德克士黑金酥肉.webp\" src=\"https://wang618.cn/content/uploadfile/202510/6eeb1759400313.webp\" /></p>",
-          "pub_date": "2025-10-03T17:07:06+08:00",
-          "updated_at": "2025-10-03T17:07:06+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
         }
       ]
     },
@@ -1887,6 +1887,32 @@
           "avatar": "https://cdn.xiaoten.com/friends/yufan.svg"
         }
       ]
+    },
+    {
+      "name": "云心怀鹤",
+      "url": "https://bluehe.cn/",
+      "avatar": "https://cdn.xiaoten.com/friends/bluehe.png",
+      "feed_url": "https://bluehe.cn/feed",
+      "posts": [
+        {
+          "title": "回邮美学：“会说话的界面”",
+          "link": "https://bluehe.cn/archives/email-reply",
+          "description": "为什么开始留意“回复邮箱界面”？其实没什么宏大理由，就是2024年7月11日，我在整理收件箱的时候，突然意识到，我收到的每一封认真写的回复，都带着一种温度。如我们评论一样，结尾附了一个小表情，莫...",
+          "pub_date": "2025-11-30T20:58:00+08:00",
+          "updated_at": "2025-11-30T20:58:00+08:00",
+          "author": "寻鹤",
+          "site_name": "云心怀鹤",
+          "site_url": "https://bluehe.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/bluehe.png"
+        }
+      ]
+    },
+    {
+      "name": "木木木木木",
+      "url": "https://immmmm.com/",
+      "avatar": "https://cdn.xiaoten.com/friends/immmmm.png",
+      "feed_url": "https://immmmm.com/feed",
+      "posts": []
     },
     {
       "name": "Evan",
@@ -2124,32 +2150,6 @@
           "site_name": "Evan",
           "site_url": "https://www.evan.xin/",
           "avatar": "https://cdn.xiaoten.com/friends/Evan.png"
-        }
-      ]
-    },
-    {
-      "name": "木木木木木",
-      "url": "https://immmmm.com/",
-      "avatar": "https://cdn.xiaoten.com/friends/immmmm.png",
-      "feed_url": "https://immmmm.com/feed",
-      "posts": []
-    },
-    {
-      "name": "云心怀鹤",
-      "url": "https://bluehe.cn/",
-      "avatar": "https://cdn.xiaoten.com/friends/bluehe.png",
-      "feed_url": "https://bluehe.cn/feed",
-      "posts": [
-        {
-          "title": "回邮美学：“会说话的界面”",
-          "link": "https://bluehe.cn/archives/email-reply",
-          "description": "为什么开始留意“回复邮箱界面”？其实没什么宏大理由，就是2024年7月11日，我在整理收件箱的时候，突然意识到，我收到的每一封认真写的回复，都带着一种温度。如我们评论一样，结尾附了一个小表情，莫...",
-          "pub_date": "2025-11-30T20:58:00+08:00",
-          "updated_at": "2025-11-30T20:58:00+08:00",
-          "author": "寻鹤",
-          "site_name": "云心怀鹤",
-          "site_url": "https://bluehe.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/bluehe.png"
         }
       ]
     },
@@ -2886,13 +2886,6 @@
       ]
     },
     {
-      "name": "空白Koobai",
-      "url": "https://koobai.com/",
-      "avatar": "https://cdn.xiaoten.com/friends/koobai.webp",
-      "feed_url": "https://koobai.com/index.xml",
-      "posts": []
-    },
-    {
       "name": "友人C",
       "url": "https://www.ihewro.com",
       "avatar": "https://cdn.xiaoten.com/friends/ihewro.jpg",
@@ -2945,111 +2938,11 @@
       ]
     },
     {
-      "name": "旅行漫记",
-      "url": "https://synyan.cn/",
-      "avatar": "https://cdn.xiaoten.com/friends/synyan.webp",
-      "feed_url": "https://synyan.cn/feed",
-      "posts": [
-        {
-          "title": "之外小馆仙蠡墩",
-          "link": "https://synyan.cn/106290",
-          "description": "众所周知，“漫咖啡”歇业后，老板娘像是变了个人一样一口气开了两家店：“之外”花园露台餐厅太湖广场店、“之外”露台餐厅惠山映月里店。我都去打了卡，评价也算不错，主...",
-          "pub_date": "2025-11-30T17:14:14+08:00",
-          "updated_at": "2025-11-30T17:14:14+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "惠山寺前金甲妆",
-          "link": "https://synyan.cn/106185",
-          "description": "暨上周去八都岕看十里银杏后，ld一直嘀咕那树还不如无锡惠山寺前那株650年的银杏王壮观，这不，今天拿着Z f全画幅和T 16-30mm F2.8 G2超广来拍家...",
-          "pub_date": "2025-11-29T16:17:53+08:00",
-          "updated_at": "2025-11-29T16:17:53+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "十里银杏八都岕",
-          "link": "https://synyan.cn/105960",
-          "description": "浙江省湖州市长兴县的古银杏林蜚声海内，老衲我向往了好多年。不过之前并不知道地名，今年带家人长兴赏秋，简单做了点攻略，才知道原来叫“八都岕”，由四个自然村方一村、...",
-          "pub_date": "2025-11-24T08:40:41+08:00",
-          "updated_at": "2025-11-24T08:40:41+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "湖心浮光乌托邦",
-          "link": "https://synyan.cn/105923",
-          "description": "冬日，碧空如洗，浮光跃金。给GR21装上黄金色调的Kodak ColorPlus 200胶卷，冒着凛冽的寒风，沿着蠡堤行走于渤公岛湖心。在著名的湖心乌托邦伊德音...",
-          "pub_date": "2025-11-19T15:09:21+08:00",
-          "updated_at": "2025-11-19T15:09:21+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "紫玉金砂名器赏",
-          "link": "https://synyan.cn/105063",
-          "description": "看过锡博西二的“春水碧 秋月瓷——吴地青瓷艺术展”，楼上西三有“紫玉金砂——历代紫砂名器鉴赏展”，那当然是必须去。 墙上“写在前面的话”词藻优美，值得记录。 写...",
-          "pub_date": "2025-10-25T17:46:38+08:00",
-          "updated_at": "2025-10-25T17:46:38+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "吴地青瓷艺术展",
-          "link": "https://synyan.cn/104985",
-          "description": "在《锡博金匮遗珍展》文中提到： 由于娃不耐烦了，因此另外一个想去的展“春水碧 秋月瓷——吴地青瓷艺术展”只能留待下次。 S. (2025-10-10). 锡博金...",
-          "pub_date": "2025-10-23T09:32:19+08:00",
-          "updated_at": "2025-10-23T09:32:19+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "长广溪悦溪酒店",
-          "link": "https://synyan.cn/104914",
-          "description": "惭愧，都快月底了十一假期出行游记还没写完，趁最后一篇图少，今晚赶工把图都发了。 假期到了10月8日，所有人都收心了，但我又不甘趴在家中，于是去长广溪湿地公园颇具...",
-          "pub_date": "2025-10-20T16:06:44+08:00",
-          "updated_at": "2025-10-20T16:06:44+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "金坛博物馆馆藏",
-          "link": "https://synyan.cn/104668",
-          "description": "用完午餐，与舅姥爷、抗战老兵徐沅甫道别后，小舅舅安排大家驱车前往5分钟路程外的金坛博物馆参观。 已是中秋的天气，却35℃热到离谱。大家停车后，纷纷钻进冷气充沛的...",
-          "pub_date": "2025-10-16T17:43:17+08:00",
-          "updated_at": "2025-10-16T17:43:17+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "抗战老兵徐沅甫",
-          "link": "https://synyan.cn/104612",
-          "description": "10月5日，按照常州小舅舅的部署，大家各自出发，去常州市金坛县探望舅姥爷徐沅甫。 舅姥爷是外婆徐芒的弟弟，1923年生，因占领区日军残暴，毅然离家出走、投身抗日...",
-          "pub_date": "2025-10-13T16:37:14+08:00",
-          "updated_at": "2025-10-13T16:37:14+08:00",
-          "author": "S",
-          "site_name": "旅行漫记",
-          "site_url": "https://synyan.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        }
-      ]
+      "name": "空白Koobai",
+      "url": "https://koobai.com/",
+      "avatar": "https://cdn.xiaoten.com/friends/koobai.webp",
+      "feed_url": "https://koobai.com/index.xml",
+      "posts": []
     },
     {
       "name": "小十博客",
@@ -3256,9 +3149,127 @@
           "avatar": "https://www.xiaoten.com/avatar.png"
         }
       ]
+    },
+    {
+      "name": "旅行漫记",
+      "url": "https://synyan.cn/",
+      "avatar": "https://cdn.xiaoten.com/friends/synyan.webp",
+      "feed_url": "https://synyan.cn/feed",
+      "posts": [
+        {
+          "title": "之外小馆仙蠡墩",
+          "link": "https://synyan.cn/106290",
+          "description": "众所周知，“漫咖啡”歇业后，老板娘像是变了个人一样一口气开了两家店：“之外”花园露台餐厅太湖广场店、“之外”露台餐厅惠山映月里店。我都去打了卡，评价也算不错，主...",
+          "pub_date": "2025-11-30T17:14:14+08:00",
+          "updated_at": "2025-11-30T17:14:14+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "惠山寺前金甲妆",
+          "link": "https://synyan.cn/106185",
+          "description": "暨上周去八都岕看十里银杏后，ld一直嘀咕那树还不如无锡惠山寺前那株650年的银杏王壮观，这不，今天拿着Z f全画幅和T 16-30mm F2.8 G2超广来拍家...",
+          "pub_date": "2025-11-29T16:17:53+08:00",
+          "updated_at": "2025-11-29T16:17:53+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "十里银杏八都岕",
+          "link": "https://synyan.cn/105960",
+          "description": "浙江省湖州市长兴县的古银杏林蜚声海内，老衲我向往了好多年。不过之前并不知道地名，今年带家人长兴赏秋，简单做了点攻略，才知道原来叫“八都岕”，由四个自然村方一村、...",
+          "pub_date": "2025-11-24T08:40:41+08:00",
+          "updated_at": "2025-11-24T08:40:41+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "湖心浮光乌托邦",
+          "link": "https://synyan.cn/105923",
+          "description": "冬日，碧空如洗，浮光跃金。给GR21装上黄金色调的Kodak ColorPlus 200胶卷，冒着凛冽的寒风，沿着蠡堤行走于渤公岛湖心。在著名的湖心乌托邦伊德音...",
+          "pub_date": "2025-11-19T15:09:21+08:00",
+          "updated_at": "2025-11-19T15:09:21+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "紫玉金砂名器赏",
+          "link": "https://synyan.cn/105063",
+          "description": "看过锡博西二的“春水碧 秋月瓷——吴地青瓷艺术展”，楼上西三有“紫玉金砂——历代紫砂名器鉴赏展”，那当然是必须去。 墙上“写在前面的话”词藻优美，值得记录。 写...",
+          "pub_date": "2025-10-25T17:46:38+08:00",
+          "updated_at": "2025-10-25T17:46:38+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "吴地青瓷艺术展",
+          "link": "https://synyan.cn/104985",
+          "description": "在《锡博金匮遗珍展》文中提到： 由于娃不耐烦了，因此另外一个想去的展“春水碧 秋月瓷——吴地青瓷艺术展”只能留待下次。 S. (2025-10-10). 锡博金...",
+          "pub_date": "2025-10-23T09:32:19+08:00",
+          "updated_at": "2025-10-23T09:32:19+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "长广溪悦溪酒店",
+          "link": "https://synyan.cn/104914",
+          "description": "惭愧，都快月底了十一假期出行游记还没写完，趁最后一篇图少，今晚赶工把图都发了。 假期到了10月8日，所有人都收心了，但我又不甘趴在家中，于是去长广溪湿地公园颇具...",
+          "pub_date": "2025-10-20T16:06:44+08:00",
+          "updated_at": "2025-10-20T16:06:44+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "金坛博物馆馆藏",
+          "link": "https://synyan.cn/104668",
+          "description": "用完午餐，与舅姥爷、抗战老兵徐沅甫道别后，小舅舅安排大家驱车前往5分钟路程外的金坛博物馆参观。 已是中秋的天气，却35℃热到离谱。大家停车后，纷纷钻进冷气充沛的...",
+          "pub_date": "2025-10-16T17:43:17+08:00",
+          "updated_at": "2025-10-16T17:43:17+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "抗战老兵徐沅甫",
+          "link": "https://synyan.cn/104612",
+          "description": "10月5日，按照常州小舅舅的部署，大家各自出发，去常州市金坛县探望舅姥爷徐沅甫。 舅姥爷是外婆徐芒的弟弟，1923年生，因占领区日军残暴，毅然离家出走、投身抗日...",
+          "pub_date": "2025-10-13T16:37:14+08:00",
+          "updated_at": "2025-10-13T16:37:14+08:00",
+          "author": "S",
+          "site_name": "旅行漫记",
+          "site_url": "https://synyan.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        }
+      ]
     }
   ],
   "all_posts": [
+    {
+      "title": "阿里云ESA免费CDN",
+      "link": "https://wang618.cn/aliyun-mianfei-cdn.html",
+      "description": "<p>阿里云边缘安全加速ESA 可为您的网站提供全球CDN加速、API加速、Web和DDoS防护等一站式安全加速服务。免费版无限流量、支持全球加速、平台 DDoS 防护、免费证书、免费边缘计算等。请按照下图操作，选择 免费版 时长为一年 勾选 到期自动续费（可重复0元续费）。申请地址：<a href=\"https://tianchi.aliyun.com/specials/promotion/freetier/esa?taskCode=25254&amp;recordId=cec37c80d879f45e191cf369fc34d763\">https://tianchi.aliyun.com/specials/promotion/freetier/esa?taskCode=25254&amp;recordId=cec37c80d879f45e191cf369fc34d763</a></p>\n<p><img alt=\"阿里云ESA免费CDN1.webp\" src=\"https://wang618.cn/content/uploadfile/202512/36b61765463043.webp\" /><br />\n<img alt=\"阿里云ESA免费CDN2.webp\" src=\"https://wang618.cn/content/uploadfile/202512/031f1765463787.webp\" /><br />\n<img alt=\"阿里云ESA免费CDN3.webp\" src=\"https://wang618.cn/content/uploadfile/202512/1b861765463787.webp\" /></p>",
+      "pub_date": "2025-12-11T22:28:37+08:00",
+      "updated_at": "2025-12-11T22:28:37+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+    },
     {
       "title": "他来吃饭的时候其他人已经快吃完了",
       "link": "https://jame.work/html/post/33",
@@ -5315,17 +5326,6 @@
       "site_name": "Jame",
       "site_url": "https://jame.work",
       "avatar": "https://cdn.xiaoten.com/friends/jame.ico"
-    },
-    {
-      "title": "颠覆三观的食物",
-      "link": "https://wang618.cn/dian-fu-san-guan-de-shi-wu.html",
-      "description": "<p>刷抖音刷到德克士黑金小酥肉，简直颠覆了我的三观！狗子说它的够新鲜仅需油炸 🤮，研发出这款产品的真是个人才👍！</p>\n<p><img alt=\"狗子.webp\" src=\"https://wang618.cn/content/uploadfile/202510/59b61759482828.webp\" /><br />\n<img alt=\"德克士黑金酥肉.webp\" src=\"https://wang618.cn/content/uploadfile/202510/6eeb1759400313.webp\" /></p>",
-      "pub_date": "2025-10-03T17:07:06+08:00",
-      "updated_at": "2025-10-03T17:07:06+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
     },
     {
       "title": "《Go 语言设计与实现》书评",
