@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-21T14:28:55.386379+08:00",
+  "updated_at": "2025-12-21T20:37:09.180580+08:00",
   "total_sites": 27,
   "total_posts": 298,
   "sites": [
@@ -188,6 +188,124 @@
       ]
     },
     {
+      "name": "手里有只毛毛虫",
+      "url": "https://www.krjojo.com/",
+      "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif",
+      "feed_url": "https://www.krjojo.com/feed",
+      "posts": [
+        {
+          "title": "如何识别哪些是 AI 生成的内容",
+          "link": "https://www.krjojo.com/12613.html",
+          "description": "<p>最近看到不少朋友用上了AI写作， 几秒一篇万字长文，一天更新好几篇，同时操作数个账号，然后跑来问，为什么搜索引 ...</p>\n<p><a href=\"https://www.krjojo.com/12613.html\">如何识别哪些是 AI 生成的内容</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-12-18T02:21:30+08:00",
+          "updated_at": "2025-12-18T02:21:30+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "关闭 n8n 的匿名遥测数据",
+          "link": "https://www.krjojo.com/12561.html",
+          "description": "<p>最近升级了最新 n8n 2.0 版本，发现的匿名遥测数据似乎存在问题。 通过官方命令部署的n8n docker ...</p>\n<p><a href=\"https://www.krjojo.com/12561.html\">关闭 n8n 的匿名遥测数据</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-12-14T04:40:06+08:00",
+          "updated_at": "2025-12-14T04:40:06+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "WordPress 6.9 更新后 SMTP 邮件发送失效解决办法",
+          "link": "https://www.krjojo.com/12474.html",
+          "description": "<p>在 WordPress 6.9 版本之前，简单配置SMTP服务是这样的。 以QQ邮箱代发为例： 而6.9版本对 ...</p>\n<p><a href=\"https://www.krjojo.com/12474.html\">WordPress 6.9 更新后 SMTP 邮件发送失效解决办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-12-05T03:23:38+08:00",
+          "updated_at": "2025-12-05T03:23:38+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "为 Automate 自动化接入豆包ai 识别图形验证码",
+          "link": "https://www.krjojo.com/12466.html",
+          "description": "<p>最近帮朋友研究电脑自动执行工作流，让一些电脑上枯燥重复的手工作业流程实现全自动化。 开始就陷入一个误区，想让a ...</p>\n<p><a href=\"https://www.krjojo.com/12466.html\">为 Automate 自动化接入豆包ai 识别图形验证码</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-12-04T12:08:40+08:00",
+          "updated_at": "2025-12-04T12:08:40+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "分享一个 Umami 追踪站内搜索的办法",
+          "link": "https://www.krjojo.com/12416.html",
+          "description": "<p>想起以前用 Matomo 的时候是自带站内搜索追踪的，后来换了Umami 后这功能被遗忘了。 如今突然想起，结 ...</p>\n<p><a href=\"https://www.krjojo.com/12416.html\">分享一个 Umami 追踪站内搜索的办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-11-16T13:32:59+08:00",
+          "updated_at": "2025-11-16T13:32:59+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "记录一次.git 目录过大，手动瘦身过程",
+          "link": "https://www.krjojo.com/12384.html",
+          "description": "<p>某次不小心把大文件推送了Git，导致.git文件非常大， 每次打开都非常吃读写速度，哪怕后面把大文件删除了也无 ...</p>\n<p><a href=\"https://www.krjojo.com/12384.html\">记录一次.git 目录过大，手动瘦身过程</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-11-10T14:11:08+08:00",
+          "updated_at": "2025-11-10T14:11:08+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "中西医之争，为何没人提比中医早五百年的印医",
+          "link": "https://www.krjojo.com/12328.html",
+          "description": "<p>嘿，发明中医、西医这词的人真的是天才。 在名字上，把传统医学与现代医学，变成地域及文化对立，关键还效果不错。  ...</p>\n<p><a href=\"https://www.krjojo.com/12328.html\">中西医之争，为何没人提比中医早五百年的印医</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-11-08T03:39:27+08:00",
+          "updated_at": "2025-11-08T03:39:27+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "阿里云安全组无法批量添加IP组解决办法",
+          "link": "https://www.krjojo.com/12340.html",
+          "description": "<p>今天给阿里云添加腾讯EO回源IP段，发现了一个问题， 阿里云似乎没有IP组的概念。 如果在安全组中，把CDN回 ...</p>\n<p><a href=\"https://www.krjojo.com/12340.html\">阿里云安全组无法批量添加IP组解决办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-11-03T12:38:18+08:00",
+          "updated_at": "2025-11-03T12:38:18+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "网页利用 view-transition 仿 AppStore 转场动画",
+          "link": "https://www.krjojo.com/12288.html",
+          "description": "<p>其实上个月为了体验这功能就做了这个demo项目，碍于后面有些事忙起来遗忘了，这次补发文章出来。 介绍一下 vi ...</p>\n<p><a href=\"https://www.krjojo.com/12288.html\">网页利用 view-transition 仿 AppStore 转场动画</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-10-21T03:26:45+08:00",
+          "updated_at": "2025-10-21T03:26:45+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        },
+        {
+          "title": "页面改造计划第一期完工",
+          "link": "https://www.krjojo.com/12183.html",
+          "description": "<p>趁着国庆假期简单捣鼓了一下，整体风格更加现代化，又不失个性。 加入大量现代化元素，（可能）符合当下审美 设计目 ...</p>\n<p><a href=\"https://www.krjojo.com/12183.html\">页面改造计划第一期完工</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
+          "pub_date": "2025-10-07T03:05:35+08:00",
+          "updated_at": "2025-10-07T03:05:35+08:00",
+          "author": "毛毛虫",
+          "site_name": "手里有只毛毛虫",
+          "site_url": "https://www.krjojo.com/",
+          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
+        }
+      ]
+    },
+    {
       "name": "王叨叨",
       "url": "https://wangdaodao.com/",
       "avatar": "https://cdn.xiaoten.com/friends/wangdaodao.png",
@@ -306,247 +424,11 @@
       ]
     },
     {
-      "name": "黑石博客",
-      "url": "https://heson.me/",
-      "avatar": "https://cdn.xiaoten.com/friends/heson.webp",
-      "feed_url": "https://heson.me/feed",
-      "posts": [
-        {
-          "title": "关于Windows11激活",
-          "link": "https://heson.me/dowhat/49.html",
-          "description": "蹲了2个月的电脑配件好价，这次双十一终于全部攒齐了，具体配置及价格详见➡️ 《我的电脑配置及外设【完结】》 在Windows官网上下了个多版本的Windows11，之前都喜欢安装专业版，但这次给...",
-          "pub_date": "2025-10-27T11:39:00+08:00",
-          "updated_at": "2025-10-27T11:39:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
-        },
-        {
-          "title": "记录一次memo的调用",
-          "link": "https://heson.me/dowhat/47.html",
-          "description": "基本不怎么在微信发朋友圈的我，但最喜欢在博客发动态。所以哔哔、闪念、说说、胶囊诸如此类的，是我博客必备的功能。奈何cuteen原生的闪念功能虽然简单，但就是太简单了，不能发图片。所以我决定把me...",
-          "pub_date": "2025-10-10T08:54:00+08:00",
-          "updated_at": "2025-10-10T08:54:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
-        },
-        {
-          "title": "在NAS上搭建私有云音乐",
-          "link": "https://heson.me/dowhat/35.html",
-          "description": "QQ音乐会员 我看谁还充，反正我是不充了。来看看下面这个方案：[card title=\"免费私有云音乐方案\" color=\"success\"]🎵下载：LX Music(洛雪音乐)：一款免费开源的...",
-          "pub_date": "2025-09-26T11:34:00+08:00",
-          "updated_at": "2025-09-26T11:34:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
-        },
-        {
-          "title": "天钡wtr pro 5825u上手体验",
-          "link": "https://heson.me/dowhat/33.html",
-          "description": "天钡wtr pro 5825u（物理机飞牛os）是我现在正在用的nas服务器。这个博客就搭在它上面。由来之前一直关注n150的nas消息，偶然一天问nas群友n150推荐机型：看了一下外观和配置...",
-          "pub_date": "2025-09-23T10:44:00+08:00",
-          "updated_at": "2025-09-23T10:44:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
-        },
-        {
-          "title": "深度思考：决定你命运的核心能力",
-          "link": "https://heson.me/life/25.html",
-          "description": "[card title=\"推荐理由\" color=\"info\"]真正改变命运的是独立、深刻地思考问题的能力。[/card]深度思考：决定你命运的核心能力看透本质与看不清本质的人，注定拥有不同的命...",
-          "pub_date": "2025-09-22T08:42:00+08:00",
-          "updated_at": "2025-09-22T08:42:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
-        },
-        {
-          "title": "装修记——自装的150天",
-          "link": "https://heson.me/life/15.html",
-          "description": "第一次装修时，我把全部事情都交给了装修公司。每平米998元，总共花了二十多万，当时还以为占了便宜。刚装完的时候看着还行，颜色和材料都是自己选的。但现在回想起来，他们用的都是商家特供的渠道货，样式...",
-          "pub_date": "2025-09-11T09:14:00+08:00",
-          "updated_at": "2025-09-11T09:14:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
-        },
-        {
-          "title": "那些年的友情链接，还在闪闪发光",
-          "link": "https://heson.me/life/10.html",
-          "description": "[audio src=\"https://heson.me/music/%E6%9E%97%E5%BF%97%E7%82%AB-%E5%87%A4%E5%87%B0%E8%8A%B1%E5%BC%...",
-          "pub_date": "2025-09-06T10:20:00+08:00",
-          "updated_at": "2025-09-06T10:20:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
-        },
-        {
-          "title": "童年第一台急先锋电脑到如今NAS服务器的搭建",
-          "link": "https://heson.me/life/6.html",
-          "description": "童年的“折腾基因”启蒙第一台电脑的“开箱记忆”2001 年的夏天，拨号上网的“滴滴嘟嘟”声还在楼道里此起彼伏，Windows 98 的蓝天白云桌面是大多数家庭电脑的标配。五年级的我放学回家，看见...",
-          "pub_date": "2025-09-04T16:10:00+08:00",
-          "updated_at": "2025-09-04T16:10:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
-        },
-        {
-          "title": "战地风云 6 预购记：一场关于热爱与时光的独白​",
-          "link": "https://heson.me/life/4.html",
-          "description": "鼠标最终还是点下了 “[RainBowText]确认预购[/RainBowText]” 的按钮，屏幕上跳出《战地风云 6》魅影版的订单页面时，我竟莫名愣了几秒。指尖还残留着鼠标按键的微弱触感，心...",
-          "pub_date": "2025-09-02T11:16:00+08:00",
-          "updated_at": "2025-09-02T11:16:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
-        },
-        {
-          "title": "我的电脑配置及外设【完结】",
-          "link": "https://heson.me/dowhat/3.html",
-          "description": "需求首先确定显示器，红米g pro27u，一款4k160和1k300的双模显示器，带电视和小爱同学。因为我这台电脑是放在客厅岛台上的，所以电视功能可拓展客厅功能，同时全屋小米智能，非常有必要在电...",
-          "pub_date": "2025-09-02T07:15:00+08:00",
-          "updated_at": "2025-09-02T07:15:00+08:00",
-          "author": "HESON",
-          "site_name": "黑石博客",
-          "site_url": "https://heson.me/",
-          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
-        }
-      ]
-    },
-    {
       "name": "MouT.me",
       "url": "https://ghost.mout.me/",
       "avatar": "https://cdn.xiaoten.com/friends/mout.me.png",
       "feed_url": "https://ghost.mout.me/feed",
       "posts": []
-    },
-    {
-      "name": "手里有只毛毛虫",
-      "url": "https://www.krjojo.com/",
-      "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif",
-      "feed_url": "https://www.krjojo.com/feed",
-      "posts": [
-        {
-          "title": "如何识别哪些是 AI 生成的内容",
-          "link": "https://www.krjojo.com/12613.html",
-          "description": "<p>最近看到不少朋友用上了AI写作， 几秒一篇万字长文，一天更新好几篇，同时操作数个账号，然后跑来问，为什么搜索引 ...</p>\n<p><a href=\"https://www.krjojo.com/12613.html\">如何识别哪些是 AI 生成的内容</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-12-18T02:21:30+08:00",
-          "updated_at": "2025-12-18T02:21:30+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "关闭 n8n 的匿名遥测数据",
-          "link": "https://www.krjojo.com/12561.html",
-          "description": "<p>最近升级了最新 n8n 2.0 版本，发现的匿名遥测数据似乎存在问题。 通过官方命令部署的n8n docker ...</p>\n<p><a href=\"https://www.krjojo.com/12561.html\">关闭 n8n 的匿名遥测数据</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-12-14T04:40:06+08:00",
-          "updated_at": "2025-12-14T04:40:06+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "WordPress 6.9 更新后 SMTP 邮件发送失效解决办法",
-          "link": "https://www.krjojo.com/12474.html",
-          "description": "<p>在 WordPress 6.9 版本之前，简单配置SMTP服务是这样的。 以QQ邮箱代发为例： 而6.9版本对 ...</p>\n<p><a href=\"https://www.krjojo.com/12474.html\">WordPress 6.9 更新后 SMTP 邮件发送失效解决办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-12-05T03:23:38+08:00",
-          "updated_at": "2025-12-05T03:23:38+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "为 Automate 自动化接入豆包ai 识别图形验证码",
-          "link": "https://www.krjojo.com/12466.html",
-          "description": "<p>最近帮朋友研究电脑自动执行工作流，让一些电脑上枯燥重复的手工作业流程实现全自动化。 开始就陷入一个误区，想让a ...</p>\n<p><a href=\"https://www.krjojo.com/12466.html\">为 Automate 自动化接入豆包ai 识别图形验证码</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-12-04T12:08:40+08:00",
-          "updated_at": "2025-12-04T12:08:40+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "分享一个 Umami 追踪站内搜索的办法",
-          "link": "https://www.krjojo.com/12416.html",
-          "description": "<p>想起以前用 Matomo 的时候是自带站内搜索追踪的，后来换了Umami 后这功能被遗忘了。 如今突然想起，结 ...</p>\n<p><a href=\"https://www.krjojo.com/12416.html\">分享一个 Umami 追踪站内搜索的办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-11-16T13:32:59+08:00",
-          "updated_at": "2025-11-16T13:32:59+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "记录一次.git 目录过大，手动瘦身过程",
-          "link": "https://www.krjojo.com/12384.html",
-          "description": "<p>某次不小心把大文件推送了Git，导致.git文件非常大， 每次打开都非常吃读写速度，哪怕后面把大文件删除了也无 ...</p>\n<p><a href=\"https://www.krjojo.com/12384.html\">记录一次.git 目录过大，手动瘦身过程</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-11-10T14:11:08+08:00",
-          "updated_at": "2025-11-10T14:11:08+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "中西医之争，为何没人提比中医早五百年的印医",
-          "link": "https://www.krjojo.com/12328.html",
-          "description": "<p>嘿，发明中医、西医这词的人真的是天才。 在名字上，把传统医学与现代医学，变成地域及文化对立，关键还效果不错。  ...</p>\n<p><a href=\"https://www.krjojo.com/12328.html\">中西医之争，为何没人提比中医早五百年的印医</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-11-08T03:39:27+08:00",
-          "updated_at": "2025-11-08T03:39:27+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "阿里云安全组无法批量添加IP组解决办法",
-          "link": "https://www.krjojo.com/12340.html",
-          "description": "<p>今天给阿里云添加腾讯EO回源IP段，发现了一个问题， 阿里云似乎没有IP组的概念。 如果在安全组中，把CDN回 ...</p>\n<p><a href=\"https://www.krjojo.com/12340.html\">阿里云安全组无法批量添加IP组解决办法</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-11-03T12:38:18+08:00",
-          "updated_at": "2025-11-03T12:38:18+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "网页利用 view-transition 仿 AppStore 转场动画",
-          "link": "https://www.krjojo.com/12288.html",
-          "description": "<p>其实上个月为了体验这功能就做了这个demo项目，碍于后面有些事忙起来遗忘了，这次补发文章出来。 介绍一下 vi ...</p>\n<p><a href=\"https://www.krjojo.com/12288.html\">网页利用 view-transition 仿 AppStore 转场动画</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-10-21T03:26:45+08:00",
-          "updated_at": "2025-10-21T03:26:45+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        },
-        {
-          "title": "页面改造计划第一期完工",
-          "link": "https://www.krjojo.com/12183.html",
-          "description": "<p>趁着国庆假期简单捣鼓了一下，整体风格更加现代化，又不失个性。 加入大量现代化元素，（可能）符合当下审美 设计目 ...</p>\n<p><a href=\"https://www.krjojo.com/12183.html\">页面改造计划第一期完工</a>最先出现在<a href=\"https://www.krjojo.com\">手里有只毛毛虫</a>。</p>",
-          "pub_date": "2025-10-07T03:05:35+08:00",
-          "updated_at": "2025-10-07T03:05:35+08:00",
-          "author": "毛毛虫",
-          "site_name": "手里有只毛毛虫",
-          "site_url": "https://www.krjojo.com/",
-          "avatar": "https://cdn.xiaoten.com/friends/krjojo.avif"
-        }
-      ]
     },
     {
       "name": "小白大学渣",
@@ -1398,6 +1280,17 @@
       "feed_url": "https://wang618.cn/rss.php",
       "posts": [
         {
+          "title": "懒冬饺酒闲情",
+          "link": "https://wang618.cn/lan-dong-jiao-jiu-xian-qing.html",
+          "description": "<p>冬至如约而至，耳边又响起那句“冬至不端饺子碗，冻掉耳朵没人管”的老话。偷了个懒没下厨，外卖饺子配双合盛啤酒，一口暖食一口酒，这个冬节，舒服又圆满～</p>\n<p><img alt=\"饺子01.webp\" src=\"https://wang618.cn/content/uploadfile/202512/e0ea1766301530.webp\" /></p>\n<p><img alt=\"饺子02.webp\" src=\"https://wang618.cn/content/uploadfile/202512/3b1e1766301530.webp\" /></p>\n<p><img alt=\"饺子03.webp\" src=\"https://wang618.cn/content/uploadfile/202512/b9bc1766301530.webp\" /></p>",
+          "pub_date": "2025-12-21T15:21:05+08:00",
+          "updated_at": "2025-12-21T15:21:05+08:00",
+          "author": "旺东",
+          "site_name": "旺东自留地",
+          "site_url": "https://wang618.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+        },
+        {
           "title": "安装CodeBuddy领腾讯轻量",
           "link": "https://wang618.cn/codebuddy-huodong.html",
           "description": "<p>安装 CodeBuddy，即可免费领取 腾讯轻量应用服务器 一个月，配置 2核 2G 4M，还能以 99 元特惠价续费一年。截止日期：2025-12-31 活动链接：<a href=\"https://lighthouse.codebuddy.net/?fromSource=gwzcw.10213758.10213758.10213758&amp;utm_medium=cpc&amp;utm_id=gwzcw.10213758.10213758.10213758\">https://lighthouse.codebuddy.net/?fromSource=gwzcw.10213758.10213758.10213758&amp;utm_medium=cpc&amp;utm_id=gwzcw.10213758.10213758.10213758</a></p>\n<p><img alt=\"免费轻量应用服务器1.webp\" src=\"https://wang618.cn/content/uploadfile/202512/36b61765725812.webp\" /><br />\n<img alt=\"免费轻量应用服务器2.webp\" src=\"https://wang618.cn/content/uploadfile/202512/031f1765725812.webp\" /><br />\n<img alt=\"免费轻量应用服务器3.webp\" src=\"https://wang618.cn/content/uploadfile/202512/1b861765725812.webp\" /></p>",
@@ -1601,17 +1494,6 @@
           "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E8%92%B8%E9%85%92.mp4?sign=dX-V2FaNllfGySdLY3NKkO3uYIJ_LG0zebWbBKcspIA=:0\"></video>\n<p>上个月和邻居一同发酵的粮食，今天总算盼到了蒸酒的日子。20 斤粮食最终蒸馏出 8 斤 53 度的白酒，我们当即决定封坛封存，等十年后再开封品鉴这份沉淀的酒香。有趣的是，隔壁大哥姓贾，我们便打趣给这酒取名 “贾（假）酒”，倒添了几分趣味。庄主也特意赶来，为众人烹制了一道鲜香扑鼻的爆炒兔肉。工艺：半固态发酵、大曲浓香型、高粱 5 斤、小麦 5 斤、大米 4 斤、糯米 3 斤、玉米 3 斤</p>",
           "pub_date": "2025-10-13T21:15:15+08:00",
           "updated_at": "2025-10-13T21:15:15+08:00",
-          "author": "旺东",
-          "site_name": "旺东自留地",
-          "site_url": "https://wang618.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-        },
-        {
-          "title": "开晴炖味",
-          "link": "https://wang618.cn/kai-qing-dun-wei.html",
-          "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E9%93%81%E9%94%85%E4%B9%B1%E7%82%96.mp4?sign=t5vptQZXUxa_a8_1Qs2dl8TbaS30B50H8JKhmgo6Yvg=:0\"></video>\n<p>连遭十二日阴雨缠绵，今日总算盼得云开日朗。特意买来鲜嫩的走地鸡与紧实的黑猪肉，要以柴火铁锅炖出一锅好味。先将肉块下锅，小火慢煸出透亮油脂，再丢入葱姜与香料，瞬间爆出浓郁辛香。随即倒入啤酒，不添半滴水，任其与肉相拥。柴火温柔舔舐着锅底，锅内咕嘟声渐起，肉香混着麦香慢慢漫溢开来。耐心炖至汤汁浓稠，肉块裹着油亮红光，肉皮更是晶莹诱人。入口时，肉质的醇厚与柴火的烟火暖意交织，在舌尖层层释放，这走地鸡与黑猪肉的绝妙组合，把寻常家常的鲜美滋味，尽数炖得淋漓尽致。</p>",
-          "pub_date": "2025-10-13T16:30:18+08:00",
-          "updated_at": "2025-10-13T16:30:18+08:00",
           "author": "旺东",
           "site_name": "旺东自留地",
           "site_url": "https://wang618.cn/",
@@ -1878,6 +1760,124 @@
       ]
     },
     {
+      "name": "黑石博客",
+      "url": "https://heson.me/",
+      "avatar": "https://cdn.xiaoten.com/friends/heson.webp",
+      "feed_url": "https://heson.me/feed",
+      "posts": [
+        {
+          "title": "关于Windows11激活",
+          "link": "https://heson.me/dowhat/49.html",
+          "description": "蹲了2个月的电脑配件好价，这次双十一终于全部攒齐了，具体配置及价格详见➡️ 《我的电脑配置及外设【完结】》 在Windows官网上下了个多版本的Windows11，之前都喜欢安装专业版，但这次给...",
+          "pub_date": "2025-10-27T11:39:00+08:00",
+          "updated_at": "2025-10-27T11:39:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
+        },
+        {
+          "title": "记录一次memo的调用",
+          "link": "https://heson.me/dowhat/47.html",
+          "description": "基本不怎么在微信发朋友圈的我，但最喜欢在博客发动态。所以哔哔、闪念、说说、胶囊诸如此类的，是我博客必备的功能。奈何cuteen原生的闪念功能虽然简单，但就是太简单了，不能发图片。所以我决定把me...",
+          "pub_date": "2025-10-10T08:54:00+08:00",
+          "updated_at": "2025-10-10T08:54:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
+        },
+        {
+          "title": "在NAS上搭建私有云音乐",
+          "link": "https://heson.me/dowhat/35.html",
+          "description": "QQ音乐会员 我看谁还充，反正我是不充了。来看看下面这个方案：[card title=\"免费私有云音乐方案\" color=\"success\"]🎵下载：LX Music(洛雪音乐)：一款免费开源的...",
+          "pub_date": "2025-09-26T11:34:00+08:00",
+          "updated_at": "2025-09-26T11:34:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
+        },
+        {
+          "title": "天钡wtr pro 5825u上手体验",
+          "link": "https://heson.me/dowhat/33.html",
+          "description": "天钡wtr pro 5825u（物理机飞牛os）是我现在正在用的nas服务器。这个博客就搭在它上面。由来之前一直关注n150的nas消息，偶然一天问nas群友n150推荐机型：看了一下外观和配置...",
+          "pub_date": "2025-09-23T10:44:00+08:00",
+          "updated_at": "2025-09-23T10:44:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
+        },
+        {
+          "title": "深度思考：决定你命运的核心能力",
+          "link": "https://heson.me/life/25.html",
+          "description": "[card title=\"推荐理由\" color=\"info\"]真正改变命运的是独立、深刻地思考问题的能力。[/card]深度思考：决定你命运的核心能力看透本质与看不清本质的人，注定拥有不同的命...",
+          "pub_date": "2025-09-22T08:42:00+08:00",
+          "updated_at": "2025-09-22T08:42:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
+        },
+        {
+          "title": "装修记——自装的150天",
+          "link": "https://heson.me/life/15.html",
+          "description": "第一次装修时，我把全部事情都交给了装修公司。每平米998元，总共花了二十多万，当时还以为占了便宜。刚装完的时候看着还行，颜色和材料都是自己选的。但现在回想起来，他们用的都是商家特供的渠道货，样式...",
+          "pub_date": "2025-09-11T09:14:00+08:00",
+          "updated_at": "2025-09-11T09:14:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
+        },
+        {
+          "title": "那些年的友情链接，还在闪闪发光",
+          "link": "https://heson.me/life/10.html",
+          "description": "[audio src=\"https://heson.me/music/%E6%9E%97%E5%BF%97%E7%82%AB-%E5%87%A4%E5%87%B0%E8%8A%B1%E5%BC%...",
+          "pub_date": "2025-09-06T10:20:00+08:00",
+          "updated_at": "2025-09-06T10:20:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
+        },
+        {
+          "title": "童年第一台急先锋电脑到如今NAS服务器的搭建",
+          "link": "https://heson.me/life/6.html",
+          "description": "童年的“折腾基因”启蒙第一台电脑的“开箱记忆”2001 年的夏天，拨号上网的“滴滴嘟嘟”声还在楼道里此起彼伏，Windows 98 的蓝天白云桌面是大多数家庭电脑的标配。五年级的我放学回家，看见...",
+          "pub_date": "2025-09-04T16:10:00+08:00",
+          "updated_at": "2025-09-04T16:10:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
+        },
+        {
+          "title": "战地风云 6 预购记：一场关于热爱与时光的独白​",
+          "link": "https://heson.me/life/4.html",
+          "description": "鼠标最终还是点下了 “[RainBowText]确认预购[/RainBowText]” 的按钮，屏幕上跳出《战地风云 6》魅影版的订单页面时，我竟莫名愣了几秒。指尖还残留着鼠标按键的微弱触感，心...",
+          "pub_date": "2025-09-02T11:16:00+08:00",
+          "updated_at": "2025-09-02T11:16:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
+        },
+        {
+          "title": "我的电脑配置及外设【完结】",
+          "link": "https://heson.me/dowhat/3.html",
+          "description": "需求首先确定显示器，红米g pro27u，一款4k160和1k300的双模显示器，带电视和小爱同学。因为我这台电脑是放在客厅岛台上的，所以电视功能可拓展客厅功能，同时全屋小米智能，非常有必要在电...",
+          "pub_date": "2025-09-02T07:15:00+08:00",
+          "updated_at": "2025-09-02T07:15:00+08:00",
+          "author": "HESON",
+          "site_name": "黑石博客",
+          "site_url": "https://heson.me/",
+          "avatar": "https://cdn.xiaoten.com/friends/heson.webp"
+        }
+      ]
+    },
+    {
       "name": "目的地-Destination",
       "url": "https://chrison.cn/",
       "avatar": "https://cdn.xiaoten.com/friends/Destination.png",
@@ -1976,11 +1976,11 @@
       "feed_url": "https://bluehe.cn/feed",
       "posts": [
         {
-          "title": "当城市开始变暖：逛青秀山菊展",
-          "link": "https://bluehe.cn/archives/qxs-chrys-photo",
-          "description": "12月14日，这是今年第三次来到青秀山了，受同学邀约，四人同行，两男两女一同骑着小电驴抵达青秀山东门，此时道路已经挤满了小车，而我们在两车之间，灵活的抵达停车点。入口处是三角梅，因为前几天下雨降...",
-          "pub_date": "2025-12-18T23:32:00+08:00",
-          "updated_at": "2025-12-18T23:32:00+08:00",
+          "title": "2025：从草稿箱到收件箱",
+          "link": "https://bluehe.cn/archives/2025-written-here",
+          "description": "距离2026年还有11天，还没有完完全全写过年度总结类似的文章，或许自认为还没有那么多可描述的。从2016年开始认识虚拟主机，但真正的开始是2022年2月14日第一个ICP备案，到如今总计140...",
+          "pub_date": "2025-12-21T18:06:00+08:00",
+          "updated_at": "2025-12-21T18:06:00+08:00",
           "author": "寻鹤",
           "site_name": "云心怀鹤",
           "site_url": "https://bluehe.cn/",
@@ -2331,6 +2331,91 @@
           "site_name": "从良未遂",
           "site_url": "https://www.jeffer.xyz/",
           "avatar": "https://cdn.xiaoten.com/friends/jeffer.jpg"
+        }
+      ]
+    },
+    {
+      "name": "枋柚梓",
+      "url": "https://inkss.cn/",
+      "avatar": "https://cdn.xiaoten.com/friends/inkss.avif",
+      "feed_url": "https://inkss.cn/feed",
+      "posts": [
+        {
+          "title": "极空间 NAS：SSH 高阶玩法实践",
+          "link": "https://inkss.cn/post/3af25609/",
+          "description": "以极空间 Z4Pro+ 性能版为例，其 CPU 为 N355，配备 16GB DDR5 内存。若仅作为 NAS 存储使用，性能略显冗余，因此是时候尝试开启 SSH，以探索更多玩法。",
+          "pub_date": "2025-09-11T13:40:00+08:00",
+          "updated_at": "2025-11-15T11:20:00+08:00",
+          "author": "",
+          "site_name": "枋柚梓",
+          "site_url": "https://inkss.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
+        },
+        {
+          "title": "Umami 3.0 升级实录：1Panel 下数据库迁移至 PostgreSQL",
+          "link": "https://inkss.cn/post/bbad9898/",
+          "description": "本文详解如何在 1Panel 面板下将 Umami 从 MySQL/MariaDB 平滑迁移至 PostgreSQL，并升级至 3.0 版本。涵盖备份、数据转换、容器配置及常见坑点，适用于 Docker 部署环境，助力用户顺利完成数据库迁移与版本升级。",
+          "pub_date": "2025-11-12T12:48:00+08:00",
+          "updated_at": "2025-11-12T12:48:00+08:00",
+          "author": "",
+          "site_name": "枋柚梓",
+          "site_url": "https://inkss.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
+        },
+        {
+          "title": "腾讯云 EdgeOne 使用指南：配置、加速与安全优化",
+          "link": "https://inkss.cn/post/4a1a172a/",
+          "description": "本文分享腾讯云 EdgeOne 三个月使用心得，涵盖免费版 / 付费版套餐选择技巧（首单优惠、会员续费攻略）、域名接入（DNSPod 托管、CNAME 接入注意事项）、IPv6 回源配置、安全防护（Web 防护规则、防盗链）、站点加速（CORS 设置、边缘函数应用）等实战内容，帮助用户高效使用 EdgeOne 实现全球加速与内网服务访问。",
+          "pub_date": "2025-10-21T10:00:00+08:00",
+          "updated_at": "2025-11-10T08:05:00+08:00",
+          "author": "",
+          "site_name": "枋柚梓",
+          "site_url": "https://inkss.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
+        },
+        {
+          "title": "米家中枢自动化极客版案例分享",
+          "link": "https://inkss.cn/post/430ddf15/",
+          "description": "本文分享米家中枢自动化极客版的多个应用案例，包括双开无线开关按键模拟、水暖毯睡眠模式模拟、动态延时关灯开灯、摄像机位置修正、传统设备接入米家等，还涉及离家和入睡状态的判断与联动控制，提供设计思路与实际应用参考。",
+          "pub_date": "2025-08-10T11:50:00+08:00",
+          "updated_at": "2025-10-15T17:00:00+08:00",
+          "author": "",
+          "site_name": "枋柚梓",
+          "site_url": "https://inkss.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
+        },
+        {
+          "title": "极空间防火墙配置避坑：IPv6 地址丢失（DHCPv6）教程",
+          "link": "https://inkss.cn/post/f2d9f349/",
+          "description": "极空间系统新增防火墙功能后，实现了设备级网络访问管控，为公网环境下的安全配置提供了更精细化的选项。然而，由于底层规则设置过于粗糙，实际配置过程中出现设备 IPv6 地址异常丢失的问题。",
+          "pub_date": "2025-09-05T15:07:00+08:00",
+          "updated_at": "2025-09-11T07:23:00+08:00",
+          "author": "",
+          "site_name": "枋柚梓",
+          "site_url": "https://inkss.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
+        },
+        {
+          "title": "庐山旅行攻略",
+          "link": "https://inkss.cn/post/e600275d/",
+          "description": "2025 庐山 3 天 2 晚旅行攻略：交通住宿清单 + 东线西线游玩指南",
+          "pub_date": "2025-08-23T09:28:00+08:00",
+          "updated_at": "2025-08-23T09:28:00+08:00",
+          "author": "",
+          "site_name": "枋柚梓",
+          "site_url": "https://inkss.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
+        },
+        {
+          "title": "1Panel + MariaDB 安装 Umami 报错实录：问题分析与解决方案",
+          "link": "https://inkss.cn/post/9eba8252/",
+          "description": "本文详细介绍在 1Panel 面板中使用 MariaDB 安装 Umami 的完整步骤，解决数据库连接失败和迁移报错问题，实现无 MySQL 数据只有 MariaDB 数据库的 Umami 安装。",
+          "pub_date": "2025-08-19T09:20:00+08:00",
+          "updated_at": "2025-08-19T09:20:00+08:00",
+          "author": "",
+          "site_name": "枋柚梓",
+          "site_url": "https://inkss.cn/",
+          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
         }
       ]
     },
@@ -2706,91 +2791,6 @@
       ]
     },
     {
-      "name": "枋柚梓",
-      "url": "https://inkss.cn/",
-      "avatar": "https://cdn.xiaoten.com/friends/inkss.avif",
-      "feed_url": "https://inkss.cn/feed",
-      "posts": [
-        {
-          "title": "极空间 NAS：SSH 高阶玩法实践",
-          "link": "https://inkss.cn/post/3af25609/",
-          "description": "以极空间 Z4Pro+ 性能版为例，其 CPU 为 N355，配备 16GB DDR5 内存。若仅作为 NAS 存储使用，性能略显冗余，因此是时候尝试开启 SSH，以探索更多玩法。",
-          "pub_date": "2025-09-11T13:40:00+08:00",
-          "updated_at": "2025-11-15T11:20:00+08:00",
-          "author": "",
-          "site_name": "枋柚梓",
-          "site_url": "https://inkss.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        },
-        {
-          "title": "Umami 3.0 升级实录：1Panel 下数据库迁移至 PostgreSQL",
-          "link": "https://inkss.cn/post/bbad9898/",
-          "description": "本文详解如何在 1Panel 面板下将 Umami 从 MySQL/MariaDB 平滑迁移至 PostgreSQL，并升级至 3.0 版本。涵盖备份、数据转换、容器配置及常见坑点，适用于 Docker 部署环境，助力用户顺利完成数据库迁移与版本升级。",
-          "pub_date": "2025-11-12T12:48:00+08:00",
-          "updated_at": "2025-11-12T12:48:00+08:00",
-          "author": "",
-          "site_name": "枋柚梓",
-          "site_url": "https://inkss.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        },
-        {
-          "title": "腾讯云 EdgeOne 使用指南：配置、加速与安全优化",
-          "link": "https://inkss.cn/post/4a1a172a/",
-          "description": "本文分享腾讯云 EdgeOne 三个月使用心得，涵盖免费版 / 付费版套餐选择技巧（首单优惠、会员续费攻略）、域名接入（DNSPod 托管、CNAME 接入注意事项）、IPv6 回源配置、安全防护（Web 防护规则、防盗链）、站点加速（CORS 设置、边缘函数应用）等实战内容，帮助用户高效使用 EdgeOne 实现全球加速与内网服务访问。",
-          "pub_date": "2025-10-21T10:00:00+08:00",
-          "updated_at": "2025-11-10T08:05:00+08:00",
-          "author": "",
-          "site_name": "枋柚梓",
-          "site_url": "https://inkss.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        },
-        {
-          "title": "米家中枢自动化极客版案例分享",
-          "link": "https://inkss.cn/post/430ddf15/",
-          "description": "本文分享米家中枢自动化极客版的多个应用案例，包括双开无线开关按键模拟、水暖毯睡眠模式模拟、动态延时关灯开灯、摄像机位置修正、传统设备接入米家等，还涉及离家和入睡状态的判断与联动控制，提供设计思路与实际应用参考。",
-          "pub_date": "2025-08-10T11:50:00+08:00",
-          "updated_at": "2025-10-15T17:00:00+08:00",
-          "author": "",
-          "site_name": "枋柚梓",
-          "site_url": "https://inkss.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        },
-        {
-          "title": "极空间防火墙配置避坑：IPv6 地址丢失（DHCPv6）教程",
-          "link": "https://inkss.cn/post/f2d9f349/",
-          "description": "极空间系统新增防火墙功能后，实现了设备级网络访问管控，为公网环境下的安全配置提供了更精细化的选项。然而，由于底层规则设置过于粗糙，实际配置过程中出现设备 IPv6 地址异常丢失的问题。",
-          "pub_date": "2025-09-05T15:07:00+08:00",
-          "updated_at": "2025-09-11T07:23:00+08:00",
-          "author": "",
-          "site_name": "枋柚梓",
-          "site_url": "https://inkss.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        },
-        {
-          "title": "庐山旅行攻略",
-          "link": "https://inkss.cn/post/e600275d/",
-          "description": "2025 庐山 3 天 2 晚旅行攻略：交通住宿清单 + 东线西线游玩指南",
-          "pub_date": "2025-08-23T09:28:00+08:00",
-          "updated_at": "2025-08-23T09:28:00+08:00",
-          "author": "",
-          "site_name": "枋柚梓",
-          "site_url": "https://inkss.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        },
-        {
-          "title": "1Panel + MariaDB 安装 Umami 报错实录：问题分析与解决方案",
-          "link": "https://inkss.cn/post/9eba8252/",
-          "description": "本文详细介绍在 1Panel 面板中使用 MariaDB 安装 Umami 的完整步骤，解决数据库连接失败和迁移报错问题，实现无 MySQL 数据只有 MariaDB 数据库的 Umami 安装。",
-          "pub_date": "2025-08-19T09:20:00+08:00",
-          "updated_at": "2025-08-19T09:20:00+08:00",
-          "author": "",
-          "site_name": "枋柚梓",
-          "site_url": "https://inkss.cn/",
-          "avatar": "https://cdn.xiaoten.com/friends/inkss.avif"
-        }
-      ]
-    },
-    {
       "name": "Hello Alili",
       "url": "https://alili.tech/",
       "avatar": "https://cdn.xiaoten.com/friends/alili.png",
@@ -3100,6 +3100,109 @@
       ]
     },
     {
+      "name": "竹炉山房",
+      "url": "https://synyan.cn/t/",
+      "avatar": "https://cdn.xiaoten.com/friends/synyan.webp",
+      "feed_url": "https://synyan.cn/t/feed/atom",
+      "posts": [
+        {
+          "title": "电影生涯喜好表",
+          "link": "https://synyan.cn/t/59302",
+          "description": "看到大致发的电影生涯喜好表，没忍住点进去开始填，以为五分钟的事，谁知道是个大坑，搞了有两个多小时，主要原因很多 [&#8230;]",
+          "pub_date": "2025-12-17T08:55:30+08:00",
+          "updated_at": "2025-12-19T06:46:31+08:00",
+          "author": "S",
+          "site_name": "竹炉山房",
+          "site_url": "https://synyan.cn/t/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "光伏奶茶联姻",
+          "link": "https://synyan.cn/t/59271",
+          "description": "昨日天合光能高海纯和霸王茶姬张纪凡在常州结婚。 “草根光伏”点评：您每买一杯奶茶都是对光伏事业的巨大支持。 网 [&#8230;]",
+          "pub_date": "2025-12-16T01:59:55+08:00",
+          "updated_at": "2025-12-16T02:31:54+08:00",
+          "author": "S",
+          "site_name": "竹炉山房",
+          "site_url": "https://synyan.cn/t/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "FootprintMap",
+          "link": "https://synyan.cn/t/58552",
+          "description": "距离上回折腾Leaflet Map过去了两个半月。近日发现一位青年才俊博主小十制作了一款基于高德的免费跨平台足 [&#8230;]",
+          "pub_date": "2025-11-26T15:36:13+08:00",
+          "updated_at": "2025-12-13T03:28:49+08:00",
+          "author": "S",
+          "site_name": "竹炉山房",
+          "site_url": "https://synyan.cn/t/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "师母已呆",
+          "link": "https://synyan.cn/t/58707",
+          "description": "四季度省公司来了个天津的领导，一副颐指气使的腔调，把大伙儿都往死里搞，像分公司的项目都是报了被退再报，有胆小的 [&#8230;]",
+          "pub_date": "2025-12-05T09:39:28+08:00",
+          "updated_at": "2025-12-05T09:39:29+08:00",
+          "author": "S",
+          "site_name": "竹炉山房",
+          "site_url": "https://synyan.cn/t/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "macOS截屏默认文件名修改",
+          "link": "https://synyan.cn/t/58695",
+          "description": "需求：把“截屏”默认改为“scn-”，把日期和时间中间的空格改成“-”。 代码： # 修改截屏文件名前缀为&#038;q [&#8230;]",
+          "pub_date": "2025-12-02T02:28:13+08:00",
+          "updated_at": "2025-12-02T02:44:55+08:00",
+          "author": "S",
+          "site_name": "竹炉山房",
+          "site_url": "https://synyan.cn/t/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "WordPress仪表盘默认显示宽幅评论",
+          "link": "https://synyan.cn/t/58681",
+          "description": "目前WordPress的仪表盘显示的评论功能不全，想自己做一个宽幅评论组件，这样每次登录后就很直观地可以查看和 [&#8230;]",
+          "pub_date": "2025-12-02T01:57:52+08:00",
+          "updated_at": "2025-12-02T02:10:15+08:00",
+          "author": "S",
+          "site_name": "竹炉山房",
+          "site_url": "https://synyan.cn/t/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "Tamron 16-30mm F2.8 Di III VXD G2",
+          "link": "https://synyan.cn/t/58578",
+          "description": "7月份去浙江旅游前入手了一枚原厂Nikkor Z 14-30mm F4 S，但由于一枚不干胶贴退货了。文末说： [&#8230;]",
+          "pub_date": "2025-11-28T08:40:37+08:00",
+          "updated_at": "2025-11-28T11:33:03+08:00",
+          "author": "S",
+          "site_name": "竹炉山房",
+          "site_url": "https://synyan.cn/t/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        },
+        {
+          "title": "童年de欢乐：三丽鸥Sanrio K70-B",
+          "link": "https://synyan.cn/t/58514",
+          "description": "娃最近经常抢我的相机玩，本周末打算出去拍秋景，更是担心宝贝相机遭了毒手。 想起五年前曾在震泽看到小女孩在玩儿童 [&#8230;]",
+          "pub_date": "2025-11-20T07:46:59+08:00",
+          "updated_at": "2025-11-20T08:01:13+08:00",
+          "author": "S",
+          "site_name": "竹炉山房",
+          "site_url": "https://synyan.cn/t/",
+          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
+        }
+      ]
+    },
+    {
+      "name": "空白Koobai",
+      "url": "https://koobai.com/",
+      "avatar": "https://cdn.xiaoten.com/friends/koobai.webp",
+      "feed_url": "https://koobai.com/index.xml",
+      "posts": []
+    },
+    {
       "name": "小十博客",
       "url": "https://www.xiaoten.com/",
       "avatar": "https://www.xiaoten.com/avatar.png",
@@ -3196,7 +3299,7 @@
         {
           "title": "解决 Hugo 分页器返回空页面的诡异问题：.Paginate 不能被多次调用",
           "link": "https://www.xiaoten.com/posts/2025/11/fixing-hugo-pagination-paginate-called-multiple-times-issue/",
-          "description": "<h2 id=\"问题背景\">问题背景</h2>\n<p>在将博客的文章列表从 JavaScript 分页迁移到 Hugo 官方分页时，遇到了一个非常诡异的问题：</p>\n<ul>\n<li>✅ Hugo 构建成功，显示生成了 42 个分页页面</li>\n<li>✅ <code>.RegularPages</code> 有 360 篇文章</li>\n<li>✅ 直接 <code>range .RegularPages</code> 可以正常显示文章</li>\n<li>❌ 但是 <code>.Paginator.Pages</code> 始终返回 0</li>\n</ul>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-html\"><span class=\"line\"><span class=\"cl\">{{/* 这样可以看到 360 篇文章 */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ range .RegularPages }}\n</span></span><span class=\"line\"><span class=\"cl\"> {{ .Title }}\n</span></span><span class=\"line\"><span class=\"cl\">{{ end }}\n</span></span><span class=\"line\"><span class=\"cl\">\n</span></span><span class=\"line\"><span class=\"cl\">{{/* 但分页器是空的！ */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ $paginator := .Paginator }}\n</span></span><span class=\"line\"><span class=\"cl\">分页器中的文章数: {{ len $paginator.Pages }} {{/* 输出：0 */}}\n</span></span></code></pre></div><h2 id=\"排查过程\">排查过程</h2>\n<h3 id=\"第一步检查配置\">第一步：检查配置</h3>\n<p>首先怀疑是配置问题。Hugo v0.128+ 的分页配置格式发生了变化：</p>",
+          "description": "<h2 id=\"问题背景\">问题背景</h2>\n<p>在将博客的文章列表从 JavaScript 分页迁移到 Hugo 官方分页时，遇到了一个非常诡异的问题：</p>\n<ul>\n<li>✅ Hugo 构建成功，显示生成了 42 个分页页面</li>\n<li>✅ <code>.RegularPages</code> 有 360 篇文章</li>\n<li>✅ 直接 <code>range .RegularPages</code> 可以正常显示文章</li>\n<li>❌ 但是 <code>.Paginator.Pages</code> 始终返回 0</li>\n</ul>\n<div class=\"codeblock-container\">\n<div class=\"codeblock\">\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-html\"><span class=\"line\"><span class=\"cl\">{{/* 这样可以看到 360 篇文章 */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ range .RegularPages }}\n</span></span><span class=\"line\"><span class=\"cl\"> {{ .Title }}\n</span></span><span class=\"line\"><span class=\"cl\">{{ end }}\n</span></span><span class=\"line\"><span class=\"cl\">\n</span></span><span class=\"line\"><span class=\"cl\">{{/* 但分页器是空的！ */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ $paginator := .Paginator }}\n</span></span><span class=\"line\"><span class=\"cl\">分页器中的文章数: {{ len $paginator.Pages }} {{/* 输出：0 */}}</span></span></code></pre></div>\n<div class=\"codeblock__remain\"><span>剩余 3 行代码</span></div>\n</div>\n<div class=\"codeblock__actions\">\n<button class=\"codeblock__toggle\" hidden=\"hidden\" type=\"button\">展开剩余代码</button>\n</div>\n</div><h2 id=\"排查过程\">排查过程</h2>\n<h3 id=\"第一步检查配置\">第一步：检查配置</h3>\n<p>首先怀疑是配置问题。Hugo v0.128+ 的分页配置格式发生了变化：</p>",
           "pub_date": "2025-11-16T19:30:00+08:00",
           "updated_at": "2025-11-16T19:30:00+08:00",
           "author": "",
@@ -3328,7 +3431,7 @@
         {
           "title": "PVE从8升级到9",
           "link": "https://www.xiaoten.com/posts/2025/08/pve-upgrade-from-8-to-9/",
-          "description": "<p>今天完成了Proxmox Virtual Environment 从8升级到9。</p>\n<h3 id=\"升级前准备\">升级前准备</h3>\n<p>确保您的所有节点都已升级到 Proxmox VE 8.4 的最新版本。</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">apt update <span class=\"o\">&amp;&amp;</span> apt dist-upgrade\n</span></span><span class=\"line\"><span class=\"cl\">pveversion\n</span></span></code></pre></div><h3 id=\"检查是否满足升级条件\">检查是否满足升级条件</h3>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9\n</span></span></code></pre></div><p>或</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9 --full\n</span></span></code></pre></div><p>需要 ·SUMMARY· 里没有警错误才能执行升级</p>",
+          "description": "<p>今天完成了Proxmox Virtual Environment 从8升级到9。</p>\n<h3 id=\"升级前准备\">升级前准备</h3>\n<p>确保您的所有节点都已升级到 Proxmox VE 8.4 的最新版本。</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">apt update <span class=\"o\">&amp;&amp;</span> apt dist-upgrade\n</span></span><span class=\"line\"><span class=\"cl\">pveversion</span></span></code></pre></div><h3 id=\"检查是否满足升级条件\">检查是否满足升级条件</h3>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9</span></span></code></pre></div><p>或</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9 --full</span></span></code></pre></div><p>需要 ·SUMMARY· 里没有警错误才能执行升级</p>",
           "pub_date": "2025-08-10T18:07:20+08:00",
           "updated_at": "2025-08-10T18:07:20+08:00",
           "author": "",
@@ -3337,109 +3440,6 @@
           "avatar": "https://www.xiaoten.com/avatar.png"
         }
       ]
-    },
-    {
-      "name": "竹炉山房",
-      "url": "https://synyan.cn/t/",
-      "avatar": "https://cdn.xiaoten.com/friends/synyan.webp",
-      "feed_url": "https://synyan.cn/t/feed/atom",
-      "posts": [
-        {
-          "title": "电影生涯喜好表",
-          "link": "https://synyan.cn/t/59302",
-          "description": "看到大致发的电影生涯喜好表，没忍住点进去开始填，以为五分钟的事，谁知道是个大坑，搞了有两个多小时，主要原因很多 [&#8230;]",
-          "pub_date": "2025-12-17T08:55:30+08:00",
-          "updated_at": "2025-12-19T06:46:31+08:00",
-          "author": "S",
-          "site_name": "竹炉山房",
-          "site_url": "https://synyan.cn/t/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "光伏奶茶联姻",
-          "link": "https://synyan.cn/t/59271",
-          "description": "昨日天合光能高海纯和霸王茶姬张纪凡在常州结婚。 “草根光伏”点评：您每买一杯奶茶都是对光伏事业的巨大支持。 网 [&#8230;]",
-          "pub_date": "2025-12-16T01:59:55+08:00",
-          "updated_at": "2025-12-16T02:31:54+08:00",
-          "author": "S",
-          "site_name": "竹炉山房",
-          "site_url": "https://synyan.cn/t/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "FootprintMap",
-          "link": "https://synyan.cn/t/58552",
-          "description": "距离上回折腾Leaflet Map过去了两个半月。近日发现一位青年才俊博主小十制作了一款基于高德的免费跨平台足 [&#8230;]",
-          "pub_date": "2025-11-26T15:36:13+08:00",
-          "updated_at": "2025-12-13T03:28:49+08:00",
-          "author": "S",
-          "site_name": "竹炉山房",
-          "site_url": "https://synyan.cn/t/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "师母已呆",
-          "link": "https://synyan.cn/t/58707",
-          "description": "四季度省公司来了个天津的领导，一副颐指气使的腔调，把大伙儿都往死里搞，像分公司的项目都是报了被退再报，有胆小的 [&#8230;]",
-          "pub_date": "2025-12-05T09:39:28+08:00",
-          "updated_at": "2025-12-05T09:39:29+08:00",
-          "author": "S",
-          "site_name": "竹炉山房",
-          "site_url": "https://synyan.cn/t/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "macOS截屏默认文件名修改",
-          "link": "https://synyan.cn/t/58695",
-          "description": "需求：把“截屏”默认改为“scn-”，把日期和时间中间的空格改成“-”。 代码： # 修改截屏文件名前缀为&#038;q [&#8230;]",
-          "pub_date": "2025-12-02T02:28:13+08:00",
-          "updated_at": "2025-12-02T02:44:55+08:00",
-          "author": "S",
-          "site_name": "竹炉山房",
-          "site_url": "https://synyan.cn/t/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "WordPress仪表盘默认显示宽幅评论",
-          "link": "https://synyan.cn/t/58681",
-          "description": "目前WordPress的仪表盘显示的评论功能不全，想自己做一个宽幅评论组件，这样每次登录后就很直观地可以查看和 [&#8230;]",
-          "pub_date": "2025-12-02T01:57:52+08:00",
-          "updated_at": "2025-12-02T02:10:15+08:00",
-          "author": "S",
-          "site_name": "竹炉山房",
-          "site_url": "https://synyan.cn/t/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "Tamron 16-30mm F2.8 Di III VXD G2",
-          "link": "https://synyan.cn/t/58578",
-          "description": "7月份去浙江旅游前入手了一枚原厂Nikkor Z 14-30mm F4 S，但由于一枚不干胶贴退货了。文末说： [&#8230;]",
-          "pub_date": "2025-11-28T08:40:37+08:00",
-          "updated_at": "2025-11-28T11:33:03+08:00",
-          "author": "S",
-          "site_name": "竹炉山房",
-          "site_url": "https://synyan.cn/t/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        },
-        {
-          "title": "童年de欢乐：三丽鸥Sanrio K70-B",
-          "link": "https://synyan.cn/t/58514",
-          "description": "娃最近经常抢我的相机玩，本周末打算出去拍秋景，更是担心宝贝相机遭了毒手。 想起五年前曾在震泽看到小女孩在玩儿童 [&#8230;]",
-          "pub_date": "2025-11-20T07:46:59+08:00",
-          "updated_at": "2025-11-20T08:01:13+08:00",
-          "author": "S",
-          "site_name": "竹炉山房",
-          "site_url": "https://synyan.cn/t/",
-          "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
-        }
-      ]
-    },
-    {
-      "name": "空白Koobai",
-      "url": "https://koobai.com/",
-      "avatar": "https://cdn.xiaoten.com/friends/koobai.webp",
-      "feed_url": "https://koobai.com/index.xml",
-      "posts": []
     },
     {
       "name": "友人C",
@@ -3495,6 +3495,28 @@
     }
   ],
   "all_posts": [
+    {
+      "title": "2025：从草稿箱到收件箱",
+      "link": "https://bluehe.cn/archives/2025-written-here",
+      "description": "距离2026年还有11天，还没有完完全全写过年度总结类似的文章，或许自认为还没有那么多可描述的。从2016年开始认识虚拟主机，但真正的开始是2022年2月14日第一个ICP备案，到如今总计140...",
+      "pub_date": "2025-12-21T18:06:00+08:00",
+      "updated_at": "2025-12-21T18:06:00+08:00",
+      "author": "寻鹤",
+      "site_name": "云心怀鹤",
+      "site_url": "https://bluehe.cn/",
+      "avatar": "https://cdn.xiaoten.com/friends/bluehe.png"
+    },
+    {
+      "title": "懒冬饺酒闲情",
+      "link": "https://wang618.cn/lan-dong-jiao-jiu-xian-qing.html",
+      "description": "<p>冬至如约而至，耳边又响起那句“冬至不端饺子碗，冻掉耳朵没人管”的老话。偷了个懒没下厨，外卖饺子配双合盛啤酒，一口暖食一口酒，这个冬节，舒服又圆满～</p>\n<p><img alt=\"饺子01.webp\" src=\"https://wang618.cn/content/uploadfile/202512/e0ea1766301530.webp\" /></p>\n<p><img alt=\"饺子02.webp\" src=\"https://wang618.cn/content/uploadfile/202512/3b1e1766301530.webp\" /></p>\n<p><img alt=\"饺子03.webp\" src=\"https://wang618.cn/content/uploadfile/202512/b9bc1766301530.webp\" /></p>",
+      "pub_date": "2025-12-21T15:21:05+08:00",
+      "updated_at": "2025-12-21T15:21:05+08:00",
+      "author": "旺东",
+      "site_name": "旺东自留地",
+      "site_url": "https://wang618.cn/",
+      "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
+    },
     {
       "title": "Hugo侧边目录实现：页面双列布局+Sticky+ScrollSpy高亮",
       "link": "https://www.xiaoten.com/posts/2025/12/hugo-toc-sidebar-scrollspy/",
@@ -3560,17 +3582,6 @@
       "site_name": "Jame",
       "site_url": "https://jame.work",
       "avatar": "https://cdn.xiaoten.com/friends/jame.ico"
-    },
-    {
-      "title": "当城市开始变暖：逛青秀山菊展",
-      "link": "https://bluehe.cn/archives/qxs-chrys-photo",
-      "description": "12月14日，这是今年第三次来到青秀山了，受同学邀约，四人同行，两男两女一同骑着小电驴抵达青秀山东门，此时道路已经挤满了小车，而我们在两车之间，灵活的抵达停车点。入口处是三角梅，因为前几天下雨降...",
-      "pub_date": "2025-12-18T23:32:00+08:00",
-      "updated_at": "2025-12-18T23:32:00+08:00",
-      "author": "寻鹤",
-      "site_name": "云心怀鹤",
-      "site_url": "https://bluehe.cn/",
-      "avatar": "https://cdn.xiaoten.com/friends/bluehe.png"
     },
     {
       "title": "2025年度工作软件",
@@ -4587,7 +4598,7 @@
     {
       "title": "解决 Hugo 分页器返回空页面的诡异问题：.Paginate 不能被多次调用",
       "link": "https://www.xiaoten.com/posts/2025/11/fixing-hugo-pagination-paginate-called-multiple-times-issue/",
-      "description": "<h2 id=\"问题背景\">问题背景</h2>\n<p>在将博客的文章列表从 JavaScript 分页迁移到 Hugo 官方分页时，遇到了一个非常诡异的问题：</p>\n<ul>\n<li>✅ Hugo 构建成功，显示生成了 42 个分页页面</li>\n<li>✅ <code>.RegularPages</code> 有 360 篇文章</li>\n<li>✅ 直接 <code>range .RegularPages</code> 可以正常显示文章</li>\n<li>❌ 但是 <code>.Paginator.Pages</code> 始终返回 0</li>\n</ul>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-html\"><span class=\"line\"><span class=\"cl\">{{/* 这样可以看到 360 篇文章 */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ range .RegularPages }}\n</span></span><span class=\"line\"><span class=\"cl\"> {{ .Title }}\n</span></span><span class=\"line\"><span class=\"cl\">{{ end }}\n</span></span><span class=\"line\"><span class=\"cl\">\n</span></span><span class=\"line\"><span class=\"cl\">{{/* 但分页器是空的！ */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ $paginator := .Paginator }}\n</span></span><span class=\"line\"><span class=\"cl\">分页器中的文章数: {{ len $paginator.Pages }} {{/* 输出：0 */}}\n</span></span></code></pre></div><h2 id=\"排查过程\">排查过程</h2>\n<h3 id=\"第一步检查配置\">第一步：检查配置</h3>\n<p>首先怀疑是配置问题。Hugo v0.128+ 的分页配置格式发生了变化：</p>",
+      "description": "<h2 id=\"问题背景\">问题背景</h2>\n<p>在将博客的文章列表从 JavaScript 分页迁移到 Hugo 官方分页时，遇到了一个非常诡异的问题：</p>\n<ul>\n<li>✅ Hugo 构建成功，显示生成了 42 个分页页面</li>\n<li>✅ <code>.RegularPages</code> 有 360 篇文章</li>\n<li>✅ 直接 <code>range .RegularPages</code> 可以正常显示文章</li>\n<li>❌ 但是 <code>.Paginator.Pages</code> 始终返回 0</li>\n</ul>\n<div class=\"codeblock-container\">\n<div class=\"codeblock\">\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-html\"><span class=\"line\"><span class=\"cl\">{{/* 这样可以看到 360 篇文章 */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ range .RegularPages }}\n</span></span><span class=\"line\"><span class=\"cl\"> {{ .Title }}\n</span></span><span class=\"line\"><span class=\"cl\">{{ end }}\n</span></span><span class=\"line\"><span class=\"cl\">\n</span></span><span class=\"line\"><span class=\"cl\">{{/* 但分页器是空的！ */}}\n</span></span><span class=\"line\"><span class=\"cl\">{{ $paginator := .Paginator }}\n</span></span><span class=\"line\"><span class=\"cl\">分页器中的文章数: {{ len $paginator.Pages }} {{/* 输出：0 */}}</span></span></code></pre></div>\n<div class=\"codeblock__remain\"><span>剩余 3 行代码</span></div>\n</div>\n<div class=\"codeblock__actions\">\n<button class=\"codeblock__toggle\" hidden=\"hidden\" type=\"button\">展开剩余代码</button>\n</div>\n</div><h2 id=\"排查过程\">排查过程</h2>\n<h3 id=\"第一步检查配置\">第一步：检查配置</h3>\n<p>首先怀疑是配置问题。Hugo v0.128+ 的分页配置格式发生了变化：</p>",
       "pub_date": "2025-11-16T19:30:00+08:00",
       "updated_at": "2025-11-16T19:30:00+08:00",
       "author": "",
@@ -5696,17 +5707,6 @@
       "avatar": "https://cdn.xiaoten.com/friends/synyan.webp"
     },
     {
-      "title": "开晴炖味",
-      "link": "https://wang618.cn/kai-qing-dun-wei.html",
-      "description": "<video controls=\"controls\" preload=\"none\" src=\"https://file.wang618.cn/d/oss/video/%E9%93%81%E9%94%85%E4%B9%B1%E7%82%96.mp4?sign=t5vptQZXUxa_a8_1Qs2dl8TbaS30B50H8JKhmgo6Yvg=:0\"></video>\n<p>连遭十二日阴雨缠绵，今日总算盼得云开日朗。特意买来鲜嫩的走地鸡与紧实的黑猪肉，要以柴火铁锅炖出一锅好味。先将肉块下锅，小火慢煸出透亮油脂，再丢入葱姜与香料，瞬间爆出浓郁辛香。随即倒入啤酒，不添半滴水，任其与肉相拥。柴火温柔舔舐着锅底，锅内咕嘟声渐起，肉香混着麦香慢慢漫溢开来。耐心炖至汤汁浓稠，肉块裹着油亮红光，肉皮更是晶莹诱人。入口时，肉质的醇厚与柴火的烟火暖意交织，在舌尖层层释放，这走地鸡与黑猪肉的绝妙组合，把寻常家常的鲜美滋味，尽数炖得淋漓尽致。</p>",
-      "pub_date": "2025-10-13T16:30:18+08:00",
-      "updated_at": "2025-10-13T16:30:18+08:00",
-      "author": "旺东",
-      "site_name": "旺东自留地",
-      "site_url": "https://wang618.cn/",
-      "avatar": "https://cdn.xiaoten.com/friends/wang618.gif"
-    },
-    {
       "title": "狂风暴雨逐渐停止后的第二天正午",
       "link": "https://jame.work/html/post/28",
       "description": "<p>狂风暴雨逐渐停止后的第二天正午，天空一改昨日样貌，露出慈祥的面孔不再令人感到恐惧，昨夜能摧毁一切的乌云都如褪色般变成了和蔼的白云。疼痛和阳光唤醒了L，他一边不断摸索着脑袋来确认受伤的位置，一边撑起身体从船舱坐起，在淡淡血迹早已干涸的额头下，那双眼睛缓缓朝向四周遥望，映入他眼前的只有一片无边无际、永不停歇不断闪烁的大海。</p>\n<p>当租船处已经连续四天联系不上L，租船处老板的心思慢慢从最开始的担心变成了期望，期望L开着自己的那条船跑路了，并且永远不要回来，那条旧船的价值远不抵L留下的押金。傍晚时，老板坐在沙滩旁的棚子下喝着啤酒笑谈起这件事。</p>\n<p>而在此刻的大海上，即将落下的夕阳把整个海面染成金黄色。L从不信教，现在他却在胸前画起了十字架，比所见过的任何基督徒还要虔诚，他抬头看向天空无比虔诚地祈祷着。</p>\n<p>水和食物随着那段风暴一起消失，只剩下燃油耗尽的小船载着他在海面上随波逐流。脱水导致他意识发沉，迷人的景色也无心欣赏，L倚着船边，两只眼似睁又闭，一种强烈的预感——他预感到会有救援队找到他，或者睡一觉醒来就已经漂回陆地。海风舒缓吹拂，船帮不断拍打水面，击水声像一首摇篮曲，舒适的环境中L踏入了他的预感，他想着自己如何爬进救援人员的船只，或者回到陆地后给别人讲述自己所经历的这段故事。他的双眼渐渐合拢，悬着的心轻轻放下，仿佛已经听到了汽艇的发动机声和岸上人们的喧嚣。睡梦、幻想、清醒，在这三种状态交织的恍惚中，L听到了上帝的回应，那声音从遥远的海平线上传来，上帝嗓音的音调很低，低到听不清他在说些什么。只能听到上帝不断重复着一句话，L侧过脑袋仔细聆听：“没有上帝，没有救援队，一觉睡去便再不醒来。”</p>\n<p>仿佛这些遭遇都是这句话所带来的，刚刚所有的舒适和美好瞬间破灭，口渴难耐、干裂的嘴唇不断撕开皮肤、头顶撞击过的疼痛，这些不适一起袭来。而他能做的，只有静静地躺在这条小船之中，犹如这条小船只能静静地躺在这片大海之上。</p>",
@@ -6512,7 +6512,7 @@
     {
       "title": "PVE从8升级到9",
       "link": "https://www.xiaoten.com/posts/2025/08/pve-upgrade-from-8-to-9/",
-      "description": "<p>今天完成了Proxmox Virtual Environment 从8升级到9。</p>\n<h3 id=\"升级前准备\">升级前准备</h3>\n<p>确保您的所有节点都已升级到 Proxmox VE 8.4 的最新版本。</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">apt update <span class=\"o\">&amp;&amp;</span> apt dist-upgrade\n</span></span><span class=\"line\"><span class=\"cl\">pveversion\n</span></span></code></pre></div><h3 id=\"检查是否满足升级条件\">检查是否满足升级条件</h3>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9\n</span></span></code></pre></div><p>或</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9 --full\n</span></span></code></pre></div><p>需要 ·SUMMARY· 里没有警错误才能执行升级</p>",
+      "description": "<p>今天完成了Proxmox Virtual Environment 从8升级到9。</p>\n<h3 id=\"升级前准备\">升级前准备</h3>\n<p>确保您的所有节点都已升级到 Proxmox VE 8.4 的最新版本。</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">apt update <span class=\"o\">&amp;&amp;</span> apt dist-upgrade\n</span></span><span class=\"line\"><span class=\"cl\">pveversion</span></span></code></pre></div><h3 id=\"检查是否满足升级条件\">检查是否满足升级条件</h3>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9</span></span></code></pre></div><p>或</p>\n<div class=\"highlight\"><pre class=\"chroma\" tabindex=\"0\"><code class=\"language-shell\"><span class=\"line\"><span class=\"cl\">pve8to9 --full</span></span></code></pre></div><p>需要 ·SUMMARY· 里没有警错误才能执行升级</p>",
       "pub_date": "2025-08-10T18:07:20+08:00",
       "updated_at": "2025-08-10T18:07:20+08:00",
       "author": "",
